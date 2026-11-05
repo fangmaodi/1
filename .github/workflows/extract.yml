@@ -1,6 +1,9 @@
 name: Extract Upload
 on:
   workflow_dispatch:
+permissions:
+  contents: write
+  workflows: write
 jobs:
   extract:
     runs-on: ubuntu-latest
