@@ -12,9 +12,8 @@ jobs:
       - name: Extract zip and commit files
         run: |
           unzip -o iptv_auto.zip
-          shopt -s dotglob
-          mv iptv_auto/* .
-          rmdir iptv_auto
+          cp -r iptv_auto/. .
+          rm -rf iptv_auto
           rm -f iptv_auto.zip
           rm -f .github/workflows/extract.yml
           git config user.name "github-actions"
