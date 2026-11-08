@@ -1,111 +1,77 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="足球",【足球】澳超 阿德莱德联 vs 墨尔本胜利|线路A1
-https://www.rtmpcdn.com/live/be3283ab-1d2f-41d7-93bc-85f464568cc0.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 上海海港 vs 辽宁铁人|线路migu
-https://www.rtmpcdn.com/live/migu1.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 上海海港 vs 辽宁铁人|线路A2
-https://www.rtmpcdn.com/live/6005fa5f-f7ff-4752-80d0-216c4c1a6b7f.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 上海海港 vs 辽宁铁人|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498739_gqzm.m3u8?auth_key=1794126462-0-0-0d13bf475239afb0e5b1f8f039f0499b&token=92a05d88434a7dc5&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 上海海港 vs 辽宁铁人|线路C4
-https://spl.tiyucdn.com/matchlive/ls1923662_30fps.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 上海海港 vs 辽宁铁人|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498739_gqzm.m3u8?auth_key=1794127675-0-0-df091660eb63999b82763a5a7f709dac&token=0406fde0dd344211&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 上海海港 vs 辽宁铁人|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498739_gqzm.m3u8?auth_key=1794128287-0-0-451c78ba064fb29a485d3e5907a66c86&token=9ccf5005d9888020&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 上海申花 vs 青岛西海岸|线路migu
-https://www.rtmpcdn.com/live/migu2.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 上海申花 vs 青岛西海岸|线路A2
-https://www.rtmpcdn.com/live/e70544d6-ec6e-41a0-a82c-6d86f86a3cc6.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 上海申花 vs 青岛西海岸|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498741_gqzm.m3u8?auth_key=1794126215-0-0-5b70f5899b7da0460cd234a1f39d4d64&token=5170674810051dca&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 上海申花 vs 青岛西海岸|线路C4
-https://spl.tiyucdn.com/matchlive/ls1923663_30fps.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 上海申花 vs 青岛西海岸|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498741_gqzm.m3u8?auth_key=1794127429-0-0-d178fcd9b406404b9c169687c5d5029b&token=162917bac58bceb7&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 上海申花 vs 青岛西海岸|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498741_gqzm.m3u8?auth_key=1794128073-0-0-393e2cd9d09028220b5d0513ebe4332b&token=c1fc3624f59b88c6&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 云南玉昆 vs 武汉三镇|线路migu
-https://www.rtmpcdn.com/live/migu3.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 云南玉昆 vs 武汉三镇|线路A2
-https://www.rtmpcdn.com/live/058add56-0f95-4e09-9607-0cbb51bd15a7.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 云南玉昆 vs 武汉三镇|线路C4
-https://spl.tiyucdn.com/matchlive/ls1923664_30fps.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 云南玉昆 vs 武汉三镇|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4498742_gqzm.m3u8?auth_key=1794126642-0-0-5e2add679355826a461a8d8b57ec8770&token=4c6adb99a2afa26d&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 云南玉昆 vs 武汉三镇|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4498742_gqzm.m3u8?auth_key=1794127258-0-0-e4cc6c1ae46c9765fe9989feb795e788&token=6fa193e649705430&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 云南玉昆 vs 武汉三镇|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4498742_gqzm.m3u8?auth_key=1794128527-0-0-bb6f0433c913b725d9a0ba3f277f5ca0&token=63d68912fe7cde5f&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 北京国安 vs 重庆铜梁龙|线路migu
-https://www.rtmpcdn.com/live/migu4.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 北京国安 vs 重庆铜梁龙|线路A2
-https://www.rtmpcdn.com/live/a82108f5-7ae3-48cf-84e5-7e3b63e72491.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 北京国安 vs 重庆铜梁龙|线路C4
-https://spl.tiyucdn.com/matchlive/ls1923665_30fps.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 北京国安 vs 重庆铜梁龙|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498744_gqzm.m3u8?auth_key=1794126622-0-0-5e8d392020183af00492f81a85552bca&token=087bf11104869df4&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 北京国安 vs 重庆铜梁龙|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498744_gqzm.m3u8?auth_key=1794127249-0-0-8907666c77854e52a82eb647a4ead17b&token=46a5bf5b84a8f63f&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 北京国安 vs 重庆铜梁龙|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498744_gqzm.m3u8?auth_key=1794128447-0-0-952b52fdb3e5a08304f041f4a03aa534&token=8cfa122c4942fbf1&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 大连英博 vs 天津津门虎|线路migu
-https://www.rtmpcdn.com/live/migu5.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 大连英博 vs 天津津门虎|线路A2
-https://www.rtmpcdn.com/live/e6c3e24a-512c-4672-a454-d3ecf064e826.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 大连英博 vs 天津津门虎|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4498747_gqzm.m3u8?auth_key=1794126462-0-0-fac79c42ad6ab32d71a9725a57992732&token=6ab8bb3ffce3d533&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 大连英博 vs 天津津门虎|线路C4
-https://spl.tiyucdn.com/matchlive/ls1923666_30fps.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 大连英博 vs 天津津门虎|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4498747_gqzm.m3u8?auth_key=1794127109-0-0-6c449be3950c6c1b00cfa5db9c3cc979&token=209fdada758cb4a0&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 大连英博 vs 天津津门虎|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4498747_gqzm.m3u8?auth_key=1794128332-0-0-eae3ecedbf4fafae914c6f8f4919f2cd&token=a1965a3695265b36&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 山东泰山 vs 成都蓉城|线路migu
-https://www.rtmpcdn.com/live/migu6.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 山东泰山 vs 成都蓉城|线路A2
-https://www.rtmpcdn.com/live/61c8f87b-c72a-42d2-8dff-44f3790a171a.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 山东泰山 vs 成都蓉城|线路C4
-https://spl.tiyucdn.com/matchlive/ls1923667_30fps.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 山东泰山 vs 成都蓉城|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498748_gqzm.m3u8?auth_key=1794126379-0-0-ee9830fe48fb96f5d5cdfaaa86b180de&token=689abae4d5741ba1&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 山东泰山 vs 成都蓉城|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498748_gqzm.m3u8?auth_key=1794127228-0-0-a2f898a69cfa7f24f7528a042a41046b&token=415050c57db87bd9&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 山东泰山 vs 成都蓉城|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4498748_gqzm.m3u8?auth_key=1794128224-0-0-124f74ae73cf2f8effc56f018768a4c3&token=85cebda73c223098&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 青岛海牛 vs 深圳新鹏城|线路migu
-https://www.rtmpcdn.com/live/migu8.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 青岛海牛 vs 深圳新鹏城|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4498751_gqzm.m3u8?auth_key=1794126095-0-0-5daa1d75e089f1583a17542ed0b9c68e&token=0d8d2577cccbd63c&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 青岛海牛 vs 深圳新鹏城|线路A2
-https://www.rtmpcdn.com/live/9f0b1637-a243-4b4c-be30-1003e2ffdf7f.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 青岛海牛 vs 深圳新鹏城|线路C4
-https://spl.tiyucdn.com/matchlive/ls1923669_30fps.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 青岛海牛 vs 深圳新鹏城|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4498751_gqzm.m3u8?auth_key=1794128063-0-0-f7beeb853ee68c694c0abfef8e755bf8&token=55f99bfb2d91c92e&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 浙江队 vs 河南队|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4498749_gqzm.m3u8?auth_key=1794126369-0-0-5d1434f5f03d4ccfa4e3f15d8c370674&token=43a34b47a38007ef&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 浙江队 vs 河南队|线路migu
+#EXTINF:-1 group-title="足球",【足球】足球综合 皇家社会 vs 巴列卡诺|线路A1
+https://www.rtmpcdn.com/live/f572031a-a9a8-4561-8390-1acda6369a19.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 皇家社会 vs 巴列卡诺|线路C4
+https://spl.tiyucdn.com/matchlive/ls2075519_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 皇家社会 vs 巴列卡诺|线路Q3
+https://spl.tiyucdn.com/matchlive/ls2075519_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 昂热 vs 尼斯|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550923_gqzm.m3u8?auth_key=1794157827-0-0-857c3520c85ac53da66f2dd3f053fff8&token=0140f2c03228aa53&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 昂热 vs 尼斯|线路A1
+https://www.rtmpcdn.com/live/444892bd-f192-4454-8412-7febd368fa9b.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 昂热 vs 尼斯|线路Q2
+https://play.aarray.cn/rrty/hd-zh-1-4550923_gqzm.m3u8?auth_key=1794157827-0-0-857c3520c85ac53da66f2dd3f053fff8&token=0140f2c03228aa53&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 昂热 vs 尼斯|线路C4
+https://spl.tiyucdn.com/matchlive/ls2059557_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 昂热 vs 尼斯|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550923_gqzm.m3u8?auth_key=1794158687-0-0-0c30765ee52f33fe14bf391d1effd6e5&token=e6842f7ac9a5ab66&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 昂热 vs 尼斯|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550923_gqzm.m3u8?auth_key=1794159578-0-0-aa3462dab81b960d4bc993ad98b40efd&token=2e61b10a7c23fa62&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 布雷斯特 vs 里昂|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4550925_gqzm.m3u8?auth_key=1794157827-0-0-aa17cfbcee8f344d4383a34f06887a72&token=ac4de00f410ef8bd&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 布雷斯特 vs 里昂|线路A1
+https://www.rtmpcdn.com/live/c567014f-4dc8-46f3-815d-2ca28b2dd56c.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 布雷斯特 vs 里昂|线路Q2
+https://play.aarray.cn/rrty/hd-zh-1-4550925_gqzm.m3u8?auth_key=1794157827-0-0-aa17cfbcee8f344d4383a34f06887a72&token=ac4de00f410ef8bd&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 布雷斯特 vs 里昂|线路C4
+https://spl.tiyucdn.com/matchlive/ls2059559_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 布雷斯特 vs 里昂|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550925_gqzm.m3u8?auth_key=1794158545-0-0-b6ab9f36de1863728065a48073769af4&token=120f136297fda13a&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 布雷斯特 vs 里昂|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4550925_gqzm.m3u8?auth_key=1794158624-0-0-6376ca027ce76d0778bde89f5c1d726c&token=3e09dd098fcff760&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 布雷斯特 vs 里昂|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550925_gqzm.m3u8?auth_key=1794159415-0-0-f4ed45d019b1e85829a906a994062de8&token=60f9658764373cf1&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】法甲 勒阿弗尔 vs 洛里昂|线路A1
+https://www.rtmpcdn.com/live/a2d69222-0ff6-4f6f-bc35-8c7aac6e1ed5.m3u8
+#EXTINF:-1 group-title="足球",【足球】法甲 勒阿弗尔 vs 洛里昂|线路C4
+https://spl.tiyucdn.com/matchlive/ls2059560_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】法甲 勒阿弗尔 vs 洛里昂|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550926_gqzm.m3u8?auth_key=1794158769-0-0-bf656cca6d17ca7a9d5cc2767dd67fda&token=b7dbe47a255d1a00&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】法甲 勒阿弗尔 vs 洛里昂|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550926_gqzm.m3u8?auth_key=1794159618-0-0-569293a7f9acd094804a06aa4582b394&token=51f3233d8bb9d906&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 勒芒 vs 摩纳哥|线路A1
+https://www.rtmpcdn.com/live/b12a7e35-be3e-450b-950a-e778b26f9fe2.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 勒芒 vs 摩纳哥|线路C4
+https://spl.tiyucdn.com/matchlive/ls2059561_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 勒芒 vs 摩纳哥|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550927_gqzm.m3u8?auth_key=1794158789-0-0-0f72aef5124a433def04064b4b1aa9f5&token=5414eb725875f803&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 勒芒 vs 摩纳哥|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550927_gqzm.m3u8?auth_key=1794159689-0-0-175bf5dba8c6e82591397f2e6abc7294&token=ce6b7c7a954689ff&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 阿斯顿维拉|线路C4
+https://spl.tiyucdn.com/matchlive/ls2067807_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 阿斯顿维拉|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4558721_gqzm.m3u8?auth_key=1794158934-0-0-e11db4eaf4427ec3cc5f4ad0f6e9ac8b&token=5fd7c1145140e5c2&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 阿斯顿维拉|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4558721_gqzm.m3u8?auth_key=1794159769-0-0-da14a6437b4b115b422ecb7aa0f7a675&token=454987db0b29fc1f&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 阿斯顿维拉|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4558721_gqzm.m3u8?auth_key=1794160375-0-0-e844ba0d5711e0d247ecd75061efa9ac&token=f0995ad277734170&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 弗赖堡 vs 柏林联合|线路migu
 https://www.rtmpcdn.com/live/migu7.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 浙江队 vs 河南队|线路A2
-https://www.rtmpcdn.com/live/b758f1a1-4b49-45a4-9c03-240387aa006f.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 浙江队 vs 河南队|线路C4
-https://spl.tiyucdn.com/matchlive/ls1923668_30fps.m3u8
-#EXTINF:-1 group-title="足球",【足球】中超 浙江队 vs 河南队|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4498749_gqzm.m3u8?auth_key=1794127602-0-0-11c07224602152aaf06f5dd4c748400f&token=e3aae23a75be497d&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】中超 浙江队 vs 河南队|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4498749_gqzm.m3u8?auth_key=1794128224-0-0-3276debb4ddbfe2136072206669d51b1&token=e94a17bdea06e800&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】K联赛 富川FC vs 浦项制铁|线路A1
-https://www.rtmpcdn.com/live/b30b76a2-a1c4-4c0c-9252-323026178d89.m3u8
-#EXTINF:-1 group-title="足球",【足球】K联赛 富川FC vs 浦项制铁|线路C4
-https://play.aarray.cn/rrty/sd-1-4662791_gqzm.m3u8?auth_key=1794126533-0-0-023376ab3e7d886d4c0f99cc2979a2e4&token=4b916b06136cb252&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】K联赛 富川FC vs 浦项制铁|线路C4
-https://play.aarray.cn/rrty/sd-1-4662791_gqzm.m3u8?auth_key=1794127189-0-0-4e4cc3c438d31063ee9145606d79e0d4&token=00e71ff5b7aa894a&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】K联赛 富川FC vs 浦项制铁|线路C4
-https://play.aarray.cn/rrty/sd-1-4662791_gqzm.m3u8?auth_key=1794128467-0-0-0af4181686ed475c884ea1e444fa8fc5&token=3c545bddfd3da31c&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】K联赛 江原FC vs 全北现代|线路A1
-https://www.rtmpcdn.com/live/e68fa1e2-5e8f-4dc5-9dae-40017d2d1bd6.m3u8
-#EXTINF:-1 group-title="足球",【足球】K联赛 江原FC vs 全北现代|线路C4
-https://play.aarray.cn/rrty/sd-1-4662792_gqzm.m3u8?auth_key=1794127499-0-0-aa864caacd8f9602f4eaada7727c3248&token=11847eef4a52f707&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】K联赛 江原FC vs 全北现代|线路C4
-https://play.aarray.cn/rrty/sd-1-4662792_gqzm.m3u8?auth_key=1794128123-0-0-bd57073b9ae824921333ef074d2bc997&token=10d5175d80003d65&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 弗赖堡 vs 柏林联合|线路A2
+https://www.rtmpcdn.com/live/0320ea60-5050-4fc2-a2aa-ee3164720c98.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 弗赖堡 vs 柏林联合|线路C4
+https://spl.tiyucdn.com/matchlive/ls2076829_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 弗赖堡 vs 柏林联合|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4566392_gqzm.m3u8?auth_key=1794158746-0-0-bba37e26a6a6041787794e896e223d93&token=5e020a9c82ec6898&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 弗赖堡 vs 柏林联合|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4566392_gqzm.m3u8?auth_key=1794159809-0-0-96ad2a854e6aabd08e7758e08397b0b8&token=8c1f6acf3b1c88c8&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 弗赖堡 vs 柏林联合|线路Q3
+https://spl.tiyucdn.com/matchlive/ls2076829_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 弗赖堡 vs 柏林联合|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4566392_gqzm.m3u8?auth_key=1794160417-0-0-f0d939d56aafb6093ac16f0aa73947bd&token=58ce3cc64384e1c4&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】意甲 国际米兰 vs 科莫|线路migu
+https://www.rtmpcdn.com/live/migu8.m3u8
+#EXTINF:-1 group-title="足球",【足球】意甲 国际米兰 vs 科莫|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4549074_gqzm.m3u8?auth_key=1794160537-0-0-dae6e7530f3231ecade981e24d06a607&token=f61004209a113fb6&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】意甲 国际米兰 vs 科莫|线路A2
+https://www.rtmpcdn.com/live/487aeb2a-7ac2-486d-9e42-0d62c0328e63.m3u8
