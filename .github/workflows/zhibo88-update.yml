@@ -2,7 +2,7 @@ name: Update Zhibo88 Live
 
 on:
   schedule:
-    - cron: '*/30 0-1,8-23 * * *'
+    - cron: '*/30 0-17 * * *'
   workflow_dispatch:
 
 jobs:
