@@ -2,7 +2,7 @@ name: Update Xinzhibo Live
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/30 0-1,8-23 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,10 +11,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
       - name: Fetch live streams
         run: python3 grab_live.py --all-lines --out-txt xinzhibo_live.txt --out-m3u xinzhibo_live.m3u
-
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
