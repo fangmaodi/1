@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - 'IPTV.txt'
-      - 'xinzhibo_live.txt'
+      - 'zhibo88_live.txt'
 
 jobs:
   sync:
