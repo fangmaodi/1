@@ -1,11 +1,10 @@
-# 88zhibo live, updated 2026-11-08 21:17:53, 15 matches, 10 channels
-【足球】足球综合 朗斯 vs 马赛|线路A1,https://www.rtmpcdn.com/live/a7cf31e5-d917-467c-a7d3-99196f7239bb.m3u8
-【足球】足球综合 朗斯 vs 马赛|线路C4,https://spl.tiyucdn.com/matchlive/ls2059565_30fps.m3u8
-【足球】足球综合 佛罗伦萨 vs 尤文图斯|线路A1,https://www.rtmpcdn.com/live/f1e3ec6e-1b3e-4e54-a9dc-ed9dca5ca2f4.m3u8
-【足球】足球综合 佛罗伦萨 vs 尤文图斯|线路C4,https://spl.tiyucdn.com/matchlive/ls2057487_30fps.m3u8
-【足球】足球综合 马竞 vs 巴塞罗那|线路migu,https://www.rtmpcdn.com/live/migu4.m3u8
-【足球】足球综合 马竞 vs 巴塞罗那|线路C4,https://spl.tiyucdn.com/matchlive/ls2075513_30fps.m3u8
-【足球】足球综合 马竞 vs 巴塞罗那|线路A2,https://www.rtmpcdn.com/live/6f21a683-da3e-448b-974e-ac177fe66f29.m3u8
-【足球】足球综合 马竞 vs 巴塞罗那|线路C6,https://play.aarray.cn/rrty/hd-zh-1-4565508_gqzm.m3u8?auth_key=1794173037-0-0-8fe3b8f98c7c0686b0ed4405995e1462&token=b20321606f5b1ef8&device=4&platform=rrty
-【篮球】NBA 公牛 vs 76人|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
-【篮球】NBA 公牛 vs 76人|线路A2,https://www.rtmpcdn.com/live/ea7b99e7-84e3-46aa-ab07-afc2f6a2e71f.m3u8
+# 88zhibo live, updated 2026-11-09 01:06:08, 7 matches, 9 channels
+【篮球】NBA 活塞 vs 湖人|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
+【篮球】NBA 活塞 vs 湖人|线路A2,https://www.rtmpcdn.com/live/532a5970-ae56-4429-a351-30c7b3b55404.m3u8
+【篮球】NBA 活塞 vs 湖人|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931639_gqzm.m3u8?auth_key=1794187949-0-0-123e6e5a26785b9966695719c178032f&token=7561372e8bfbbbd9&device=4&platform=rrty
+【篮球】NBA 森林狼 vs 爵士|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
+【篮球】NBA 森林狼 vs 爵士|线路A2,https://www.rtmpcdn.com/live/b8b19295-a1a1-46bb-8416-c54e05b76672.m3u8
+【篮球】NBA 森林狼 vs 爵士|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931640_gqzm.m3u8?auth_key=1794187999-0-0-872200b4c3960dce527375a6c3c41bad&token=db4ef280a976d38a&device=4&platform=rrty
+【篮球】NBA常规赛 独行侠 vs 篮网|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
+【篮球】NBA常规赛 独行侠 vs 篮网|线路A2,https://www.rtmpcdn.com/live/af390226-555c-476b-a29c-58000be82f18.m3u8
+【篮球】NBA常规赛 独行侠 vs 篮网|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931641_gqzm.m3u8?auth_key=1794187428-0-0-9dd29ab761099a166ba1f298058860a4&token=4dd2f07baadea76b&device=4&platform=rrty
