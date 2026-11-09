@@ -1,5 +1,4 @@
-# 88zhibo live, updated 2026-11-09 03:34:34, 6 matches, 7 channels
-【篮球】NBA 雄鹿 vs 凯尔特人|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
+# 88zhibo live, updated 2026-11-09 03:54:31, 6 matches, 6 channels
 【篮球】NBA 国王 vs 热火|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
 【篮球】NBA 国王 vs 热火|线路A2,https://www.rtmpcdn.com/live/0cde377f-515a-4745-a91c-93978d57eac4.m3u8
 【篮球】NBA 国王 vs 热火|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931644_gqzm.m3u8?auth_key=1794196820-0-0-ce0205d81bc8b8e60f0ca3559ef64242&token=3ac672ac8e1c57f5&device=4&platform=rrty
