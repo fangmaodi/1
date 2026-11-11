@@ -1,13 +1,7 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 热火|腾讯超清4
-https://www.rtmpcdn.com/live/qq4.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 热火|线路A2
-https://www.rtmpcdn.com/live/61591e05-d897-4a8d-b580-9ec72850ef86.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 国王 vs 魔术|腾讯超清5
-https://www.rtmpcdn.com/live/qq5.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 国王 vs 魔术|线路A2
-https://www.rtmpcdn.com/live/77cb52bd-e5d0-4040-8f51-660fe383f16c.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 开拓者 vs 雷霆|腾讯超清6
-https://www.rtmpcdn.com/live/qq6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 开拓者 vs 雷霆|线路A2
-https://www.rtmpcdn.com/live/431ef138-adf7-4ff7-bac7-2a27473fd6df.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球熊猫杯循环赛第1轮 中国U19 vs 越南U19|线路C4
+https://play.aarray.cn/rrty/sd-1-4660124_gqzm.m3u8?auth_key=1794401536-0-0-ca915f29e7550076c707f9143092c839&token=ab3944c24cad6924&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】国际友谊 越南 vs 中国台北|线路C4
+https://play.aarray.cn/rrty/sd-1-4663032_gqzm.m3u8?auth_key=1794402474-0-0-3f60f9a776d5b1e98aad931c68c9009f&token=366ec4ccec2714f1&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】国际友谊 越南 vs 中国台北|线路A1
+https://www.rtmpcdn.com/live/2e43b2de-a0b3-4567-8936-d40c15bc049f.m3u8
