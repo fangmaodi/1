@@ -1,3 +1,13 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="足球",【足球】国王杯 UE塔夫 vs 瓦伦西亚|线路A1
-https://www.rtmpcdn.com/live/3514f7c0-65d5-427f-afdc-c25f655625f0.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 热火|腾讯超清4
+https://www.rtmpcdn.com/live/qq4.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 热火|线路A2
+https://www.rtmpcdn.com/live/61591e05-d897-4a8d-b580-9ec72850ef86.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 国王 vs 魔术|腾讯超清5
+https://www.rtmpcdn.com/live/qq5.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 国王 vs 魔术|线路A2
+https://www.rtmpcdn.com/live/77cb52bd-e5d0-4040-8f51-660fe383f16c.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 开拓者 vs 雷霆|腾讯超清6
+https://www.rtmpcdn.com/live/qq6.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 开拓者 vs 雷霆|线路A2
+https://www.rtmpcdn.com/live/431ef138-adf7-4ff7-bac7-2a27473fd6df.m3u8
