@@ -1,16 +1,14 @@
-# 88zhibo live, updated 2026-11-12 03:14:40, 22 matches, 15 channels
+# 88zhibo live, updated 2026-11-12 03:35:01, 21 matches, 13 channels
 【篮球】NBA 鹈鹕 vs 篮网|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
 【篮球】NBA 鹈鹕 vs 篮网|线路A2,https://www.rtmpcdn.com/live/e80db101-3866-49ed-bad8-bc6f0000e5bf.m3u8
 【篮球】NBA 雄鹿 vs 湖人|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
 【篮球】NBA 雄鹿 vs 湖人|线路A2,https://www.rtmpcdn.com/live/c47be500-d0aa-4eed-ab28-afbebcdebb14.m3u8
 【篮球】NBA 灰熊 vs 掘金|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
-【篮球】NBA 灰熊 vs 掘金|线路A2,https://www.rtmpcdn.com/live/d3988c2b-0da0-4987-a2e0-cc00b73e118c.m3u8
-【篮球】NBA 公牛 vs 马刺|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
-【篮球】NBA 公牛 vs 马刺|线路A2,https://www.rtmpcdn.com/live/c0707767-b687-44bb-b419-d24c52c5b861.m3u8
 【篮球】NBA 爵士 vs 魔术|腾讯超清8,https://www.rtmpcdn.com/live/qq8.m3u8
 【篮球】NBA 爵士 vs 魔术|线路A2,https://www.rtmpcdn.com/live/9dcb01f0-762c-4195-8cd5-8c38b6be7fa4.m3u8
+【篮球】NBA 爵士 vs 魔术|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931666_gqzm.m3u8?auth_key=1794456020-0-0-dcf833d6dd8831928621de9b81762c81&token=1f707ab5d1584835&device=4&platform=rrty
 【篮球】NBA 火箭 vs 勇士|腾讯超清9,https://www.rtmpcdn.com/live/qq9.m3u8
 【篮球】NBA 火箭 vs 勇士|线路A2,https://www.rtmpcdn.com/live/a3336d9a-bc99-441c-973f-5440bf9035df.m3u8
-【篮球】NBA 火箭 vs 勇士|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931667_gqzm.m3u8?auth_key=1794453708-0-0-8d062083773b0d257f1953b194f93ecb&token=0d2a8bec735958ac&device=4&platform=rrty
 【篮球】NBA 开拓者 vs 雷霆|腾讯超清10,https://www.rtmpcdn.com/live/qq10.m3u8
 【篮球】NBA 开拓者 vs 雷霆|线路A2,https://www.rtmpcdn.com/live/f5ed22f2-7d0c-41e2-84b3-faf6d1058c55.m3u8
+【篮球】NBA 开拓者 vs 雷霆|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931668_gqzm.m3u8?auth_key=1794455818-0-0-252a334ff7969e4d3d7ea05d68572943&token=752a02f63ed84a27&device=4&platform=rrty
