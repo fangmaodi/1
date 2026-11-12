@@ -1,30 +1,32 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 鹈鹕 vs 篮网|线路A2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 鹈鹕 vs 篮网|腾讯超清7
+https://www.rtmpcdn.com/live/qq7.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 鹈鹕 vs 篮网|线路Q2
 https://www.rtmpcdn.com/live/e80db101-3866-49ed-bad8-bc6f0000e5bf.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 鹈鹕 vs 篮网|线路Q3
-https://play.aarray.cn/rrty/hd-zh-2-3931665_gqzm.m3u8?auth_key=1794452221-0-0-de2adb6f537ccaf4132cd2a5430264bb&token=d19841fbf1651f58&device=4&platform=rrty
 #EXTINF:-1 group-title="篮球",【篮球】NBA 雄鹿 vs 湖人|腾讯超清6
 https://www.rtmpcdn.com/live/qq6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 雄鹿 vs 湖人|线路A2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 雄鹿 vs 湖人|线路Q2
 https://www.rtmpcdn.com/live/c47be500-d0aa-4eed-ab28-afbebcdebb14.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 雄鹿 vs 湖人|线路Q3
-https://play.aarray.cn/rrty/hd-zh-2-3931664_gqzm.m3u8?auth_key=1794452201-0-0-44c51f6b84beb7687cec001fa9260dbf&token=78d6b043ae607a1c&device=4&platform=rrty
-#EXTINF:-1 group-title="篮球",【篮球】NBA 灰熊 vs 掘金|线路A2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 灰熊 vs 掘金|腾讯超清5
+https://www.rtmpcdn.com/live/qq5.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 灰熊 vs 掘金|线路Q2
 https://www.rtmpcdn.com/live/d3988c2b-0da0-4987-a2e0-cc00b73e118c.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 灰熊 vs 掘金|线路Q3
 https://play.aarray.cn/rrty/hd-zh-2-3931663_gqzm.m3u8?auth_key=1794452231-0-0-11238af4a4e66d0952a35b32fe5206f3&token=28af1ef0c2123936&device=4&platform=rrty
 #EXTINF:-1 group-title="篮球",【篮球】NBA 公牛 vs 马刺|腾讯超清4
 https://www.rtmpcdn.com/live/qq4.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 公牛 vs 马刺|线路A2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 公牛 vs 马刺|线路Q2
 https://www.rtmpcdn.com/live/c0707767-b687-44bb-b419-d24c52c5b861.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 公牛 vs 马刺|线路Q3
-https://play.aarray.cn/rrty/hd-zh-2-3931662_gqzm.m3u8?auth_key=1794452211-0-0-5c698d529188973f531438267d53e006&token=9f869bb13a0457ed&device=4&platform=rrty
 #EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 魔术|腾讯超清8
 https://www.rtmpcdn.com/live/qq8.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 魔术|线路A2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 魔术|线路Q2
 https://www.rtmpcdn.com/live/9dcb01f0-762c-4195-8cd5-8c38b6be7fa4.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 火箭 vs 勇士|线路A2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 火箭 vs 勇士|腾讯超清9
+https://www.rtmpcdn.com/live/qq9.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 火箭 vs 勇士|线路Q2
 https://www.rtmpcdn.com/live/a3336d9a-bc99-441c-973f-5440bf9035df.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 火箭 vs 勇士|线路Q3
+https://play.aarray.cn/rrty/hd-zh-2-3931667_gqzm.m3u8?auth_key=1794453708-0-0-8d062083773b0d257f1953b194f93ecb&token=0d2a8bec735958ac&device=4&platform=rrty
 #EXTINF:-1 group-title="篮球",【篮球】NBA 开拓者 vs 雷霆|腾讯超清10
 https://www.rtmpcdn.com/live/qq10.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 开拓者 vs 雷霆|线路A2
