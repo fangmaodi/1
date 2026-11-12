@@ -1,9 +1,4 @@
-# 88zhibo live, updated 2026-11-12 03:35:01, 21 matches, 13 channels
-【篮球】NBA 鹈鹕 vs 篮网|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
-【篮球】NBA 鹈鹕 vs 篮网|线路A2,https://www.rtmpcdn.com/live/e80db101-3866-49ed-bad8-bc6f0000e5bf.m3u8
-【篮球】NBA 雄鹿 vs 湖人|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
-【篮球】NBA 雄鹿 vs 湖人|线路A2,https://www.rtmpcdn.com/live/c47be500-d0aa-4eed-ab28-afbebcdebb14.m3u8
-【篮球】NBA 灰熊 vs 掘金|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
+# 88zhibo live, updated 2026-11-12 03:54:50, 21 matches, 8 channels
 【篮球】NBA 爵士 vs 魔术|腾讯超清8,https://www.rtmpcdn.com/live/qq8.m3u8
 【篮球】NBA 爵士 vs 魔术|线路A2,https://www.rtmpcdn.com/live/9dcb01f0-762c-4195-8cd5-8c38b6be7fa4.m3u8
 【篮球】NBA 爵士 vs 魔术|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931666_gqzm.m3u8?auth_key=1794456020-0-0-dcf833d6dd8831928621de9b81762c81&token=1f707ab5d1584835&device=4&platform=rrty
