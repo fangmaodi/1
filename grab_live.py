@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # grab_live.py - fetch live sports streams from 88zhibo and emit IPTV lists.
-# Site: https://www.88zhibo.tv/
+# Site: https://www.88zhibo.me/
 #   list:   homepage HTML, server-rendered <li class="list-group-item group-game-item">
 #           live ones carry a button with text "直播中"; each has data-id + /live/{id}/play
 #   source: GET /live/{id}/source (Referer: play page)
@@ -24,7 +24,7 @@ import time
 import urllib.parse
 import urllib.request
 
-BASE = "https://www.88zhibo.tv"
+BASE = "https://www.88zhibo.me"
 UA = "Mozilla/5.0 (Linux; Android 13; iQOO Z9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Mobile Safari/537.36"
 
 BASKETBALL_LEAGUES = ("NBA", "CBA", "NCAA", "WNBA", "NBL", "韩篮", "澳篮", "欧篮", "篮")
