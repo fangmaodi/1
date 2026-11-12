@@ -1,4 +1,15 @@
-# 88zhibo live, updated 2026-11-11 12:26:28, 10 matches, 3 channels
-【足球】足球熊猫杯循环赛第1轮 中国U19 vs 越南U19|线路C4,https://play.aarray.cn/rrty/sd-1-4660124_gqzm.m3u8?auth_key=1794401536-0-0-ca915f29e7550076c707f9143092c839&token=ab3944c24cad6924&device=4&platform=rrty
-【足球】国际友谊 越南 vs 中国台北|线路C4,https://play.aarray.cn/rrty/sd-1-4663032_gqzm.m3u8?auth_key=1794402474-0-0-3f60f9a776d5b1e98aad931c68c9009f&token=366ec4ccec2714f1&device=4&platform=rrty
-【足球】国际友谊 越南 vs 中国台北|线路A1,https://www.rtmpcdn.com/live/2e43b2de-a0b3-4567-8936-d40c15bc049f.m3u8
+# 88zhibo live, updated 2026-11-12 02:14:31, 28 matches, 14 channels
+【篮球】NBA 猛龙 vs 凯尔特人|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
+【篮球】NBA 猛龙 vs 凯尔特人|线路A2,https://www.rtmpcdn.com/live/39894ba2-bbc0-47ae-a0a6-c6017cf7eb37.m3u8
+【篮球】NBA 尼克斯 vs 骑士|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
+【篮球】NBA 尼克斯 vs 骑士|线路A2,https://www.rtmpcdn.com/live/f90f2f8d-6b4f-4aeb-9f1c-8a6f558c6698.m3u8
+【篮球】NBA 步行者 vs 奇才|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
+【篮球】NBA 步行者 vs 奇才|线路A2,https://www.rtmpcdn.com/live/eacf0405-585a-4871-9076-46758191fee5.m3u8
+【篮球】NBA常规赛 鹈鹕 vs 篮网|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
+【篮球】NBA常规赛 鹈鹕 vs 篮网|线路A2,https://www.rtmpcdn.com/live/e80db101-3866-49ed-bad8-bc6f0000e5bf.m3u8
+【篮球】NBA 雄鹿 vs 湖人|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
+【篮球】NBA 雄鹿 vs 湖人|线路A2,https://www.rtmpcdn.com/live/c47be500-d0aa-4eed-ab28-afbebcdebb14.m3u8
+【篮球】NBA 灰熊 vs 掘金|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
+【篮球】NBA 灰熊 vs 掘金|线路A2,https://www.rtmpcdn.com/live/d3988c2b-0da0-4987-a2e0-cc00b73e118c.m3u8
+【篮球】NBA 公牛 vs 马刺|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
+【篮球】NBA 公牛 vs 马刺|线路A2,https://www.rtmpcdn.com/live/c0707767-b687-44bb-b419-d24c52c5b861.m3u8
