@@ -1,1 +1,6 @@
-# 88zhibo live, updated 2026-11-12 05:54:11, 6 matches, 0 channels
+# 88zhibo live, updated 2026-11-12 14:38:46, 6 matches, 5 channels
+【足球】国际友谊 苏格兰U21 vs 乌克兰U21|线路A1,https://www.rtmpcdn.com/live/520d6e63-0c93-48e3-a50c-9b8fef5e7bc4.m3u8
+【足球】欧青U19 德国U19 vs 瑞典U19|线路A1,https://www.rtmpcdn.com/live/fd855d7c-ed1e-4819-8623-af353f4e0a54.m3u8
+【足球】球会友谊 门兴 vs 标准列日|线路A1,https://www.rtmpcdn.com/live/0385ec80-5f57-49cd-9db9-2d7209b92a8a.m3u8
+【足球】球会友谊 沃尔夫斯堡 vs 柏林联合|线路A1,https://www.rtmpcdn.com/live/366c83a7-d68a-430e-82b4-6e65451b2e0a.m3u8
+【足球】球会友谊 年轻人 vs 乌契|线路A1,https://www.rtmpcdn.com/live/0c76a5c1-5565-4b54-9323-e8fd99732d0c.m3u8
