@@ -1,19 +1,17 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 76人 vs 猛龙|腾讯超清1
-https://www.rtmpcdn.com/live/qq1.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 奇才 vs 活塞|腾讯超清2
 https://www.rtmpcdn.com/live/qq2.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 奇才 vs 活塞|线路A2
 https://www.rtmpcdn.com/live/5226f088-43b0-42d3-b1a3-f4f6aabc7486.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 森林狼 vs 独行侠|腾讯超清3
 https://www.rtmpcdn.com/live/qq3.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 森林狼 vs 独行侠|线路A2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 森林狼 vs 独行侠|线路Q2
 https://www.rtmpcdn.com/live/a7bfdcdd-f9a8-4b4d-b75e-87c9556fd94a.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 森林狼 vs 独行侠|线路Q3
 https://play.aarray.cn/rrty/hd-zh-2-3931671_gqzm.m3u8?auth_key=1794538673-0-0-c7e4588d01782205973c1ae8a2715f45&token=03d7773629f97cb3&device=4&platform=rrty
-#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 太阳 vs 黄蜂|腾讯超清4
+#EXTINF:-1 group-title="篮球",【篮球】NBA 太阳 vs 黄蜂|腾讯超清4
 https://www.rtmpcdn.com/live/qq4.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 太阳 vs 黄蜂|线路A2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 太阳 vs 黄蜂|线路Q2
 https://www.rtmpcdn.com/live/7f30787e-d80b-4446-b1b0-7d2292f73be6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 太阳 vs 黄蜂|线路Q2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 太阳 vs 黄蜂|线路Q3
 https://play.aarray.cn/rrty/hd-zh-2-3931672_gqzm.m3u8?auth_key=1794538503-0-0-ce0fa03dd0271a9f4d0c9a57c5b10702&token=42ad10182b943988&device=4&platform=rrty
