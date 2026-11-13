@@ -1,1 +1,9 @@
 #EXTM3U x-tvg-url=""
+#EXTINF:-1 group-title="足球",【足球】国际友谊 新加坡 vs 巴拉圭|线路A1
+https://www.rtmpcdn.com/live/3301dc12-b310-4708-971d-2cef8a7fd82f.m3u8
+#EXTINF:-1 group-title="足球",【足球】国际友谊 新加坡 vs 巴拉圭|线路C4
+https://play.aarray.cn/rrty/sd-1-4650129_gqzm.m3u8?auth_key=1794576114-0-0-da9f84ec96f9a4d7c2f777ce3ec89597&token=b129390d139fb7fe&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】非洲杯 莫桑比克 vs 埃塞俄比亚|线路C4
+https://play.aarray.cn/rrty/sd-1-4642720_gqzm.m3u8?auth_key=1794578956-0-0-21369daed630ddd5ad9f0b8c8981a913&token=3fbc9cea4b9b1af6&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】非洲杯 赞比亚 vs 布隆迪|线路C4
+https://play.aarray.cn/rrty/sd-1-4642730_gqzm.m3u8?auth_key=1794578860-0-0-15219aefbe648062429a0cbf63bb567d&token=a563fe59901d9713&device=4&platform=rrty
