@@ -1,4 +1,5 @@
-# 88zhibo live, updated 2026-11-13 23:54:39, 19 matches, 3 channels
-【足球】国际友谊 阿根廷 vs 乌拉圭|线路C4,https://play.aarray.cn/rrty/sd-1-4663041_gqzm.m3u8?auth_key=1794614929-0-0-13592e2b839888113769575ba0a9b014&token=01f122a89c0cefa6&device=4&platform=rrty
+# 88zhibo live, updated 2026-11-14 00:15:01, 19 matches, 4 channels
 【足球】国际友谊 阿根廷 vs 乌拉圭|线路A1,https://www.rtmpcdn.com/live/2a7d96a7-0e36-445c-9383-9da583b5f7ef.m3u8
 【足球】国际友谊 阿根廷 vs 乌拉圭|线路C4,https://play.aarray.cn/rrty/sd-1-4663041_gqzm.m3u8?auth_key=1794615761-0-0-e09d96317ada78da9c1939e0c81e2eeb&token=312c9efecae802c2&device=4&platform=rrty
+【足球】国际友谊 哥伦比亚 vs 智利|线路C4,https://play.aarray.cn/rrty/sd-1-4650132_gqzm.m3u8?auth_key=1794618434-0-0-87fe0ffc6d30f7eab0cde69a1a0807bc&token=be9e1d58aa7c1320&device=4&platform=rrty
+【足球】国际友谊 厄瓜多尔 vs 哥斯达黎加|线路C4,https://play.aarray.cn/rrty/sd-1-4663042_gqzm.m3u8?auth_key=1794618544-0-0-67f416364dc149af27401d329d28aa0b&token=84abf1d1d8150ce2&device=4&platform=rrty
