@@ -1,9 +1,27 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-title="足球",【足球】国际友谊 阿根廷 vs 乌拉圭|线路A1
 https://www.rtmpcdn.com/live/2a7d96a7-0e36-445c-9383-9da583b5f7ef.m3u8
-#EXTINF:-1 group-title="足球",【足球】国际友谊 阿根廷 vs 乌拉圭|线路C4
-https://play.aarray.cn/rrty/sd-1-4663041_gqzm.m3u8?auth_key=1794615761-0-0-e09d96317ada78da9c1939e0c81e2eeb&token=312c9efecae802c2&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛东部A组 魔术 vs 雄鹿|腾讯超清2
+https://www.rtmpcdn.com/live/qq2.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛东部A组 魔术 vs 雄鹿|线路A2
+https://www.rtmpcdn.com/live/f2a7b79f-6c48-45cd-89e2-aa6b4c59ada0.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛东部A组 魔术 vs 雄鹿|线路Q2
+https://play.aarray.cn/rrty/hd-zh-2-3931479_gqzm.m3u8?auth_key=1794617472-0-0-a8cfae04b6546d1a50d9083511b8b501&token=2ffeb6d3b583ee3d&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 尼克斯|腾讯超清1
+https://www.rtmpcdn.com/live/qq1.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 尼克斯|线路A2
+https://www.rtmpcdn.com/live/19b85780-60e4-4b8c-8b57-29436886cfea.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 尼克斯|线路Q2
+https://play.aarray.cn/rrty/hd-zh-2-3931478_gqzm.m3u8?auth_key=1794617463-0-0-6d5985d6f346d0cfa7e7170115e52713&token=1522acf37ed841bb&device=4&platform=rrty
 #EXTINF:-1 group-title="足球",【足球】国际友谊 哥伦比亚 vs 智利|线路C4
 https://play.aarray.cn/rrty/sd-1-4650132_gqzm.m3u8?auth_key=1794618434-0-0-87fe0ffc6d30f7eab0cde69a1a0807bc&token=be9e1d58aa7c1320&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】国际友谊 哥伦比亚 vs 智利|线路A1
+https://www.rtmpcdn.com/live/fc65eb0c-a0d5-46bc-92d7-87811ec8a627.m3u8
+#EXTINF:-1 group-title="足球",【足球】国际友谊 哥伦比亚 vs 智利|线路C4
+https://play.aarray.cn/rrty/hd-en-1-4650132_gqzm.m3u8?auth_key=1794619507-0-0-5b3079568f28420a87ca9f82533ee654&token=6abb6359d1f74d57&device=4&platform=rrty
 #EXTINF:-1 group-title="足球",【足球】国际友谊 厄瓜多尔 vs 哥斯达黎加|线路C4
 https://play.aarray.cn/rrty/sd-1-4663042_gqzm.m3u8?auth_key=1794618544-0-0-67f416364dc149af27401d329d28aa0b&token=84abf1d1d8150ce2&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】国际友谊 厄瓜多尔 vs 哥斯达黎加|线路A1
+https://www.rtmpcdn.com/live/18a5443c-87a5-45ff-a4c7-b6069340d983.m3u8
+#EXTINF:-1 group-title="足球",【足球】国际友谊 厄瓜多尔 vs 哥斯达黎加|线路C4
+https://play.aarray.cn/rrty/sd-1-4663042_gqzm.m3u8?auth_key=1794619357-0-0-e7f11e7ad01a0c7a12ab3fd0b83f92cc&token=2c6309725ade541d&device=4&platform=rrty
