@@ -1,18 +1,14 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-title="足球",【足球】国际友谊 阿根廷 vs 乌拉圭|线路A1
 https://www.rtmpcdn.com/live/2a7d96a7-0e36-445c-9383-9da583b5f7ef.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛东部A组 魔术 vs 雄鹿|腾讯超清2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 魔术 vs 雄鹿|腾讯超清2
 https://www.rtmpcdn.com/live/qq2.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛东部A组 魔术 vs 雄鹿|线路A2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 魔术 vs 雄鹿|线路Q2
 https://www.rtmpcdn.com/live/f2a7b79f-6c48-45cd-89e2-aa6b4c59ada0.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛东部A组 魔术 vs 雄鹿|线路Q2
-https://play.aarray.cn/rrty/hd-zh-2-3931479_gqzm.m3u8?auth_key=1794617472-0-0-a8cfae04b6546d1a50d9083511b8b501&token=2ffeb6d3b583ee3d&device=4&platform=rrty
 #EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 尼克斯|腾讯超清1
 https://www.rtmpcdn.com/live/qq1.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 尼克斯|线路A2
-https://www.rtmpcdn.com/live/19b85780-60e4-4b8c-8b57-29436886cfea.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 尼克斯|线路Q2
-https://play.aarray.cn/rrty/hd-zh-2-3931478_gqzm.m3u8?auth_key=1794617463-0-0-6d5985d6f346d0cfa7e7170115e52713&token=1522acf37ed841bb&device=4&platform=rrty
+https://www.rtmpcdn.com/live/19b85780-60e4-4b8c-8b57-29436886cfea.m3u8
 #EXTINF:-1 group-title="足球",【足球】国际友谊 哥伦比亚 vs 智利|线路C4
 https://play.aarray.cn/rrty/sd-1-4650132_gqzm.m3u8?auth_key=1794618434-0-0-87fe0ffc6d30f7eab0cde69a1a0807bc&token=be9e1d58aa7c1320&device=4&platform=rrty
 #EXTINF:-1 group-title="足球",【足球】国际友谊 哥伦比亚 vs 智利|线路A1
