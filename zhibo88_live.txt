@@ -1,10 +1,24 @@
-# 88zhibo live, updated 2026-11-14 01:15:11, 39 matches, 9 channels
+# 88zhibo live, updated 2026-11-14 01:35:02, 42 matches, 23 channels
 【篮球】NBA杯小组赛东部A组 魔术 vs 雄鹿|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
 【篮球】NBA杯小组赛东部A组 魔术 vs 雄鹿|线路A2,https://www.rtmpcdn.com/live/f2a7b79f-6c48-45cd-89e2-aa6b4c59ada0.m3u8
+【篮球】NBA杯小组赛东部A组 魔术 vs 雄鹿|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931479_gqzm.m3u8?auth_key=1794621344-0-0-4dfea5cbad38f950ac49c9106ee7e2a4&token=a6bb530657ab9cc8&device=4&platform=rrty
 【篮球】NBA 步行者 vs 尼克斯|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
 【篮球】NBA 步行者 vs 尼克斯|线路A2,https://www.rtmpcdn.com/live/19b85780-60e4-4b8c-8b57-29436886cfea.m3u8
+【篮球】NBA 步行者 vs 尼克斯|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931478_gqzm.m3u8?auth_key=1794621285-0-0-bc2beba91da6eb4f5f63379c4af9ea59&token=ebd478d2e6d4c9e2&device=4&platform=rrty
 【足球】国际友谊 哥伦比亚 vs 智利|线路A1,https://www.rtmpcdn.com/live/fc65eb0c-a0d5-46bc-92d7-87811ec8a627.m3u8
-【足球】国际友谊 哥伦比亚 vs 智利|线路C4,https://play.aarray.cn/rrty/hd-en-1-4650132_gqzm.m3u8?auth_key=1794619507-0-0-5b3079568f28420a87ca9f82533ee654&token=6abb6359d1f74d57&device=4&platform=rrty
 【足球】国际友谊 厄瓜多尔 vs 哥斯达黎加|线路A1,https://www.rtmpcdn.com/live/18a5443c-87a5-45ff-a4c7-b6069340d983.m3u8
-【足球】国际友谊 厄瓜多尔 vs 哥斯达黎加|线路C4,https://play.aarray.cn/rrty/sd-1-4663042_gqzm.m3u8?auth_key=1794619357-0-0-e7f11e7ad01a0c7a12ab3fd0b83f92cc&token=2c6309725ade541d&device=4&platform=rrty
+【篮球】NBA 热火 vs 骑士|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
+【篮球】NBA 热火 vs 骑士|线路A2,https://www.rtmpcdn.com/live/0a889d27-8596-4b50-a327-fda223a83496.m3u8
+【篮球】NBA 热火 vs 骑士|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931480_gqzm.m3u8?auth_key=1794621113-0-0-933760d76f6462f8a1ffccc4a89d6c30&token=072f6a03e4db2138&device=4&platform=rrty
+【篮球】NBA 鹈鹕 vs 灰熊|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
+【篮球】NBA 鹈鹕 vs 灰熊|线路A2,https://www.rtmpcdn.com/live/c0527df5-b6a5-4b7f-acdb-90707ac09ba6.m3u8
+【篮球】NBA 鹈鹕 vs 灰熊|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931482_gqzm.m3u8?auth_key=1794621193-0-0-7e21b9c2bf211d8aaae6a7c1e1acb8c4&token=e813e89e58e29127&device=4&platform=rrty
+【篮球】NBA 公牛 vs 老鹰|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
+【篮球】NBA 公牛 vs 老鹰|线路A2,https://www.rtmpcdn.com/live/0d7b2969-5fae-429d-9045-c04a1e93b925.m3u8
+【篮球】NBA 公牛 vs 老鹰|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931481_gqzm.m3u8?auth_key=1794621183-0-0-d3a73965dd389f857da4c713f9762ffb&token=7a09f8e712fe3759&device=4&platform=rrty
 【足球】国际友谊 秘鲁 vs 玻利维亚|线路C4,https://play.aarray.cn/rrty/sd-1-4663043_gqzm.m3u8?auth_key=1794622095-0-0-3d3011b7939ab66ba8c29ee6cb454b18&token=0fa9b6427c2f7abd&device=4&platform=rrty
+【足球】国际友谊 秘鲁 vs 玻利维亚|线路A1,https://www.rtmpcdn.com/live/b2ddec11-b615-44f5-a85f-4cb77f3a1c40.m3u8
+【足球】国际友谊 秘鲁 vs 玻利维亚|线路C4,https://play.aarray.cn/rrty/sd-1-4663043_gqzm.m3u8?auth_key=1794622928-0-0-925e4c5b801ea23f64c28a7e030fbb8d&token=4b5724c038b2a8b3&device=4&platform=rrty
+【篮球】NBA 火箭 vs 爵士|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
+【篮球】NBA 火箭 vs 爵士|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931483_gqzm.m3u8?auth_key=1794622806-0-0-da31a4ebcba860ef5b03c7a1d6a4bfa8&token=a2f46d996342e3e5&device=4&platform=rrty
+【篮球】NBA 火箭 vs 爵士|线路A2,https://www.rtmpcdn.com/live/c5502466-dc0f-4351-8b4e-3d065bafd7f9.m3u8
