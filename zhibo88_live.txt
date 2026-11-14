@@ -1,8 +1,11 @@
-# 88zhibo live, updated 2026-11-14 11:59:25, 13 matches, 7 channels
-【篮球】WCBA 四川远达美乐 vs 广东奥普特|线路A1,https://www.rtmpcdn.com/live/26cae891-5cbc-42e8-b35c-6dc7b16f7df9.m3u8
-【篮球】WCBA 四川远达美乐 vs 广东奥普特|线路A2,https://www.rtmpcdn.com/live/p-10da8427e5474c1b86a8f7ef62cc2f7f.m3u8
-【篮球】WCBA 广东东阳光 vs 四川丰谷|线路C4,https://play.aarray.cn/rrty/hd-zh-2-3957115_gqzm.m3u8?auth_key=1794659086-0-0-9f253d377be4006863ebac30aa789fc8&token=9eb12870c578e86f&device=4&platform=rrty
-【篮球】WCBA 广东东阳光 vs 四川丰谷|线路C4,https://play.aarray.cn/rrty/hd-zh-2-3957115_gqzm.m3u8?auth_key=1794659943-0-0-ad84613d41e778010dc328494c1e504a&token=d73310d17e9ebd2d&device=4&platform=rrty
-【篮球】WCBA 广东东阳光 vs 四川丰谷|线路C4,https://play.aarray.cn/rrty/hd-zh-2-3957115_gqzm.m3u8?auth_key=1794660810-0-0-ecc770883f89c4e37de7f6c8134a8b63&token=bd96d19b41584624&device=4&platform=rrty
-【足球】足球熊猫杯循环赛第2轮 中国U19 vs 塔吉克斯坦U19|线路C4,https://play.aarray.cn/rrty/hd-zh-1-4660126_gqzm.m3u8?auth_key=1794660009-0-0-7fce0ea27cb1eb109a656e528bf2e182&token=721912166dc1dca6&device=4&platform=rrty
-【足球】足球熊猫杯循环赛第2轮 中国U19 vs 塔吉克斯坦U19|线路C4,https://play.aarray.cn/rrty/hd-zh-1-4660126_gqzm.m3u8?auth_key=1794660810-0-0-23486d71ea77d1a0e0b5e1f5285bc7d3&token=8d27142c9aa09100&device=4&platform=rrty
+# 88zhibo live, updated 2026-11-14 17:56:12, 21 matches, 10 channels
+【足球】非洲杯 乌干达 vs 博茨瓦纳|线路A1,https://www.rtmpcdn.com/live/p-d63c89d1469d40618905a319561b159e.m3u8
+【足球】欧国联 格鲁吉亚 vs 匈牙利|爱奇艺超清2,https://www.rtmpcdn.com/live/iqiyi2.m3u8
+【足球】欧国联 格鲁吉亚 vs 匈牙利|线路A1,https://www.rtmpcdn.com/live/p-fec29b5ecce748a0a9260937bde1530f.m3u8
+【足球】欧国联 格鲁吉亚 vs 匈牙利|线路C4,https://spqycdn.71edge.com/tslive/l1/c68_ssports_20261115_mhvsjfxj_720p_chst1_ts_t4/t_dfWttUf9_hhBrW9Ed6u8h1HxNCTkaUIuvNWE7BTB7AxSNexiJ_Qw57D5rYlOXHXpJHCFQRtYKkbm1i8SbP6nhoQIghk3XOPPvF39GCrMWpl1YpEFJJyItdPvQoO6mbB12IBhdahZuLPWZ6NV3wXaZmpsWUEVb-Oohiyd_bcl1RERmJW64mnp8IXN3fgrlIbPH39ziZMuCSFSHifVNf-_VoKwH-4rCApigPp-Rnsxo/188391a34f4a0e4ecca3370548c7ed2da/c68_ssports_20261115_mhvsjfxj_720p_chst1_ts_t4.m3u8?key=03b291437cbe2355cfb2753599df2e6f4&dis_t=1794677018&uuid=75882763-1a1db160f12-39b&qd_bid=4&pv=0.2&mss=1&cpt=0
+【足球】欧国联 挪威 vs 威尔士|爱奇艺超清1,https://www.rtmpcdn.com/live/iqiyi1.m3u8
+【足球】欧国联 挪威 vs 威尔士|线路A1,https://www.rtmpcdn.com/live/p-d8baf4c5767d492d943102db9d02b7ca.m3u8
+【足球】欧国联 挪威 vs 威尔士|线路C4,https://spl.tiyucdn.com/matchlive/ls1949607_30fps.m3u8
+【足球】欧国联 挪威 vs 威尔士|线路C5,https://play.aarray.cn/rrty/hd-zh-1-4518096_gqzm.m3u8?auth_key=1794679677-0-0-b4134219d178d4bcda921abef51478cd&token=f746bcfa592d41ec&device=4&platform=rrty
+【足球】欧国联 挪威 vs 威尔士|线路C5,https://play.aarray.cn/rrty/hd-zh-1-4518096_gqzm.m3u8?auth_key=1794680708-0-0-cb3998a4015b46ef9275221280a97aa0&token=41542dd0c1215ceb&device=4&platform=rrty
+【篮球】NCAA 阿克伦大学 vs 杜兰大学|线路A1,https://www.rtmpcdn.com/live/872c3c99-dcb3-4ac1-8e61-c06a912b96f4.m3u8
