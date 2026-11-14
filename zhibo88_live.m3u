@@ -1,25 +1,27 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 尼克斯|腾讯超清1
-https://www.rtmpcdn.com/live/qq1.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 热火 vs 骑士|腾讯超清3
 https://www.rtmpcdn.com/live/qq3.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 热火 vs 骑士|线路Q2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 热火 vs 骑士|线路A2
 https://www.rtmpcdn.com/live/0a889d27-8596-4b50-a327-fda223a83496.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 热火 vs 骑士|线路Q3
-https://play.aarray.cn/rrty/hd-zh-2-3931480_gqzm.m3u8?auth_key=1794624958-0-0-338a02b3866f2429ed51c82b818b02cb&token=cf4aa69f0b736b90&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】国际友谊 秘鲁 vs 玻利维亚|线路A1
-https://www.rtmpcdn.com/live/b2ddec11-b615-44f5-a85f-4cb77f3a1c40.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 鹈鹕 vs 灰熊|腾讯超清5
+https://www.rtmpcdn.com/live/qq5.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 鹈鹕 vs 灰熊|线路A2
+https://www.rtmpcdn.com/live/c0527df5-b6a5-4b7f-acdb-90707ac09ba6.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 公牛 vs 老鹰|腾讯超清4
+https://www.rtmpcdn.com/live/qq4.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 公牛 vs 老鹰|线路A2
+https://www.rtmpcdn.com/live/0d7b2969-5fae-429d-9045-c04a1e93b925.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 火箭 vs 爵士|腾讯超清6
 https://www.rtmpcdn.com/live/qq6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 火箭 vs 爵士|线路Q2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 火箭 vs 爵士|线路A2
 https://www.rtmpcdn.com/live/c5502466-dc0f-4351-8b4e-3d065bafd7f9.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 火箭 vs 爵士|线路Q3
 https://play.aarray.cn/rrty/hd-zh-2-3931483_gqzm.m3u8?auth_key=1794626632-0-0-5538d5ed24320ea17deda0b6ae9bbe9a&token=51f181e3f5a7bf65&device=4&platform=rrty
-#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 勇士|腾讯超清7
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部C组 马刺 vs 勇士|腾讯超清7
 https://www.rtmpcdn.com/live/qq7.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 勇士|线路Q2
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部C组 马刺 vs 勇士|线路A2
 https://www.rtmpcdn.com/live/b9bdceac-8b00-4237-ba2b-ab92f56212f8.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 勇士|线路Q1
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部C组 马刺 vs 勇士|线路Q1
 https://live01-cn-ali.xqnbu.com/live/44425935_tsc.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 勇士|线路Q3
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部C组 马刺 vs 勇士|线路Q3
 https://play.aarray.cn/rrty/hd-zh-2-3931484_gqzm.m3u8?auth_key=1794626591-0-0-6791b2f55428ba2279731ab2eafd71b9&token=f98d8ed085562200&device=4&platform=rrty
