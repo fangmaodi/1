@@ -1,7 +1,4 @@
-# 88zhibo live, updated 2026-11-14 03:54:40, 17 matches, 10 channels
-【篮球】NBA 热火 vs 骑士|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
-【篮球】NBA 鹈鹕 vs 灰熊|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
-【篮球】NBA 公牛 vs 老鹰|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
+# 88zhibo live, updated 2026-11-14 04:15:54, 10 matches, 9 channels
 【篮球】NBA 火箭 vs 爵士|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
 【篮球】NBA 火箭 vs 爵士|线路A2,https://www.rtmpcdn.com/live/c5502466-dc0f-4351-8b4e-3d065bafd7f9.m3u8
 【篮球】NBA杯小组赛西部C组 马刺 vs 勇士|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
@@ -9,3 +6,5 @@
 【篮球】NBA杯小组赛西部C组 马刺 vs 勇士|线路Q1,https://live01-cn-ali.xqnbu.com/live/44425935_tsc.m3u8
 【篮球】NBA杯小组赛西部C组 国王 vs 开拓者|腾讯超清8,https://www.rtmpcdn.com/live/qq8.m3u8
 【篮球】NBA杯小组赛西部C组 国王 vs 开拓者|线路A2,https://www.rtmpcdn.com/live/aee4fead-2318-4c9d-b29f-56b41b62c6e6.m3u8
+【篮球】NBA 快船 vs 雷霆|腾讯超清9,https://www.rtmpcdn.com/live/qq9.m3u8
+【篮球】NBA 快船 vs 雷霆|线路A2,https://www.rtmpcdn.com/live/5c55f946-fd04-4fad-b9b7-120f23a8379a.m3u8
