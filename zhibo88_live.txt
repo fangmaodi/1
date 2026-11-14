@@ -1,4 +1,8 @@
-# 88zhibo live, updated 2026-11-14 05:54:22, 2 matches, 3 channels
-【篮球】NBA 国王 vs 开拓者|腾讯超清8,https://www.rtmpcdn.com/live/qq8.m3u8
-【篮球】NBA 快船 vs 雷霆|腾讯超清9,https://www.rtmpcdn.com/live/qq9.m3u8
-【篮球】NBA 快船 vs 雷霆|线路A2,https://www.rtmpcdn.com/live/5c55f946-fd04-4fad-b9b7-120f23a8379a.m3u8
+# 88zhibo live, updated 2026-11-14 11:59:25, 13 matches, 7 channels
+【篮球】WCBA 四川远达美乐 vs 广东奥普特|线路A1,https://www.rtmpcdn.com/live/26cae891-5cbc-42e8-b35c-6dc7b16f7df9.m3u8
+【篮球】WCBA 四川远达美乐 vs 广东奥普特|线路A2,https://www.rtmpcdn.com/live/p-10da8427e5474c1b86a8f7ef62cc2f7f.m3u8
+【篮球】WCBA 广东东阳光 vs 四川丰谷|线路C4,https://play.aarray.cn/rrty/hd-zh-2-3957115_gqzm.m3u8?auth_key=1794659086-0-0-9f253d377be4006863ebac30aa789fc8&token=9eb12870c578e86f&device=4&platform=rrty
+【篮球】WCBA 广东东阳光 vs 四川丰谷|线路C4,https://play.aarray.cn/rrty/hd-zh-2-3957115_gqzm.m3u8?auth_key=1794659943-0-0-ad84613d41e778010dc328494c1e504a&token=d73310d17e9ebd2d&device=4&platform=rrty
+【篮球】WCBA 广东东阳光 vs 四川丰谷|线路C4,https://play.aarray.cn/rrty/hd-zh-2-3957115_gqzm.m3u8?auth_key=1794660810-0-0-ecc770883f89c4e37de7f6c8134a8b63&token=bd96d19b41584624&device=4&platform=rrty
+【足球】足球熊猫杯循环赛第2轮 中国U19 vs 塔吉克斯坦U19|线路C4,https://play.aarray.cn/rrty/hd-zh-1-4660126_gqzm.m3u8?auth_key=1794660009-0-0-7fce0ea27cb1eb109a656e528bf2e182&token=721912166dc1dca6&device=4&platform=rrty
+【足球】足球熊猫杯循环赛第2轮 中国U19 vs 塔吉克斯坦U19|线路C4,https://play.aarray.cn/rrty/hd-zh-1-4660126_gqzm.m3u8?auth_key=1794660810-0-0-23486d71ea77d1a0e0b5e1f5285bc7d3&token=8d27142c9aa09100&device=4&platform=rrty
