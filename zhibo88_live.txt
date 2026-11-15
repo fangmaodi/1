@@ -1,8 +1,6 @@
-# 88zhibo live, updated 2026-11-15 03:34:17, 9 matches, 8 channels
+# 88zhibo live, updated 2026-11-15 03:54:25, 9 matches, 6 channels
 【篮球】NBA 热火 vs 活塞|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
-【篮球】NBA 热火 vs 活塞|线路A1,https://www.rtmpcdn.com/live/p-f8e24c94c67c442ca00153b8c48ec281.m3u8
-【篮球】NBA 森林狼 vs 公牛|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
-【篮球】NBA 灰熊 vs 篮网|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
+【篮球】NCAA 贝尔蒙特大学 vs 弗尔曼大学|线路A1,https://www.rtmpcdn.com/live/1288cc5a-e931-46a7-accd-71cd8fee129e.m3u8
 【足球】国际友谊 新西兰 vs 印度|线路C4,https://play.aarray.cn/rrty/sd-1-4650134_gqzm.m3u8?auth_key=1794715728-0-0-4236d6604df7b4a30aed2c5bc0d7cbab&token=fd2a25c8513a8ec0&device=4&platform=rrty
 【足球】国际友谊 新西兰 vs 印度|线路A1,https://www.rtmpcdn.com/live/cc0d06e4-2e82-4adb-8a56-552122946e51.m3u8
 【足球】国际友谊 新西兰 vs 印度|线路C4,https://play.aarray.cn/rrty/sd-1-4650134_gqzm.m3u8?auth_key=1794716548-0-0-f41b6c64a93c9da58c46ea0ffb4ec093&token=f6b67645955ffd99&device=4&platform=rrty
