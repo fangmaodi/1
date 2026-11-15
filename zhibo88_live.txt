@@ -1,1 +1,8 @@
-# 88zhibo live, updated 2026-11-15 00:14:39, 3 matches, 0 channels
+# 88zhibo live, updated 2026-11-15 00:34:14, 7 matches, 7 channels
+【篮球】NBA 鹈鹕 vs 掘金|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
+【篮球】NBA 鹈鹕 vs 掘金|线路A1,https://www.rtmpcdn.com/live/p-34247cf3f0cb481cb764b1c2b7dbfa59.m3u8
+【篮球】NBA 鹈鹕 vs 掘金|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931673_gqzm.m3u8?auth_key=1794703894-0-0-4908f1c27abb53388fc271bc3eaaf8ad&token=9a737fd329634b81&device=4&platform=rrty
+【篮球】NCAA 戴维森学院 vs 霍华德大学|线路A1,https://www.rtmpcdn.com/live/78309b59-33e5-41b4-a6bf-f0073fe4a900.m3u8
+【篮球】NBA 骑士 vs 独行侠|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
+【篮球】NBA 骑士 vs 独行侠|线路A1,https://www.rtmpcdn.com/live/p-543b46dce52e4c06ab74e32c4054926e.m3u8
+【篮球】NBA 骑士 vs 独行侠|线路Q1,https://live01-cn-ali.xqnbu.com/live/48580766_tsc.m3u8
