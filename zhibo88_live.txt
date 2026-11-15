@@ -1,8 +1,11 @@
-# 88zhibo live, updated 2026-11-15 19:06:06, 17 matches, 7 channels
-【篮球】NBA 76人 vs 步行者|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
-【篮球】NBA 76人 vs 步行者|线路A1,https://www.rtmpcdn.com/live/82091001-94e6-46f4-b0bf-7726d28de024.m3u8
-【篮球】NBA 76人 vs 步行者|线路Q1,https://live01-cn-ali.xqnbu.com/live/24911637_tsc.m3u8
-【篮球】NCAA 爱荷华州立 vs 尼亚加拉大学|线路A1,https://www.rtmpcdn.com/live/6580b178-0541-4169-ba12-415129d5b7d7.m3u8
-【篮球】NCAA 特拉华大学 vs 科尔盖特大学|线路A1,https://www.rtmpcdn.com/live/d66793a2-2402-4242-b579-e2708886aaa7.m3u8
-【篮球】NCAA 波士顿大学 vs 达特茅斯大学|线路A1,https://www.rtmpcdn.com/live/5c9ef3d5-a75c-4777-b011-0a519cf1d87a.m3u8
-【篮球】NCAA 佐治亚州立 vs 诺佛克州立大学|线路A1,https://www.rtmpcdn.com/live/ecdd95ef-abbe-4b6e-9448-8f89148ed933.m3u8
+# 88zhibo live, updated 2026-11-15 23:14:52, 15 matches, 10 channels
+【篮球】NBA 太阳 vs 湖人|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
+【篮球】NBA 太阳 vs 湖人|线路A1,https://www.rtmpcdn.com/live/d971c459-44ef-41ba-b27a-64dbb86610bf.m3u8
+【篮球】NBA 太阳 vs 湖人|线路A2,https://www.rtmpcdn.com/live/3efd18a6-1d0f-450e-9a03-34c176ef0591.m3u8
+【篮球】NBA 太阳 vs 湖人|线路Q1,https://live01-cn-ali.xqnbu.com/live/62184400_tsc.m3u8
+【篮球】NCAA 圣地亚哥州立大学 vs 新墨西哥州立大学|线路A1,https://www.rtmpcdn.com/live/358f6c9e-789c-46b8-820f-5c7096dd13b7.m3u8
+【篮球】NBA 快船 vs 黄蜂|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
+【篮球】NBA 快船 vs 黄蜂|线路A1,https://www.rtmpcdn.com/live/489c3484-5b2a-42bf-9ec7-24ef19d6409a.m3u8
+【篮球】NBA 爵士 vs 马刺|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
+【篮球】NBA 爵士 vs 马刺|线路A1,https://www.rtmpcdn.com/live/18cb8d47-df33-4a60-8b11-28d150adb1f4.m3u8
+【篮球】NCAA 布法罗大学 vs 堪尼席斯|线路A1,https://www.rtmpcdn.com/live/5eeb4589-fdcb-4f43-a863-3e25b7213b95.m3u8
