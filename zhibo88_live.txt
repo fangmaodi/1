@@ -1,3 +1,10 @@
-# 88zhibo live, updated 2026-11-15 05:54:41, 5 matches, 2 channels
-【足球】日足联 润梅尔青森 vs 沼津青蓝|线路A1,https://www.rtmpcdn.com/live/p-c4a8941828ab4da19e938d8ff3305572.m3u8
-【足球】日足联 三重十四 vs 岩手盛冈仙鹤|线路A1,https://www.rtmpcdn.com/live/p-6d087837e880457b8de43f61856e32af.m3u8
+# 88zhibo live, updated 2026-11-15 12:30:00, 8 matches, 9 channels
+【篮球】WCBA 上海浦发银行 vs 豫光金铅|线路A1,https://www.rtmpcdn.com/live/p-b113b041797c49e2b7289b87b1830040.m3u8
+【篮球】WCBA 武汉盛帆黄鹤 vs 大连文体旅|线路A1,https://www.rtmpcdn.com/live/p-0994882d7c1542e0a022e2be9be4048a.m3u8
+【篮球】WCBA 山东赤水河酒 vs 新疆天山|线路A1,https://www.rtmpcdn.com/live/p-ac28ea7e4089423eab800788a276b6ad.m3u8
+【篮球】WCBA 新疆伊力特 vs 山东高速|线路C4,https://play.aarray.cn/rrty/sd-2-3958885_gqzm.m3u8?auth_key=1794746327-0-0-9bb2a27bd630d1bd8a2301607edaadc8&token=a348ae05b79a12db&device=4&platform=rrty
+【篮球】WCBA 新疆伊力特 vs 山东高速|线路C4,https://play.aarray.cn/rrty/sd-2-3958885_gqzm.m3u8?auth_key=1794747128-0-0-4a7a104e1608044f1447a3915a980eff&token=4a4c7042efb012cf&device=4&platform=rrty
+【篮球】WCBA 河南队 vs 上海久事|线路C4,https://play.aarray.cn/rrty/sd-2-3958886_gqzm.m3u8?auth_key=1794746367-0-0-66da3ad99e4adea63a754de15102099d&token=f048c01d8b28e858&device=4&platform=rrty
+【篮球】WCBA 河南队 vs 上海久事|线路C4,https://play.aarray.cn/rrty/sd-2-3958886_gqzm.m3u8?auth_key=1794747200-0-0-1e339750548448a0db8fc4544057e582&token=53edbc693fab0566&device=4&platform=rrty
+【篮球】WCBA 大连英博 vs 武汉|线路C4,https://play.aarray.cn/rrty/sd-2-3958884_gqzm.m3u8?auth_key=1794746337-0-0-1cb438c91bf74aa952395ebba40104b3&token=3f70c8e36ba9a25f&device=4&platform=rrty
+【篮球】WCBA 大连英博 vs 武汉|线路C4,https://play.aarray.cn/rrty/sd-2-3958884_gqzm.m3u8?auth_key=1794747168-0-0-fc8df86f743638b3730e226aad789297&token=c286b1d79eece134&device=4&platform=rrty
