@@ -1,4 +1,7 @@
-# 88zhibo live, updated 2026-11-15 04:14:15, 3 matches, 3 channels
+# 88zhibo live, updated 2026-11-15 04:34:33, 6 matches, 6 channels
 【足球】国际友谊 新西兰 vs 印度|线路A1,https://www.rtmpcdn.com/live/cc0d06e4-2e82-4adb-8a56-552122946e51.m3u8
-【足球】国际友谊 新西兰 vs 印度|线路C4,https://play.aarray.cn/rrty/sd-1-4650134_gqzm.m3u8?auth_key=1794716548-0-0-f41b6c64a93c9da58c46ea0ffb4ec093&token=f6b67645955ffd99&device=4&platform=rrty
 【篮球】NCAA 圣塔克拉拉大学 vs 新墨西哥大学|线路A1,https://www.rtmpcdn.com/live/baddc543-5d05-4205-9e44-ca17f45fc101.m3u8
+【足球】日足联 天籁枚方 vs FC本田|线路A1,https://www.rtmpcdn.com/live/p-c0e2ddfcd7f64555ba258bf7bf21ec83.m3u8
+【足球】日足联 润梅尔青森 vs 沼津青蓝|线路A1,https://www.rtmpcdn.com/live/p-c4a8941828ab4da19e938d8ff3305572.m3u8
+【足球】日足联 三重十四 vs 岩手盛冈仙鹤|线路A1,https://www.rtmpcdn.com/live/p-6d087837e880457b8de43f61856e32af.m3u8
+【足球】日足联 横滨体育 vs 大分红温泉|线路A1,https://www.rtmpcdn.com/live/p-142c4b5b9e234fc5a0dba19e725364ab.m3u8
