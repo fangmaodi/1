@@ -1,15 +1,21 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-title="篮球",【篮球】NBA 奇才 vs 火箭|腾讯超清6
 https://www.rtmpcdn.com/live/qq6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 奇才 vs 火箭|线路A1
-https://www.rtmpcdn.com/live/71223bef-1adf-46be-9820-21c53546c723.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 奇才 vs 火箭|线路Q1
 https://live01-cn-ali.xqnbu.com/live/26187441_tsc.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 雄鹿 vs 老鹰|腾讯超清7
 https://www.rtmpcdn.com/live/qq7.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 雄鹿 vs 老鹰|线路A1
 https://www.rtmpcdn.com/live/467e3e2d-3d93-4a15-8f14-f60b10a2fddf.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 雄鹿 vs 老鹰|线路Q3
+https://play.aarray.cn/rrty/hd-zh-2-3931685_gqzm.m3u8?auth_key=1794797802-0-0-7b84c072fbbce8df8f0322d3dc19625d&token=5b61c914338aa387&device=4&platform=rrty
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 威斯康星大学 vs 卡罗莱纳海岸大学|线路A1
 https://www.rtmpcdn.com/live/b72bd99c-f1f9-40a1-ad31-6c3eabe7d43c.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 德州圣安东尼大学 vs 得州州立|线路A1
 https://www.rtmpcdn.com/live/c428643f-9a8a-4188-a7b7-e06049abd403.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 国王 vs 雷霆|腾讯超清8
+https://www.rtmpcdn.com/live/qq8.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 国王 vs 雷霆|线路A1
+https://www.rtmpcdn.com/live/832d0c25-a56f-4df5-b35b-6232d2d39801.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 国王 vs 雷霆|线路Q2
+https://play.aarray.cn/rrty/hd-zh-2-3931686_gqzm.m3u8?auth_key=1794797500-0-0-975a1931e0954ce16e794024fe88fe8c&token=bb51d3ca4941bb53&device=4&platform=rrty
