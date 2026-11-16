@@ -1,1 +1,5 @@
-# 88zhibo live, updated 2026-11-16 04:54:20, 1 matches, 0 channels
+# 88zhibo live, updated 2026-11-16 13:21:32, 11 matches, 4 channels
+【篮球】WCBA 山西竹叶青酒 vs 合肥文旅|线路A1,https://www.rtmpcdn.com/live/088ad239-b843-4032-87f6-906c3f0c0132.m3u8
+【足球】非洲杯 苏丹 vs 塞内加尔|线路C4,https://play.aarray.cn/rrty/sd-1-4642756_gqzm.m3u8?auth_key=1794838150-0-0-adcccf6f5b26ae57f69af50a4352ebf8&token=8fd552910fa2a25c&device=4&platform=rrty
+【足球】非洲杯 津巴布韦 vs 赤道几内亚|线路C4,https://play.aarray.cn/rrty/sd-1-4642764_gqzm.m3u8?auth_key=1794838139-0-0-cb89b630b1aa598b2e7075883d8a5a84&token=10f33b49ffc1d770&device=4&platform=rrty
+【足球】非洲杯 纳米比亚 vs 喀麦隆|线路C4,https://play.aarray.cn/rrty/sd-1-4642753_gqzm.m3u8?auth_key=1794838180-0-0-f70ca00784f204b0685c41165d42e036&token=cf7e7f97cbf578ce&device=4&platform=rrty
