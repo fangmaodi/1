@@ -1,12 +1,12 @@
-# 88zhibo live, updated 2026-11-16 01:34:46, 11 matches, 11 channels
+# 88zhibo live, updated 2026-11-16 01:54:57, 13 matches, 11 channels
 【篮球】NBA 猛龙 vs 尼克斯|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
 【篮球】NBA 猛龙 vs 尼克斯|线路A1,https://www.rtmpcdn.com/live/af13eaa7-f7c4-46dd-a2b1-f0a54be476cd.m3u8
 【篮球】NBA 奇才 vs 火箭|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
-【篮球】NBA 奇才 vs 火箭|线路A1,https://www.rtmpcdn.com/live/71223bef-1adf-46be-9820-21c53546c723.m3u8
+【篮球】NBA 奇才 vs 火箭|线路Q2,https://www.rtmpcdn.com/live/71223bef-1adf-46be-9820-21c53546c723.m3u8
 【篮球】NBA 奇才 vs 火箭|线路Q1,https://live01-cn-ali.xqnbu.com/live/26187441_tsc.m3u8
 【篮球】NBA 奇才 vs 火箭|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931684_gqzm.m3u8?auth_key=1794794435-0-0-698ddf2e1cc14fe86476dc95f4eff602&token=2988b444441f0635&device=4&platform=rrty
 【篮球】NBA 雄鹿 vs 老鹰|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
-【篮球】NBA 雄鹿 vs 老鹰|线路A1,https://www.rtmpcdn.com/live/467e3e2d-3d93-4a15-8f14-f60b10a2fddf.m3u8
-【篮球】NBA 雄鹿 vs 老鹰|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931685_gqzm.m3u8?auth_key=1794794069-0-0-b97eeaddff153d970577cf88fbdd3419&token=c21720ca7bdd12dc&device=4&platform=rrty
+【篮球】NBA 雄鹿 vs 老鹰|线路Q2,https://www.rtmpcdn.com/live/467e3e2d-3d93-4a15-8f14-f60b10a2fddf.m3u8
+【篮球】NBA 雄鹿 vs 老鹰|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931685_gqzm.m3u8?auth_key=1794794069-0-0-b97eeaddff153d970577cf88fbdd3419&token=c21720ca7bdd12dc&device=4&platform=rrty
 【篮球】NCAA 威斯康星大学 vs 卡罗莱纳海岸大学|线路A1,https://www.rtmpcdn.com/live/b72bd99c-f1f9-40a1-ad31-6c3eabe7d43c.m3u8
 【篮球】NCAA 德州圣安东尼大学 vs 得州州立|线路A1,https://www.rtmpcdn.com/live/c428643f-9a8a-4188-a7b7-e06049abd403.m3u8
