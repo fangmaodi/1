@@ -1,18 +1,12 @@
-# 88zhibo live, updated 2026-11-15 23:54:36, 17 matches, 18 channels
-【篮球】NBA 太阳 vs 湖人|线路Q1,https://live01-cn-ali.xqnbu.com/live/62184400_tsc.m3u8
+# 88zhibo live, updated 2026-11-16 00:15:11, 9 matches, 12 channels
 【篮球】NBA 快船 vs 黄蜂|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
-【篮球】NBA 快船 vs 黄蜂|线路A1,https://www.rtmpcdn.com/live/489c3484-5b2a-42bf-9ec7-24ef19d6409a.m3u8
-【篮球】NBA 快船 vs 黄蜂|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931680_gqzm.m3u8?auth_key=1794787704-0-0-5a552e46d8ecb8c2aaab48922688e290&token=c67310347e56b68b&device=4&platform=rrty
 【篮球】NBA 爵士 vs 马刺|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
-【篮球】NBA 爵士 vs 马刺|线路Q2,https://www.rtmpcdn.com/live/18cb8d47-df33-4a60-8b11-28d150adb1f4.m3u8
-【篮球】NBA 爵士 vs 马刺|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931681_gqzm.m3u8?auth_key=1794787725-0-0-733121420708050fa884263f5223d72b&token=0e42cd0d79092570&device=4&platform=rrty
+【篮球】NBA 爵士 vs 马刺|线路A1,https://www.rtmpcdn.com/live/18cb8d47-df33-4a60-8b11-28d150adb1f4.m3u8
 【篮球】NCAA 布法罗大学 vs 堪尼席斯|线路A1,https://www.rtmpcdn.com/live/5eeb4589-fdcb-4f43-a863-3e25b7213b95.m3u8
-【篮球】NBA 猛龙 vs 尼克斯|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
-【篮球】NBA 猛龙 vs 尼克斯|线路Q2,https://www.rtmpcdn.com/live/af13eaa7-f7c4-46dd-a2b1-f0a54be476cd.m3u8
-【篮球】NBA 猛龙 vs 尼克斯|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931683_gqzm.m3u8?auth_key=1794787644-0-0-317be1632185571d51fccd5328c8967c&token=bb8898ff1e29c9e6&device=4&platform=rrty
+【篮球】NBA常规赛 猛龙 vs 尼克斯|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
+【篮球】NBA常规赛 猛龙 vs 尼克斯|线路A1,https://www.rtmpcdn.com/live/af13eaa7-f7c4-46dd-a2b1-f0a54be476cd.m3u8
 【篮球】NBA 凯尔特人 vs 独行侠|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
-【篮球】NBA 凯尔特人 vs 独行侠|线路Q2,https://www.rtmpcdn.com/live/a46b5c61-b967-4285-b8f4-cfc9725a9d27.m3u8
-【篮球】NBA 凯尔特人 vs 独行侠|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931682_gqzm.m3u8?auth_key=1794787508-0-0-0fd30ba74ed15f55af890c1332542aa3&token=8b1030349c5cbff1&device=4&platform=rrty
+【篮球】NBA 凯尔特人 vs 独行侠|线路A1,https://www.rtmpcdn.com/live/a46b5c61-b967-4285-b8f4-cfc9725a9d27.m3u8
 【篮球】NCAA 蒙大拿州立大学 vs 加州科大|线路A1,https://www.rtmpcdn.com/live/7f3cfea3-ed6e-4861-bbcb-2ecec64f5b26.m3u8
 【篮球】NBA 奇才 vs 火箭|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
 【篮球】NBA 奇才 vs 火箭|线路A1,https://www.rtmpcdn.com/live/71223bef-1adf-46be-9820-21c53546c723.m3u8
