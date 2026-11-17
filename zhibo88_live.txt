@@ -1,21 +1,13 @@
-# 88zhibo live, updated 2026-11-17 02:56:04, 31 matches, 20 channels
+# 88zhibo live, updated 2026-11-17 03:14:52, 21 matches, 12 channels
 【篮球】NBA 热火 vs 火箭|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
-【篮球】NBA 热火 vs 火箭|线路Q1,https://live01-cn-ali.xqnbu.com/live/73769008_tsc.m3u8
-【篮球】NBA 热火 vs 火箭|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931691_gqzm.m3u8?auth_key=1794884231-0-0-ab0b8cf7b8eee459162a08d9599412c7&token=9470c3850343532b&device=4&platform=rrty
 【篮球】NBA 篮网 vs 76人|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
-【篮球】NBA 篮网 vs 76人|线路A1,https://www.rtmpcdn.com/live/bb12293e-bb54-45cd-adc0-f7fa92e26dd7.m3u8
 【篮球】NBA 篮网 vs 76人|线路Q1,https://live01-cn-ali.xqnbu.com/live/61816059_tsc.m3u8
-【篮球】NBA 篮网 vs 76人|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931690_gqzm.m3u8?auth_key=1794884232-0-0-4a0db1dc1d44d0500a6516118ca05d8f&token=aedc1cd24f201db5&device=4&platform=rrty
 【篮球】NBA 鹈鹕 vs 勇士|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
-【篮球】NBA 鹈鹕 vs 勇士|线路Q2,https://www.rtmpcdn.com/live/611ce42b-5b42-4ab9-ae5c-aa1bf53e0b48.m3u8
-【篮球】NBA 鹈鹕 vs 勇士|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931693_gqzm.m3u8?auth_key=1794884301-0-0-e980f155fe6f5ac50288a31b79923285&token=d5b5d3e61a0b871d&device=4&platform=rrty
+【篮球】NBA 鹈鹕 vs 勇士|线路A1,https://www.rtmpcdn.com/live/611ce42b-5b42-4ab9-ae5c-aa1bf53e0b48.m3u8
 【篮球】NBA 森林狼 vs 开拓者|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
-【篮球】NBA 森林狼 vs 开拓者|线路Q2,https://www.rtmpcdn.com/live/2d37f281-bd97-4fe4-a2ea-a91560306bc8.m3u8
-【篮球】NBA 森林狼 vs 开拓者|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931692_gqzm.m3u8?auth_key=1794884201-0-0-80ecdb54286cd38fb23c2cba7c5e3596&token=ba3aaadbac1589b5&device=4&platform=rrty
+【篮球】NBA 森林狼 vs 开拓者|线路A1,https://www.rtmpcdn.com/live/2d37f281-bd97-4fe4-a2ea-a91560306bc8.m3u8
 【篮球】NCAA 密苏里州立大学 vs 阿比利基督大学|线路A1,https://www.rtmpcdn.com/live/0ba5353a-f8c5-44ab-b188-a78cc96d7deb.m3u8
-【篮球】NCAA 俄克拉荷马州立大学 vs 中阿肯色大学|线路A1,https://www.rtmpcdn.com/live/19de8c99-e42c-4ea2-be93-7de9e88325cd.m3u8
 【篮球】NCAA 得州农工大学 vs 东南路易斯安纳大学|线路A1,https://www.rtmpcdn.com/live/68f8a5b9-e53f-455a-9018-68b79bce3408.m3u8
 【篮球】NCAA 路易斯安那门罗大学 vs 达拉斯基督|线路A1,https://www.rtmpcdn.com/live/ac6c4160-65e3-403f-9ed9-b03ff0002d7e.m3u8
 【篮球】NBA 掘金 vs 太阳|腾讯超清8,https://www.rtmpcdn.com/live/qq8.m3u8
-【篮球】NBA 掘金 vs 太阳|线路Q2,https://www.rtmpcdn.com/live/ed5a7c66-c352-4222-803b-126e2688f7af.m3u8
-【篮球】NBA 掘金 vs 太阳|线路Q3,https://play.aarray.cn/rrty/hd-zh-2-3931694_gqzm.m3u8?auth_key=1794884311-0-0-b1a095415d23047ebd77e74975548252&token=26734553ac7a2361&device=4&platform=rrty
+【篮球】NBA 掘金 vs 太阳|线路A1,https://www.rtmpcdn.com/live/ed5a7c66-c352-4222-803b-126e2688f7af.m3u8
