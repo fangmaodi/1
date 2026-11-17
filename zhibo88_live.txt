@@ -1,5 +1,1 @@
-# 88zhibo live, updated 2026-11-17 04:54:28, 6 matches, 4 channels
-【篮球】NCAA 加州大学洛杉矶分校 vs 加州州立大学长滩分校|线路A1,https://www.rtmpcdn.com/live/2575345b-c2c2-4c88-a03f-06a0a6eb8122.m3u8
-【篮球】NCAA 加州圣玛丽大学 vs 波特兰州立大学|线路A1,https://www.rtmpcdn.com/live/afd8b97e-3674-41a9-9cda-7454857b4e47.m3u8
-【篮球】NCAA 丹佛大学 vs 科罗拉多大学斯普林司分校|线路A1,https://www.rtmpcdn.com/live/69d75fac-93c9-4af0-8129-3733c494287c.m3u8
-【篮球】NCAA 加州大学圣地亚哥分校 vs 得克萨斯南方大学|线路A1,https://www.rtmpcdn.com/live/f6a1edc5-1225-4edf-ae3d-68894cf4a99c.m3u8
+# 88zhibo live, updated 2026-11-17 05:14:19, 5 matches, 0 channels
