@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 鹈鹕 vs 勇士|腾讯超清7
-https://www.rtmpcdn.com/live/qq7.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 森林狼 vs 开拓者|腾讯超清6
-https://www.rtmpcdn.com/live/qq6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NCAA 路易斯安那门罗大学 vs 达拉斯基督|线路A1
-https://www.rtmpcdn.com/live/ac6c4160-65e3-403f-9ed9-b03ff0002d7e.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 太阳|腾讯超清8
 https://www.rtmpcdn.com/live/qq8.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 太阳|线路A1
