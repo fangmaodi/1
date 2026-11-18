@@ -1,8 +1,4 @@
-# 88zhibo live, updated 2026-11-18 00:55:20, 43 matches, 26 channels
-【足球】国际友谊 智利 vs 哥伦比亚|线路A1,https://www.rtmpcdn.com/live/f9954753-6e35-49cc-b237-ccf70e294101.m3u8
-【篮球】NCAA 西点军校 vs 毛利斯特大学|线路A1,https://www.rtmpcdn.com/live/6457b1ba-15d2-4a9f-976e-35ed2b63a12e.m3u8
-【篮球】NCAA 马萨诸塞罗威尔分校 vs 圣彼德斯大学|线路A1,https://www.rtmpcdn.com/live/b8dd76b9-cbb8-4978-b537-5e2997d31d83.m3u8
-【篮球】NCAA 南伊利诺大学 vs 自由大学|线路A1,https://www.rtmpcdn.com/live/4480984f-b38f-4f55-ba10-b0aa55bbfcbc.m3u8
+# 88zhibo live, updated 2026-11-18 01:15:33, 44 matches, 23 channels
 【足球】国际友谊 厄瓜多尔 vs 玻利维亚|线路A1,https://www.rtmpcdn.com/live/63587591-32ad-4271-8230-495110debe9b.m3u8
 【足球】国际友谊 乌拉圭 vs 多米尼加|线路A1,https://www.rtmpcdn.com/live/c817315e-ccfc-428e-94d3-47c1185c0113.m3u8
 【篮球】NCAA 普渡大学 vs 利普斯科姆勃大学|线路A1,https://www.rtmpcdn.com/live/fd5efa40-09cf-4807-95f6-ec6c077a754b.m3u8
@@ -23,5 +19,6 @@
 【篮球】NCAA 圣玛丽山大学 vs 理海大学|线路A1,https://www.rtmpcdn.com/live/5288d61b-3c73-4300-b342-e5ea4686f8b7.m3u8
 【篮球】NCAA 特洛伊大学 vs 加州州立北岭分校|线路A1,https://www.rtmpcdn.com/live/1c9d75c4-9c6f-4d4e-a2a7-7f3f27fa6ee2.m3u8
 【篮球】NCAA 巴克尼尔大学 vs 阿克伦大学|线路A1,https://www.rtmpcdn.com/live/5692ef07-68b7-43f1-844b-828098e30fc2.m3u8
+【篮球】NCAA 戴维森学院 vs 夏洛特大学|线路A1,https://www.rtmpcdn.com/live/2fe1d717-e288-48e0-9566-1e80c07ba9e9.m3u8
 【篮球】NBA 猛龙 vs 尼克斯|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931695_gqzm.m3u8?auth_key=1794964827-0-0-de2b820eae7a812b0fd71dab30fe2e20&token=30787235eaf0da8f&device=4&platform=rrty
-【篮球】NBA 马刺 vs 活塞|线路Q1,https://live01-cn-ali.xqnbu.com/live/11054896_tsc.m3u8
+【篮球】NBA常规赛 马刺 vs 活塞|线路Q1,https://live01-cn-ali.xqnbu.com/live/11054896_tsc.m3u8
