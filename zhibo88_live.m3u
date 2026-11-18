@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 活塞|线路Q1
-https://live01-cn-ali.xqnbu.com/live/11054896_tsc.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 田纳西大学 vs 密歇根州立大学|线路A1
 https://www.rtmpcdn.com/live/c92c34d5-faca-4bdd-b36b-07fd3957c254.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 弗吉尼亚大学 vs 欧道明大学|线路A1
@@ -9,3 +7,15 @@ https://www.rtmpcdn.com/live/671b5593-8646-41ff-8112-069f6dca585d.m3u8
 https://www.rtmpcdn.com/live/9ab964e7-0751-4410-b632-d7557115d9f7.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 内华达大学拉斯维加斯分校 vs 堪萨斯大学|线路A1
 https://www.rtmpcdn.com/live/d1cf2c18-96a5-4172-9eb8-d4164809dac8.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NCAA 太平洋大学 vs 太平洋联合学院|线路A1
+https://www.rtmpcdn.com/live/38a76362-cf61-4799-8d6a-f59201fa5439.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NCAA 加州浸信大学 vs 西雅图大学|线路A1
+https://www.rtmpcdn.com/live/95708739-f30e-47a4-b6ab-32a7c7c4bc87.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 快船 vs 爵士|腾讯超清4
+https://www.rtmpcdn.com/live/qq4.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 快船 vs 爵士|线路A1
+https://www.rtmpcdn.com/live/5e90840a-4b2b-402a-8cc8-aaf1fe797644.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 湖人 vs 黄蜂|腾讯超清5
+https://www.rtmpcdn.com/live/qq5.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 湖人 vs 黄蜂|线路A2
+https://www.rtmpcdn.com/live/bf15829a-04e9-4073-8dcd-288018824e05.m3u8
