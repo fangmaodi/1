@@ -1,9 +1,5 @@
-# 88zhibo live, updated 2026-11-18 03:35:15, 20 matches, 9 channels
-【篮球】NBA 森林狼 vs 开拓者|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
-【篮球】NBA 森林狼 vs 开拓者|线路A1,https://www.rtmpcdn.com/live/bb781fc9-f059-4d66-93b7-0dbbc0dfb1bd.m3u8
+# 88zhibo live, updated 2026-11-18 03:54:48, 21 matches, 5 channels
 【篮球】NBA 马刺 vs 活塞|线路Q1,https://live01-cn-ali.xqnbu.com/live/11054896_tsc.m3u8
-【篮球】NBA 马刺 vs 活塞|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
-【篮球】NCAA 犹他大学 vs 东华盛顿大学|线路A1,https://www.rtmpcdn.com/live/e23e15f5-d38d-48bf-9cfb-e7008e1b1cdb.m3u8
 【篮球】NCAA 田纳西大学 vs 密歇根州立大学|线路A1,https://www.rtmpcdn.com/live/c92c34d5-faca-4bdd-b36b-07fd3957c254.m3u8
 【篮球】NCAA 弗吉尼亚大学 vs 欧道明大学|线路A1,https://www.rtmpcdn.com/live/671b5593-8646-41ff-8112-069f6dca585d.m3u8
 【篮球】NCAA 加州大学戴维斯分校 vs 阿拉巴马州立大学|线路A1,https://www.rtmpcdn.com/live/9ab964e7-0751-4410-b632-d7557115d9f7.m3u8
