@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="足球",【足球】国际友谊 厄瓜多尔 vs 玻利维亚|线路A1
-https://www.rtmpcdn.com/live/63587591-32ad-4271-8230-495110debe9b.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NCAA 达特茅斯大学 vs 奥古斯塔|线路A1
-https://www.rtmpcdn.com/live/26759468-2f36-436e-9baa-b4f1e780401a.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 杜克大学 vs 伊利诺伊大学|线路A1
 https://www.rtmpcdn.com/live/d34cb55c-3576-4442-860e-a048ee45f1bd.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 马歇尔大学 vs 东田纳西州立大学|线路A1
@@ -37,15 +33,21 @@ https://www.rtmpcdn.com/live/1c9d75c4-9c6f-4d4e-a2a7-7f3f27fa6ee2.m3u8
 https://www.rtmpcdn.com/live/5692ef07-68b7-43f1-844b-828098e30fc2.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 戴维森学院 vs 夏洛特大学|线路A1
 https://www.rtmpcdn.com/live/2fe1d717-e288-48e0-9566-1e80c07ba9e9.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NCAA 南阿拉巴马 vs 斯普林希尔|线路A1
-https://www.rtmpcdn.com/live/0edab0b7-e72e-4372-9198-efd5ca6f0e5f.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 中佛罗里达大学 vs 密西西比州立大学|线路A1
 https://www.rtmpcdn.com/live/cc8fb7bf-3471-4a42-bb8c-d3e41e2ad5bf.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 西弗罗里达大学 vs 威斯康星大学绿湾分校|线路A1
 https://www.rtmpcdn.com/live/e0773a71-582e-4e8b-a69c-269378bc2a1c.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 森林狼 vs 开拓者|线路Q2
-https://play.aarray.cn/rrty/hd-zh-2-3931696_gqzm.m3u8?auth_key=1794966697-0-0-4e4d011268a4acc08db037c704ffb4bf&token=329a749eac0a273d&device=4&platform=rrty
-#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 马刺 vs 活塞|线路Q1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 猛龙 vs 尼克斯|腾讯超清1
+https://www.rtmpcdn.com/live/qq1.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 猛龙 vs 尼克斯|线路A1
+https://www.rtmpcdn.com/live/f9545b6c-1002-4d9d-be16-167988cc25af.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 猛龙 vs 尼克斯|线路Q2
+https://play.aarray.cn/rrty/hd-zh-2-3931695_gqzm.m3u8?auth_key=1794968735-0-0-dcf8ab7d80abea487146dd3f94157c4f&token=14c1624a20faea9b&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】NCAA 阿拉巴马大学 vs 肯尼索州立|线路A1
+https://www.rtmpcdn.com/live/19f4d5fb-77c4-4970-8c37-9ecd14356ac7.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NCAA 马萨诸塞大学 vs 布莱恩特大学|线路A1
+https://www.rtmpcdn.com/live/401da6ab-16cf-4a9c-8648-23dcdf26cb5a.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NCAA 路易斯安那理工大学 vs 杰克逊维尔州立大学|线路A1
+https://www.rtmpcdn.com/live/32a5f138-6131-4e11-8d93-9a4ad856268b.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 活塞|线路Q1
 https://live01-cn-ali.xqnbu.com/live/11054896_tsc.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 马刺 vs 活塞|线路Q2
-https://play.aarray.cn/rrty/hd-zh-2-3931697_gqzm.m3u8?auth_key=1794966767-0-0-38ffbb4e8fee571bf2ad6ff8046efadf&token=364206291acc928c&device=4&platform=rrty
