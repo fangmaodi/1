@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NCAA 圣母大学 vs 佛罗里达大学|线路A1
-https://www.rtmpcdn.com/live/02dc6cc0-2262-40b0-af1e-82c59216edaa.m3u8
 #EXTINF:-1 group-title="足球",【足球】国际友谊 阿根廷 vs 哥斯达黎加|线路A1
 https://www.rtmpcdn.com/live/09bd79f9-c986-4ea7-a95e-34c832abea5e.m3u8
 #EXTINF:-1 group-title="足球",【足球】国际友谊 智利 vs 哥伦比亚|线路A1
@@ -15,8 +13,12 @@ https://www.rtmpcdn.com/live/4480984f-b38f-4f55-ba10-b0aa55bbfcbc.m3u8
 https://play.aarray.cn/rrty/sd-1-4663057_gqzm.m3u8?auth_key=1794962330-0-0-ffea68ab4ef3aabce88da147104f96ee&token=8e5a64d6420eeff3&device=4&platform=rrty
 #EXTINF:-1 group-title="足球",【足球】国际友谊 厄瓜多尔 vs 玻利维亚|线路A1
 https://www.rtmpcdn.com/live/63587591-32ad-4271-8230-495110debe9b.m3u8
+#EXTINF:-1 group-title="足球",【足球】国际友谊 厄瓜多尔 vs 玻利维亚|线路C4
+https://play.aarray.cn/rrty/sd-1-4663057_gqzm.m3u8?auth_key=1794963125-0-0-fe0d8e61a778e14b18e2d280d955d009&token=4438dffab18d9477&device=4&platform=rrty
 #EXTINF:-1 group-title="足球",【足球】国际友谊 乌拉圭 vs 多米尼加|线路A1
 https://www.rtmpcdn.com/live/c817315e-ccfc-428e-94d3-47c1185c0113.m3u8
+#EXTINF:-1 group-title="足球",【足球】国际友谊 乌拉圭 vs 多米尼加|线路C4
+https://play.aarray.cn/rrty/sd-1-4663490_gqzm.m3u8?auth_key=1794963145-0-0-cbf5f10e41cc3f73d7cf270fb73a143f&token=5ed6c9954d45d109&device=4&platform=rrty
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 普渡大学 vs 利普斯科姆勃大学|线路A1
 https://www.rtmpcdn.com/live/fd5efa40-09cf-4807-95f6-ec6c077a754b.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 达特茅斯大学 vs 奥古斯塔|线路A1
