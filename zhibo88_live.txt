@@ -1,4 +1,4 @@
-# 88zhibo live, updated 2026-11-18 00:14:53, 16 matches, 12 channels
+# 88zhibo live, updated 2026-11-18 00:35:04, 37 matches, 28 channels
 【足球】国际友谊 阿根廷 vs 哥斯达黎加|线路A1,https://www.rtmpcdn.com/live/09bd79f9-c986-4ea7-a95e-34c832abea5e.m3u8
 【足球】国际友谊 智利 vs 哥伦比亚|线路A1,https://www.rtmpcdn.com/live/f9954753-6e35-49cc-b237-ccf70e294101.m3u8
 【篮球】NCAA 西点军校 vs 毛利斯特大学|线路A1,https://www.rtmpcdn.com/live/6457b1ba-15d2-4a9f-976e-35ed2b63a12e.m3u8
@@ -11,3 +11,19 @@
 【足球】国际友谊 乌拉圭 vs 多米尼加|线路C4,https://play.aarray.cn/rrty/sd-1-4663490_gqzm.m3u8?auth_key=1794963145-0-0-cbf5f10e41cc3f73d7cf270fb73a143f&token=5ed6c9954d45d109&device=4&platform=rrty
 【篮球】NCAA 普渡大学 vs 利普斯科姆勃大学|线路A1,https://www.rtmpcdn.com/live/fd5efa40-09cf-4807-95f6-ec6c077a754b.m3u8
 【篮球】NCAA 达特茅斯大学 vs 奥古斯塔|线路A1,https://www.rtmpcdn.com/live/26759468-2f36-436e-9baa-b4f1e780401a.m3u8
+【篮球】NCAA 杜克大学 vs 伊利诺伊大学|线路A1,https://www.rtmpcdn.com/live/d34cb55c-3576-4442-860e-a048ee45f1bd.m3u8
+【篮球】NCAA 马歇尔大学 vs 东田纳西州立大学|线路A1,https://www.rtmpcdn.com/live/e4368a9f-68c6-477d-9da4-840e9c5d546a.m3u8
+【篮球】NCAA 匹兹堡大学 vs 维兰诺瓦大学|线路A1,https://www.rtmpcdn.com/live/dc304cb1-2b52-4323-bbdb-32c2fa763c95.m3u8
+【篮球】NCAA 巴特勒大学 vs 西卡罗来纳大学|线路A1,https://www.rtmpcdn.com/live/567010ca-4f85-436d-86cb-391d5e635cef.m3u8
+【篮球】NCAA 达顿大学 vs 中密歇根大学|线路A1,https://www.rtmpcdn.com/live/cb12c664-dac3-4a74-bfdc-41cc1ac09dda.m3u8
+【篮球】NCAA 佛罗里达州立大学 vs 波尔州立大学|线路A1,https://www.rtmpcdn.com/live/bf05f58c-5227-4587-a67c-f033a072da9b.m3u8
+【篮球】NCAA 佐治亚理工学院 vs 诺佛克州立大学|线路A1,https://www.rtmpcdn.com/live/c70c814e-6e1f-4f04-afbd-9a5e520c0930.m3u8
+【篮球】NCAA 曼哈顿大学 vs 福特汉姆大学|线路A1,https://www.rtmpcdn.com/live/edbd09a2-3f5b-4baa-b70f-97d4303b74a1.m3u8
+【篮球】NCAA 普罗维登斯学院 vs 圣心大学|线路A1,https://www.rtmpcdn.com/live/25338243-2cea-4299-b5ef-d1a431f3cd28.m3u8
+【篮球】NCAA 圣约瑟大学 vs 瓦格纳大学|线路A1,https://www.rtmpcdn.com/live/4f2ebca4-45dc-4f3a-a720-c9d82a9380b1.m3u8
+【篮球】NCAA 南佛罗里达大学 vs 田纳西州立大学|线路A1,https://www.rtmpcdn.com/live/c8dd9bfc-db44-4332-98c0-55b311cf2f95.m3u8
+【篮球】NCAA 维克森林大学 vs 蒙茅斯大学|线路A1,https://www.rtmpcdn.com/live/e5ab5aa8-47e8-437a-997a-761efc7b672e.m3u8
+【篮球】NCAA 泽维尔大学 vs 克利夫兰州立大学|线路A1,https://www.rtmpcdn.com/live/dbd8ccde-bde7-4b4c-80a6-8f7e822af828.m3u8
+【篮球】NCAA 圣玛丽山大学 vs 理海大学|线路A1,https://www.rtmpcdn.com/live/5288d61b-3c73-4300-b342-e5ea4686f8b7.m3u8
+【篮球】NCAA 特洛伊大学 vs 加州州立北岭分校|线路A1,https://www.rtmpcdn.com/live/1c9d75c4-9c6f-4d4e-a2a7-7f3f27fa6ee2.m3u8
+【篮球】NCAA 巴克尼尔大学 vs 阿克伦大学|线路A1,https://www.rtmpcdn.com/live/5692ef07-68b7-43f1-844b-828098e30fc2.m3u8
