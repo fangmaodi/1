@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-title="篮球",【篮球】NBA 快船 vs 爵士|腾讯超清4
 https://www.rtmpcdn.com/live/qq4.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 快船 vs 爵士|线路A1
-https://www.rtmpcdn.com/live/5e90840a-4b2b-402a-8cc8-aaf1fe797644.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 湖人 vs 黄蜂|腾讯超清5
 https://www.rtmpcdn.com/live/qq5.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 湖人 vs 黄蜂|线路A1
