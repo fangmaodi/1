@@ -1,1 +1,5 @@
 #EXTM3U x-tvg-url=""
+#EXTINF:-1 group-title="足球",【足球】U17世界杯 韩国U17 vs 乌干达U17|线路A1
+https://www.rtmpcdn.com/live/3eb6b4ea-b1e2-45b6-98c7-1aa86105ad6b.m3u8
+#EXTINF:-1 group-title="足球",【足球】U17世界杯 沙特阿拉伯U17 vs 乌拉圭U17|线路A1
+https://www.rtmpcdn.com/live/c9cb652c-6620-4d0f-9d28-a348cc21335d.m3u8
