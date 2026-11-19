@@ -1,12 +1,14 @@
-# 88zhibo live, updated 2026-11-19 01:55:03, 25 matches, 11 channels
+# 88zhibo live, updated 2026-11-19 02:15:21, 30 matches, 13 channels
 【篮球】NBA 步行者 vs 火箭|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
 【篮球】NBA 步行者 vs 火箭|线路A1,https://www.rtmpcdn.com/live/0d13d22d-40f6-4892-9a44-2c9f008d343b.m3u8
+【篮球】NBA 骑士 vs 灰熊|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
 【篮球】NBA 骑士 vs 灰熊|线路A1,https://www.rtmpcdn.com/live/73ab9c9c-8f2d-4a0e-b209-2e616f9208e0.m3u8
 【篮球】NBA 热火 vs 雄鹿|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
 【篮球】NBA 热火 vs 雄鹿|线路A1,https://www.rtmpcdn.com/live/08f0a5ce-01d5-455b-ab23-06699b1acd5f.m3u8
 【篮球】NBA 魔术 vs 76人|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
-【篮球】NBA 魔术 vs 76人|线路Q2,https://www.rtmpcdn.com/live/30f45e72-142c-4f3a-aa91-1fbad831f9ed.m3u8
+【篮球】NBA 魔术 vs 76人|线路A1,https://www.rtmpcdn.com/live/30f45e72-142c-4f3a-aa91-1fbad831f9ed.m3u8
 【篮球】NBA 魔术 vs 76人|线路Q1,https://live01-cn-ali.xqnbu.com/live/95106392_tsc.m3u8
+【篮球】NCAA 俄亥俄大学 vs 摩海德州立大学|线路A1,https://www.rtmpcdn.com/live/b04efe90-2a19-4392-a6dd-fd6b2fddba16.m3u8
 【篮球】NCAA 辛辛那提大学 vs 杨斯镇州立|线路A1,https://www.rtmpcdn.com/live/9ba65180-66a9-44c8-b191-935e30afb5b2.m3u8
 【篮球】NBA 独行侠 vs 勇士|线路Q1,https://live01-cn-ali.xqnbu.com/live/57408314_tsc.m3u8
 【篮球】NBA 独行侠 vs 勇士|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931709_gqzm.m3u8?auth_key=1795055498-0-0-f736af7d17cc5aef55b85c3cc9315a23&token=7457a9c27822fb9d&device=4&platform=rrty
