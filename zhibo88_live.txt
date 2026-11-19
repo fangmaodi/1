@@ -1,5 +1,4 @@
-# 88zhibo live, updated 2026-11-19 04:14:33, 13 matches, 11 channels
-【篮球】NCAA 亚利桑那州立大学 vs 奥克兰大学|线路A1,https://www.rtmpcdn.com/live/5e25fc49-92e6-4fd3-bb96-5da8422f8f90.m3u8
+# 88zhibo live, updated 2026-11-19 04:34:53, 12 matches, 10 channels
 【篮球】NBA 掘金 vs 凯尔特人|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
 【篮球】NBA 掘金 vs 凯尔特人|线路A1,https://www.rtmpcdn.com/live/c7f7f737-aa3b-418e-a512-c71ccf773659.m3u8
 【篮球】NCAA 圣地亚戈大学 vs 加州大学河滨分校|线路A1,https://www.rtmpcdn.com/live/961ae93c-0865-40f8-a5fc-5305902768a3.m3u8
