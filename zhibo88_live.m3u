@@ -1,12 +1,8 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 火箭|腾讯超清2
 https://www.rtmpcdn.com/live/qq2.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 火箭|线路A1
-https://www.rtmpcdn.com/live/0d13d22d-40f6-4892-9a44-2c9f008d343b.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 骑士 vs 灰熊|腾讯超清1
 https://www.rtmpcdn.com/live/qq1.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 骑士 vs 灰熊|线路A1
-https://www.rtmpcdn.com/live/73ab9c9c-8f2d-4a0e-b209-2e616f9208e0.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 热火 vs 雄鹿|腾讯超清3
 https://www.rtmpcdn.com/live/qq3.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 热火 vs 雄鹿|线路A1
@@ -17,11 +13,17 @@ https://www.rtmpcdn.com/live/qq4.m3u8
 https://www.rtmpcdn.com/live/30f45e72-142c-4f3a-aa91-1fbad831f9ed.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 魔术 vs 76人|线路Q1
 https://live01-cn-ali.xqnbu.com/live/95106392_tsc.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NCAA 俄亥俄大学 vs 摩海德州立大学|线路A1
-https://www.rtmpcdn.com/live/b04efe90-2a19-4392-a6dd-fd6b2fddba16.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NCAA 辛辛那提大学 vs 杨斯镇州立|线路A1
-https://www.rtmpcdn.com/live/9ba65180-66a9-44c8-b191-935e30afb5b2.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 篮网 vs 公牛|线路A1
+https://www.rtmpcdn.com/live/10837125-76ad-458a-9582-39ccb2a382e9.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 猛龙 vs 奇才|线路A1
+https://www.rtmpcdn.com/live/08ae93f8-7509-4ec9-b452-3211d851752c.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 鹈鹕 vs 活塞|线路A1
+https://www.rtmpcdn.com/live/702ded3d-b03c-4a1d-9d05-b2d6d6d2150c.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 独行侠 vs 勇士|线路Q1
 https://live01-cn-ali.xqnbu.com/live/57408314_tsc.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 独行侠 vs 勇士|线路Q2
-https://play.aarray.cn/rrty/hd-zh-2-3931709_gqzm.m3u8?auth_key=1795055498-0-0-f736af7d17cc5aef55b85c3cc9315a23&token=7457a9c27822fb9d&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】NCAA 雪城大学 vs 康奈尔大学|线路A1
+https://www.rtmpcdn.com/live/c186bedf-9fb6-4800-8e0f-e014776b2bf0.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NCAA 芝加哥洛约拉大学 vs 卫奇塔州立|线路A1
+https://www.rtmpcdn.com/live/e0b3a022-6ffd-4b41-8d02-ee1d658cc23d.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NCAA 布拉德利大学 vs 普渡大学韦恩堡分校|线路A1
+https://www.rtmpcdn.com/live/8784a04f-d507-47aa-aaa5-d8ad5cae7a24.m3u8
