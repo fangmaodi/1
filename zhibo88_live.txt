@@ -1,11 +1,7 @@
-# 88zhibo live, updated 2026-11-19 03:34:41, 20 matches, 15 channels
-【篮球】NBA 独行侠 vs 勇士|线路Q1,https://live01-cn-ali.xqnbu.com/live/57408314_tsc.m3u8
-【篮球】NBA 独行侠 vs 勇士|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931709_gqzm.m3u8?auth_key=1795059416-0-0-3b0e3e564c00032a420e2f0c3488d613&token=792300d7de87dc6d&device=4&platform=rrty
-【篮球】NCAA 杨百翰大学 vs 北科罗拉多大学|线路A1,https://www.rtmpcdn.com/live/d216140b-c6e2-4a30-8edf-2fbae4a1d088.m3u8
+# 88zhibo live, updated 2026-11-19 03:54:37, 20 matches, 11 channels
 【篮球】NCAA 科罗拉多大学 vs 波特兰大学|线路A1,https://www.rtmpcdn.com/live/a4afd676-407c-4eef-9bad-8c98cb2c54cd.m3u8
 【篮球】NCAA 亚利桑那州立大学 vs 奥克兰大学|线路A1,https://www.rtmpcdn.com/live/5e25fc49-92e6-4fd3-bb96-5da8422f8f90.m3u8
 【篮球】NCAA 密苏里大学 vs 艾尔康州立大学|线路A1,https://www.rtmpcdn.com/live/f0fb4f47-abd1-433b-80ec-b8dd673e66e7.m3u8
-【篮球】NBA 掘金 vs 凯尔特人|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931708_gqzm.m3u8?auth_key=1795060005-0-0-fdfab098b312fed7f0a8d8377e35370c&token=ae59e0f684dd2530&device=4&platform=rrty
 【篮球】NBA 掘金 vs 凯尔特人|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
 【篮球】NBA 掘金 vs 凯尔特人|线路A1,https://www.rtmpcdn.com/live/c7f7f737-aa3b-418e-a512-c71ccf773659.m3u8
 【篮球】NCAA 圣地亚戈大学 vs 加州大学河滨分校|线路A1,https://www.rtmpcdn.com/live/961ae93c-0865-40f8-a5fc-5305902768a3.m3u8
