@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 热火 vs 雄鹿|腾讯超清3
-https://www.rtmpcdn.com/live/qq3.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 热火 vs 雄鹿|线路A1
-https://www.rtmpcdn.com/live/08f0a5ce-01d5-455b-ab23-06699b1acd5f.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 猛龙 vs 奇才|线路A1
-https://www.rtmpcdn.com/live/08ae93f8-7509-4ec9-b452-3211d851752c.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 雷霆 vs 老鹰|腾讯超清6
 https://www.rtmpcdn.com/live/qq6.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 雷霆 vs 老鹰|线路A1
@@ -21,12 +15,8 @@ https://www.rtmpcdn.com/live/8a7a66f4-d567-4c18-b600-316d4fef2cac.m3u8
 https://play.aarray.cn/rrty/hd-zh-2-3931709_gqzm.m3u8?auth_key=1795059416-0-0-3b0e3e564c00032a420e2f0c3488d613&token=792300d7de87dc6d&device=4&platform=rrty
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 雪城大学 vs 康奈尔大学|线路A1
 https://www.rtmpcdn.com/live/c186bedf-9fb6-4800-8e0f-e014776b2bf0.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NCAA 芝加哥洛约拉大学 vs 卫奇塔州立|线路A1
-https://www.rtmpcdn.com/live/e0b3a022-6ffd-4b41-8d02-ee1d658cc23d.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 内布拉斯加大学 vs 南达科他大学|线路A1
 https://www.rtmpcdn.com/live/bc306c7a-f6ff-4b9a-8bb9-8e95c1bcf926.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NCAA 杨百翰大学 vs 北科罗拉多大学|线路A1
-https://www.rtmpcdn.com/live/d216140b-c6e2-4a30-8edf-2fbae4a1d088.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 科罗拉多大学 vs 波特兰大学|线路A1
 https://www.rtmpcdn.com/live/a4afd676-407c-4eef-9bad-8c98cb2c54cd.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 亚利桑那州立大学 vs 奥克兰大学|线路A1
