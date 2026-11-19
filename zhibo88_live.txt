@@ -1,11 +1,1 @@
-# 88zhibo live, updated 2026-11-19 04:34:53, 12 matches, 10 channels
-【篮球】NBA 掘金 vs 凯尔特人|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
-【篮球】NBA 掘金 vs 凯尔特人|线路A1,https://www.rtmpcdn.com/live/c7f7f737-aa3b-418e-a512-c71ccf773659.m3u8
-【篮球】NCAA 圣地亚戈大学 vs 加州大学河滨分校|线路A1,https://www.rtmpcdn.com/live/961ae93c-0865-40f8-a5fc-5305902768a3.m3u8
-【篮球】NBA 国王 vs 太阳|腾讯超清10,https://www.rtmpcdn.com/live/qq10.m3u8
-【篮球】NBA 国王 vs 太阳|线路A1,https://www.rtmpcdn.com/live/54251159-e6d4-4700-85d8-a4a403dac15d.m3u8
-【篮球】NBA常规赛 湖人 vs 爵士|腾讯超清9,https://www.rtmpcdn.com/live/qq9.m3u8
-【篮球】NBA常规赛 湖人 vs 爵士|线路A1,https://www.rtmpcdn.com/live/d34735d1-cba0-4e1f-8acb-7e0c5aa25120.m3u8
-【篮球】NCAA 旧金山大学 vs 路易斯安那拉法叶分校|线路A1,https://www.rtmpcdn.com/live/cc89bb26-bcc4-4936-b1a7-06ed0ff142d5.m3u8
-【篮球】NCAA 内华达大学拉斯维加斯分校 vs 奥本大学|线路A1,https://www.rtmpcdn.com/live/cb574624-8727-4b86-b6b3-78b3503df5ea.m3u8
-【篮球】NCAA 加州大学洛杉矶分校 vs 加州州立富勒顿分校|线路A1,https://www.rtmpcdn.com/live/230d722f-4a41-484c-a374-2ca4d0a5ba31.m3u8
+# 88zhibo live, updated 2026-11-19 05:56:24, 5 matches, 0 channels
