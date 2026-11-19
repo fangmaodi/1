@@ -1,3 +1,2 @@
-# 88zhibo live, updated 2026-11-19 15:23:16, 7 matches, 2 channels
-【足球】U17世界杯 韩国U17 vs 乌干达U17|线路A1,https://www.rtmpcdn.com/live/3eb6b4ea-b1e2-45b6-98c7-1aa86105ad6b.m3u8
-【足球】U17世界杯 沙特阿拉伯U17 vs 乌拉圭U17|线路A1,https://www.rtmpcdn.com/live/c9cb652c-6620-4d0f-9d28-a348cc21335d.m3u8
+# 88zhibo live, updated 2026-11-19 22:45:26, 1 matches, 1 channels
+【篮球】NCAA 圣母大学 vs 奥本大学|线路A1,https://www.rtmpcdn.com/live/fbc643a6-8d75-423f-b3b7-4047c510c04b.m3u8
