@@ -1,10 +1,6 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NCAA 科罗拉多大学 vs 波特兰大学|线路A1
-https://www.rtmpcdn.com/live/a4afd676-407c-4eef-9bad-8c98cb2c54cd.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 亚利桑那州立大学 vs 奥克兰大学|线路A1
 https://www.rtmpcdn.com/live/5e25fc49-92e6-4fd3-bb96-5da8422f8f90.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NCAA 密苏里大学 vs 艾尔康州立大学|线路A1
-https://www.rtmpcdn.com/live/f0fb4f47-abd1-433b-80ec-b8dd673e66e7.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 凯尔特人|腾讯超清7
 https://www.rtmpcdn.com/live/qq7.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 凯尔特人|线路A1
@@ -21,3 +17,7 @@ https://www.rtmpcdn.com/live/qq9.m3u8
 https://www.rtmpcdn.com/live/d34735d1-cba0-4e1f-8acb-7e0c5aa25120.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NCAA 旧金山大学 vs 路易斯安那拉法叶分校|线路A1
 https://www.rtmpcdn.com/live/cc89bb26-bcc4-4936-b1a7-06ed0ff142d5.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NCAA 内华达大学拉斯维加斯分校 vs 奥本大学|线路A1
+https://www.rtmpcdn.com/live/cb574624-8727-4b86-b6b3-78b3503df5ea.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NCAA 加州大学洛杉矶分校 vs 加州州立富勒顿分校|线路A1
+https://www.rtmpcdn.com/live/230d722f-4a41-484c-a374-2ca4d0a5ba31.m3u8
