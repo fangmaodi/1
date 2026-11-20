@@ -1,8 +1,17 @@
-# 88zhibo live, updated 2026-11-20 01:14:46, 14 matches, 7 channels
+# 88zhibo live, updated 2026-11-20 01:34:42, 14 matches, 16 channels
 【足球】足球综合 奥兰多城 vs 辛辛那提|线路C4,https://play.aarray.cn/rrty/sd-1-4666433_gqzm.m3u8?auth_key=1795138707-0-0-71cbce1db09ff7ac1ee9b5de66ee3fef&token=5e9ef149337b4423&device=4&platform=rrty
-【足球】足球综合 奥兰多城 vs 辛辛那提|线路A1,https://www.rtmpcdn.com/live/3a8d834b-1bf3-4e43-92bb-f0739fdd517b.m3u8
 【足球】足球综合 奥兰多城 vs 辛辛那提|线路C4,https://play.aarray.cn/rrty/hd-en-1-4666433_gqzm.m3u8?auth_key=1795139566-0-0-985e3ee507e9a95376e3647da1ea0a9d&token=ef47ec7321de78c9&device=4&platform=rrty
 【篮球】NCAA 北阿拉巴马 vs 塔斯库姆大学|线路A1,https://www.rtmpcdn.com/live/3eefd3cf-d8e6-46fc-93bb-93788a76d8c5.m3u8
 【篮球】NCAA 德瑞克大学 vs 查尔斯顿大学|线路A1,https://www.rtmpcdn.com/live/e2c86daf-430e-4923-a886-2a239d996bd4.m3u8
+【篮球】NBA 雄鹿 vs 开拓者|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
+【篮球】NBA 雄鹿 vs 开拓者|线路A1,https://www.rtmpcdn.com/live/44e496eb-baf6-4d7c-9948-59c29803175b.m3u8
+【篮球】NBA 雄鹿 vs 开拓者|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931713_gqzm.m3u8?auth_key=1795139838-0-0-d0c249d676fa6308f1c6e02576fa31aa&token=1de3314fc4274b00&device=4&platform=rrty
 【篮球】NBA 马刺 vs 快船|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
 【篮球】NBA 马刺 vs 快船|线路A1,https://www.rtmpcdn.com/live/e75cc998-6868-4e42-af20-f52259984a71.m3u8
+【篮球】NBA 灰熊 vs 勇士|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
+【篮球】NBA 灰熊 vs 勇士|线路A1,https://www.rtmpcdn.com/live/66fee0d0-af28-4a05-91e1-0cace43b37a8.m3u8
+【篮球】NBA 灰熊 vs 勇士|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931712_gqzm.m3u8?auth_key=1795139788-0-0-351633cb7470d98932e5f545bc5e52d8&token=828ae6d102a83aa2&device=4&platform=rrty
+【篮球】NBA常规赛 森林狼 vs 尼克斯|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
+【篮球】NBA常规赛 森林狼 vs 尼克斯|线路A1,https://www.rtmpcdn.com/live/b7fe4322-9132-4b43-a389-78b12487e617.m3u8
+【篮球】NBA常规赛 森林狼 vs 尼克斯|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931714_gqzm.m3u8?auth_key=1795139860-0-0-1a2e006a12581ceb904eec32def3bd92&token=821de399a4fbb449&device=4&platform=rrty
+【篮球】NCAA 路易斯维尔大学 vs 斯泰森大学|线路A1,https://www.rtmpcdn.com/live/7b7349ff-2f20-4fa1-8d5c-c7f2e207102e.m3u8
