@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 雄鹿 vs 开拓者|腾讯超清2
-https://www.rtmpcdn.com/live/qq2.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 快船|腾讯超清4
-https://www.rtmpcdn.com/live/qq4.m3u8
 #EXTINF:-1 group-title="足球",【足球】足球综合 西雅图海湾人 vs 皇家盐湖城|线路C4
 https://play.aarray.cn/rrty/sd-1-4666476_gqzm.m3u8?auth_key=1795147777-0-0-184e6cbde7cbb6bc08432ee8da780b83&token=726b094ae32f11af&device=4&platform=rrty
 #EXTINF:-1 group-title="足球",【足球】足球综合 西雅图海湾人 vs 皇家盐湖城|线路A1
