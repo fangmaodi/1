@@ -1,20 +1,16 @@
-# 88zhibo live, updated 2026-11-20 01:54:45, 23 matches, 20 channels
+# 88zhibo live, updated 2026-11-20 02:14:43, 23 matches, 16 channels
 【篮球】NCAA 巴特勒大学 vs 东北大学|线路A1,https://www.rtmpcdn.com/live/e4bf8182-3269-4332-a972-926cde115438.m3u8
-【篮球】NCAA 昆尼皮亚克大学 vs 缅因大学|线路A1,https://www.rtmpcdn.com/live/80ebb22e-12d3-44b3-af65-021d1d3bcd52.m3u8
 【篮球】NCAA 北阿拉巴马 vs 塔斯库姆大学|线路A1,https://www.rtmpcdn.com/live/3eefd3cf-d8e6-46fc-93bb-93788a76d8c5.m3u8
 【篮球】NCAA 德瑞克大学 vs 查尔斯顿大学|线路A1,https://www.rtmpcdn.com/live/e2c86daf-430e-4923-a886-2a239d996bd4.m3u8
 【篮球】NCAA 路易斯安那理工大学 vs 杜兰大学|线路A1,https://www.rtmpcdn.com/live/e6eadbb4-8a3b-4d83-9502-5ab3b23f8381.m3u8
 【篮球】NBA 雄鹿 vs 开拓者|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
-【篮球】NBA 雄鹿 vs 开拓者|线路Q2,https://www.rtmpcdn.com/live/44e496eb-baf6-4d7c-9948-59c29803175b.m3u8
-【篮球】NBA 雄鹿 vs 开拓者|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931713_gqzm.m3u8?auth_key=1795139838-0-0-d0c249d676fa6308f1c6e02576fa31aa&token=1de3314fc4274b00&device=4&platform=rrty
+【篮球】NBA 雄鹿 vs 开拓者|线路A1,https://www.rtmpcdn.com/live/44e496eb-baf6-4d7c-9948-59c29803175b.m3u8
 【篮球】NBA 马刺 vs 快船|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
-【篮球】NBA 马刺 vs 快船|线路Q2,https://www.rtmpcdn.com/live/e75cc998-6868-4e42-af20-f52259984a71.m3u8
+【篮球】NBA 马刺 vs 快船|线路A1,https://www.rtmpcdn.com/live/e75cc998-6868-4e42-af20-f52259984a71.m3u8
 【篮球】NBA 灰熊 vs 勇士|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
-【篮球】NBA 灰熊 vs 勇士|线路Q2,https://www.rtmpcdn.com/live/66fee0d0-af28-4a05-91e1-0cace43b37a8.m3u8
-【篮球】NBA 灰熊 vs 勇士|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931712_gqzm.m3u8?auth_key=1795139788-0-0-351633cb7470d98932e5f545bc5e52d8&token=828ae6d102a83aa2&device=4&platform=rrty
-【篮球】NBA 森林狼 vs 尼克斯|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
-【篮球】NBA 森林狼 vs 尼克斯|线路Q2,https://www.rtmpcdn.com/live/b7fe4322-9132-4b43-a389-78b12487e617.m3u8
-【篮球】NBA 森林狼 vs 尼克斯|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931714_gqzm.m3u8?auth_key=1795139860-0-0-1a2e006a12581ceb904eec32def3bd92&token=821de399a4fbb449&device=4&platform=rrty
+【篮球】NBA 灰熊 vs 勇士|线路A1,https://www.rtmpcdn.com/live/66fee0d0-af28-4a05-91e1-0cace43b37a8.m3u8
+【篮球】NBA常规赛 森林狼 vs 尼克斯|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
+【篮球】NBA常规赛 森林狼 vs 尼克斯|线路A1,https://www.rtmpcdn.com/live/b7fe4322-9132-4b43-a389-78b12487e617.m3u8
 【篮球】NCAA 路易斯维尔大学 vs 斯泰森大学|线路A1,https://www.rtmpcdn.com/live/7b7349ff-2f20-4fa1-8d5c-c7f2e207102e.m3u8
 【篮球】NCAA 休斯顿基督大学 vs 乔治亚南方学院|线路A1,https://www.rtmpcdn.com/live/9f481ccd-dd85-4041-ba9a-d5cc88370d79.m3u8
 【篮球】NCAA 圣托马斯 vs 东南密苏里州立大学|线路A1,https://www.rtmpcdn.com/live/9472a03c-d4f6-4605-98b3-4873ebd89f4b.m3u8
