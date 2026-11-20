@@ -1,1 +1,7 @@
-# 88zhibo live, updated 2026-11-20 00:34:41, 3 matches, 0 channels
+# 88zhibo live, updated 2026-11-20 00:54:57, 14 matches, 6 channels
+【足球】美职联 奥兰多城 vs 辛辛那提|线路C4,https://play.aarray.cn/rrty/sd-1-4666433_gqzm.m3u8?auth_key=1795138707-0-0-71cbce1db09ff7ac1ee9b5de66ee3fef&token=5e9ef149337b4423&device=4&platform=rrty
+【足球】美职联 奥兰多城 vs 辛辛那提|线路A1,https://www.rtmpcdn.com/live/3a8d834b-1bf3-4e43-92bb-f0739fdd517b.m3u8
+【篮球】NCAA 北阿拉巴马 vs 塔斯库姆大学|线路A1,https://www.rtmpcdn.com/live/3eefd3cf-d8e6-46fc-93bb-93788a76d8c5.m3u8
+【篮球】NCAA 德瑞克大学 vs 查尔斯顿大学|线路A1,https://www.rtmpcdn.com/live/e2c86daf-430e-4923-a886-2a239d996bd4.m3u8
+【篮球】NBA 马刺 vs 快船|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
+【篮球】NBA 马刺 vs 快船|线路A1,https://www.rtmpcdn.com/live/e75cc998-6868-4e42-af20-f52259984a71.m3u8
