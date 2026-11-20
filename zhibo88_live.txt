@@ -1,3 +1,6 @@
-# 88zhibo live, updated 2026-11-20 04:14:06, 3 matches, 2 channels
-【足球】足球综合 西雅图海湾人 vs 皇家盐湖城|线路A1,https://www.rtmpcdn.com/live/5642b5a4-f9ae-43d1-857c-01cefaec0c61.m3u8
-【足球】足球综合 西雅图海湾人 vs 皇家盐湖城|线路C4,https://play.aarray.cn/rrty/hd-en-1-4666476_gqzm.m3u8?auth_key=1795148582-0-0-bafb2eee491367f4b7d91068c34fc4a5&token=dcdb7ee240bd9809&device=4&platform=rrty
+# 88zhibo live, updated 2026-11-20 04:34:09, 6 matches, 5 channels
+【篮球】NCAA 加州大学伯克利分校 vs 东德克萨斯农工大学|线路A1,https://www.rtmpcdn.com/live/66d4bf4d-1f48-4965-ad38-ca8733333e1f.m3u8
+【篮球】NCAA 斯坦福大学 vs 萨克拉门托州立大学|线路A1,https://www.rtmpcdn.com/live/c7ec4bf2-cbbc-4d28-a59a-2721f7e02ba8.m3u8
+【篮球】NCAA 波特兰州立大学 vs 西北印第安学院|线路A1,https://www.rtmpcdn.com/live/4e16f141-91e1-49ba-94ae-5ebe6c400fcd.m3u8
+【篮球】NCAA 圣塔克拉拉大学 vs 弗吉尼亚联邦大学|线路A1,https://www.rtmpcdn.com/live/02f026d6-0811-4e99-b9cb-635c915ef9f8.m3u8
+【篮球】NCAA 休斯顿大学 vs 堪萨斯大学|线路A1,https://www.rtmpcdn.com/live/20096541-ad5e-47a2-bb42-63f91f78c163.m3u8
