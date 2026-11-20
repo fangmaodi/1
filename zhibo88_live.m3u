@@ -1,9 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="足球",【足球】U17世界杯 比利时U17 vs 越南U17|线路A1
-https://www.rtmpcdn.com/live/0b18ba1a-36d6-447f-9c4b-fab0a9d9b259.m3u8
-#EXTINF:-1 group-title="足球",【足球】U17亚洲杯 印度U17 vs 马来西亚U17|线路A1
-https://www.rtmpcdn.com/live/3f78757a-d36a-4ed4-997a-0171e9ca9c01.m3u8
-#EXTINF:-1 group-title="足球",【足球】U17世界杯 马里U17 vs 新西兰U17|线路A1
-https://www.rtmpcdn.com/live/fd5c4a39-e6d0-4346-acd2-38937379edde.m3u8
-#EXTINF:-1 group-title="足球",【足球】U17世界杯 西班牙U17 vs 中国U17|线路Q2
-https://www.rtmpcdn.com/live/cctv5.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 毕尔巴鄂竞技 vs 西班牙人|线路Q1
+https://live01-cn-ali.xqnbu.com/live/48022087_tsc.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 毕尔巴鄂竞技 vs 西班牙人|线路C4
+https://spl.tiyucdn.com/matchlive/ls2075532_30fps.m3u8
