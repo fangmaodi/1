@@ -1,10 +1,6 @@
-# 88zhibo live, updated 2026-11-21 05:41:09, 11 matches, 15 channels
-【篮球】NBA 掘金 vs 火箭|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
+# 88zhibo live, updated 2026-11-21 05:54:23, 14 matches, 11 channels
 【篮球】NBA 掘金 vs 火箭|线路Q1,https://live01-cn-ali.xqnbu.com/live/29071793_tsc.m3u8
-【篮球】NBA 湖人 vs 国王|线路Q1,https://live01-cn-ali.xqnbu.com/live/42811655_tsc.m3u8
 【足球】澳超 奥克兰FC vs 墨尔本胜利|线路A1,https://www.rtmpcdn.com/live/35896e44-587a-4197-8b07-0b3d7d837619.m3u8
-【足球】日足联 浦安矛船 vs VONDS市原|线路A1,https://www.rtmpcdn.com/live/dcddfe99-cae2-413f-86cf-076114ccc87a.m3u8
-【足球】日足联 大分红温泉 vs 天籁枚方|线路A1,https://www.rtmpcdn.com/live/ff024a77-2b72-48f7-abf3-0d101d40ad5e.m3u8
 【足球】日职联 町田泽维亚 vs 长崎航海|线路A1,https://www.rtmpcdn.com/live/2047bf76-2410-49aa-b435-82a4369c0fd8.m3u8
 【足球】日职联 京都不死鸟 vs 浦和红钻|线路A1,https://www.rtmpcdn.com/live/1fac8e51-43b5-4527-8708-84df2f585671.m3u8
 【足球】日职联 广岛三箭 vs 横滨水手|线路A1,https://www.rtmpcdn.com/live/af11f00d-5649-49c8-909e-89ae4faa9ae5.m3u8
