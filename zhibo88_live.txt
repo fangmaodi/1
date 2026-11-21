@@ -1,12 +1,8 @@
-# 88zhibo live, updated 2026-11-21 05:54:23, 14 matches, 11 channels
-【篮球】NBA 掘金 vs 火箭|线路Q1,https://live01-cn-ali.xqnbu.com/live/29071793_tsc.m3u8
-【足球】澳超 奥克兰FC vs 墨尔本胜利|线路A1,https://www.rtmpcdn.com/live/35896e44-587a-4197-8b07-0b3d7d837619.m3u8
-【足球】日职联 町田泽维亚 vs 长崎航海|线路A1,https://www.rtmpcdn.com/live/2047bf76-2410-49aa-b435-82a4369c0fd8.m3u8
-【足球】日职联 京都不死鸟 vs 浦和红钻|线路A1,https://www.rtmpcdn.com/live/1fac8e51-43b5-4527-8708-84df2f585671.m3u8
-【足球】日职联 广岛三箭 vs 横滨水手|线路A1,https://www.rtmpcdn.com/live/af11f00d-5649-49c8-909e-89ae4faa9ae5.m3u8
-【足球】韩K联 浦项制铁 vs 安养FC|线路C4,https://play.aarray.cn/rrty/sd-1-4662793_gqzm.m3u8?auth_key=1795241354-0-0-fd15421f030482c06f4bd82fcac4cf35&token=66b2213e99633a0c&device=4&platform=rrty
-【足球】韩K联 浦项制铁 vs 安养FC|线路C4,https://play.aarray.cn/rrty/sd-1-4662793_gqzm.m3u8?auth_key=1795242168-0-0-fef3d66b58e0b61541fff89d270ec7e8&token=2ad395f340634b01&device=4&platform=rrty
-【足球】韩K联 浦项制铁 vs 安养FC|线路A1,https://www.rtmpcdn.com/live/fa3457b8-a1fa-4541-bf2f-d4f9bbd793ea.m3u8
-【足球】韩K联 全北现代 vs 首尔FC|线路C4,https://play.aarray.cn/rrty/sd-1-4662794_gqzm.m3u8?auth_key=1795241322-0-0-9d9889bb61bb8cc89b0faf4d63d10eab&token=62057433002ab9bf&device=4&platform=rrty
-【足球】韩K联 全北现代 vs 首尔FC|线路C4,https://play.aarray.cn/rrty/sd-1-4662794_gqzm.m3u8?auth_key=1795242157-0-0-a5b20490f0716162a1f5a04cdf0107b3&token=d5c4206b07ce303d&device=4&platform=rrty
-【足球】日职联 东京绿茵 vs 名古屋鲸|线路A1,https://www.rtmpcdn.com/live/0bb42851-5ec8-4b17-8d61-f36c1fe21eae.m3u8
+# 88zhibo live, updated 2026-11-21 09:02:39, 8 matches, 7 channels
+【足球】韩K联 仁川联 vs 蔚山HD|线路A1,https://www.rtmpcdn.com/live/6e86dda8-60ae-48a4-ab30-6765b444a8da.m3u8
+【足球】韩K联 江原FC vs 大田市民|线路A1,https://www.rtmpcdn.com/live/609dda5d-93a0-423a-88d8-e4ac643c4209.m3u8
+【篮球】CBA俱乐部杯 深圳 vs 江苏肯帝亚|线路A1,https://www.rtmpcdn.com/live/f1091490-a57a-4b98-8593-f82c08ba8f65.m3u8
+【篮球】CBA俱乐部杯 福建晋江 vs 四川丰谷|线路A1,https://www.rtmpcdn.com/live/b0529d6d-3832-4962-b958-b499c1704084.m3u8
+【篮球】CBA俱乐部杯 合肥狂风 vs 宁波町渥|线路A1,https://www.rtmpcdn.com/live/70146478-596e-4150-a334-87d044814c86.m3u8
+【篮球】CBA俱乐部杯 吉林九台 vs 浙江稠州金租|线路A1,https://www.rtmpcdn.com/live/c2f23b8e-2052-4cec-a392-50f3a54c9aa9.m3u8
+【足球】澳超 布里斯班狮吼 vs 悉尼FC|线路A1,https://www.rtmpcdn.com/live/c5dc2552-0214-487c-8dad-b4a0f95bd2ea.m3u8
