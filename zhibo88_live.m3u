@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 火箭|腾讯超清6
 https://www.rtmpcdn.com/live/qq6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 火箭|线路A1
-https://www.rtmpcdn.com/live/76b6e2e6-1342-4b21-aa29-04b57b22d0f6.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 火箭|线路Q1
 https://live01-cn-ali.xqnbu.com/live/29071793_tsc.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 湖人 vs 国王|线路Q1
