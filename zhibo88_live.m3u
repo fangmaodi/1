@@ -11,19 +11,27 @@ https://www.rtmpcdn.com/live/qq1.m3u8
 https://www.rtmpcdn.com/live/22507b2b-0fac-41c8-a4b7-d6b8752f4a2a.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 公牛 vs 奇才|腾讯超清3
 https://www.rtmpcdn.com/live/qq3.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 公牛 vs 奇才|线路A1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 公牛 vs 奇才|线路Q2
 https://www.rtmpcdn.com/live/76800f85-99a9-482b-baf1-17ca6193b63c.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 公牛 vs 奇才|线路Q3
-https://play.aarray.cn/rrty/hd-zh-2-3931491_gqzm.m3u8?auth_key=1795229501-0-0-9d69ef06b91577a05dcc82ae6427d83d&token=20562d8e16c309fc&device=4&platform=rrty
 #EXTINF:-1 group-title="篮球",【篮球】NBA 雷霆 vs 鹈鹕|线路Q1
 https://live01-cn-ali.xqnbu.com/live/26494691_tsc.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 雷霆 vs 鹈鹕|腾讯超清4
 https://www.rtmpcdn.com/live/qq4.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 雷霆 vs 鹈鹕|线路A1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 雷霆 vs 鹈鹕|线路Q2
 https://www.rtmpcdn.com/live/ae9c1eb0-a887-4b80-9f75-911821bf4c0f.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 雷霆 vs 鹈鹕|线路Q3
-https://play.aarray.cn/rrty/hd-zh-2-3931492_gqzm.m3u8?auth_key=1795229531-0-0-83c99492ef2946b42a6b2c7bdf4281a0&token=bc688dc21176b674&device=4&platform=rrty
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 爵士 vs 太阳|腾讯超清5
+#EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 太阳|腾讯超清5
 https://www.rtmpcdn.com/live/qq5.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 爵士 vs 太阳|线路A1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 太阳|线路Q2
 https://www.rtmpcdn.com/live/a54689ef-0f98-44f8-9c43-359a04d6d3c8.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 火箭|腾讯超清6
+https://www.rtmpcdn.com/live/qq6.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 火箭|线路A1
+https://www.rtmpcdn.com/live/76b6e2e6-1342-4b21-aa29-04b57b22d0f6.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 火箭|线路Q1
+https://live01-cn-ali.xqnbu.com/live/29071793_tsc.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 湖人 vs 国王|腾讯超清7
+https://www.rtmpcdn.com/live/qq7.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 湖人 vs 国王|线路A1
+https://www.rtmpcdn.com/live/b75de77c-05f4-4bec-9b7a-7f4a0ef96ad6.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 湖人 vs 国王|线路Q1
+https://live01-cn-ali.xqnbu.com/live/42811655_tsc.m3u8
