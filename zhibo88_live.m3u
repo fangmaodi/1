@@ -1,5 +1,11 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 老鹰 vs 黄蜂|线路A1
-https://www.rtmpcdn.com/live/c6b4073f-6a3e-4d49-87a2-a8f60d89bf30.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 老鹰 vs 黄蜂|线路Q2
-https://play.aarray.cn/rrty/hd-zh-2-3931487_gqzm.m3u8?auth_key=1795222166-0-0-1548d87e048b247c2c9102cd18032914&token=803e99177389fa1c&device=4&platform=rrty
+https://www.rtmpcdn.com/live/c6b4073f-6a3e-4d49-87a2-a8f60d89bf30.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 骑士 vs 步行者|线路Q2
+https://play.aarray.cn/rrty/hd-zh-2-3931489_gqzm.m3u8?auth_key=1795224123-0-0-96cc773954d8d060111e2df468c4fd0d&token=bbddd994d6db56f1&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】NBA 活塞 vs 猛龙|线路Q2
+https://play.aarray.cn/rrty/hd-zh-2-3931490_gqzm.m3u8?auth_key=1795224133-0-0-8299680429ef585f77064c5d797ee8ac&token=6d06aba57aa6667c&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】NBA 篮网 vs 魔术|线路Q2
+https://play.aarray.cn/rrty/hd-zh-2-3931488_gqzm.m3u8?auth_key=1795224033-0-0-58d0d1d4c7794e0c836bc26991a3809a&token=6b6fe7397298ac29&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】NBA 雷霆 vs 鹈鹕|线路Q1
+https://live01-cn-ali.xqnbu.com/live/26494691_tsc.m3u8
