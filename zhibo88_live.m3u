@@ -1,13 +1,11 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 太阳|腾讯超清5
 https://www.rtmpcdn.com/live/qq5.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 太阳|线路A1
-https://www.rtmpcdn.com/live/a54689ef-0f98-44f8-9c43-359a04d6d3c8.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 掘金 vs 火箭|腾讯超清6
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 火箭|腾讯超清6
 https://www.rtmpcdn.com/live/qq6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 掘金 vs 火箭|线路A1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 火箭|线路A1
 https://www.rtmpcdn.com/live/76b6e2e6-1342-4b21-aa29-04b57b22d0f6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 掘金 vs 火箭|线路Q1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 火箭|线路Q1
 https://live01-cn-ali.xqnbu.com/live/29071793_tsc.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 湖人 vs 国王|腾讯超清7
 https://www.rtmpcdn.com/live/qq7.m3u8
@@ -16,8 +14,6 @@ https://www.rtmpcdn.com/live/b75de77c-05f4-4bec-9b7a-7f4a0ef96ad6.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 湖人 vs 国王|线路Q1
 https://live01-cn-ali.xqnbu.com/live/42811655_tsc.m3u8
 #EXTINF:-1 group-title="足球",【足球】澳超 奥克兰FC vs 墨尔本胜利|线路C4
-https://play.aarray.cn/rrty/sd-1-4590432_gqzm.m3u8?auth_key=1795237739-0-0-58f58ce30d79497e4934c06a7e8aac3b&token=732027fa6c0d86e3&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】澳超 奥克兰FC vs 墨尔本胜利|线路C4
 https://play.aarray.cn/rrty/sd-1-4590432_gqzm.m3u8?auth_key=1795238565-0-0-23466a32c347a5e81197e471098d9b4c&token=e641ed89f41b09cb&device=4&platform=rrty
 #EXTINF:-1 group-title="足球",【足球】澳超 奥克兰FC vs 墨尔本胜利|线路A1
 https://www.rtmpcdn.com/live/35896e44-587a-4197-8b07-0b3d7d837619.m3u8
@@ -25,3 +21,7 @@ https://www.rtmpcdn.com/live/35896e44-587a-4197-8b07-0b3d7d837619.m3u8
 https://www.rtmpcdn.com/live/dcddfe99-cae2-413f-86cf-076114ccc87a.m3u8
 #EXTINF:-1 group-title="足球",【足球】日足联 大分红温泉 vs 天籁枚方|线路A1
 https://www.rtmpcdn.com/live/ff024a77-2b72-48f7-abf3-0d101d40ad5e.m3u8
+#EXTINF:-1 group-title="足球",【足球】K联赛 浦项制铁 vs 安养FC|线路C4
+https://play.aarray.cn/rrty/sd-1-4662793_gqzm.m3u8?auth_key=1795241354-0-0-fd15421f030482c06f4bd82fcac4cf35&token=66b2213e99633a0c&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】K联赛 全北现代 vs 首尔FC|线路C4
+https://play.aarray.cn/rrty/sd-1-4662794_gqzm.m3u8?auth_key=1795241322-0-0-9d9889bb61bb8cc89b0faf4d63d10eab&token=62057433002ab9bf&device=4&platform=rrty
