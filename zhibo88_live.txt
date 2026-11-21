@@ -1,4 +1,4 @@
-# 88zhibo live, updated 2026-11-21 03:54:29, 11 matches, 8 channels
+# 88zhibo live, updated 2026-11-21 04:14:08, 5 matches, 9 channels
 【篮球】NBA杯小组赛西部A组 爵士 vs 太阳|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
 【篮球】NBA杯小组赛西部A组 爵士 vs 太阳|线路A1,https://www.rtmpcdn.com/live/a54689ef-0f98-44f8-9c43-359a04d6d3c8.m3u8
 【篮球】NBA杯小组赛西部A组 掘金 vs 火箭|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
@@ -7,3 +7,4 @@
 【篮球】NBA 湖人 vs 国王|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
 【篮球】NBA 湖人 vs 国王|线路A1,https://www.rtmpcdn.com/live/b75de77c-05f4-4bec-9b7a-7f4a0ef96ad6.m3u8
 【篮球】NBA 湖人 vs 国王|线路Q1,https://live01-cn-ali.xqnbu.com/live/42811655_tsc.m3u8
+【足球】澳超 奥克兰FC vs 墨尔本胜利|线路C4,https://play.aarray.cn/rrty/sd-1-4590432_gqzm.m3u8?auth_key=1795237739-0-0-58f58ce30d79497e4934c06a7e8aac3b&token=732027fa6c0d86e3&device=4&platform=rrty
