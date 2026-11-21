@@ -1,6 +1,11 @@
-# 88zhibo live, updated 2026-11-21 00:54:20, 11 matches, 5 channels
-【篮球】NBA 老鹰 vs 黄蜂|线路Q2,https://www.rtmpcdn.com/live/c6b4073f-6a3e-4d49-87a2-a8f60d89bf30.m3u8
-【篮球】NBA 骑士 vs 步行者|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931489_gqzm.m3u8?auth_key=1795224123-0-0-96cc773954d8d060111e2df468c4fd0d&token=bbddd994d6db56f1&device=4&platform=rrty
+# 88zhibo live, updated 2026-11-21 01:14:24, 10 matches, 10 channels
+【篮球】NBA 老鹰 vs 黄蜂|线路A1,https://www.rtmpcdn.com/live/c6b4073f-6a3e-4d49-87a2-a8f60d89bf30.m3u8
+【篮球】NBA杯小组赛东部B组 骑士 vs 步行者|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931489_gqzm.m3u8?auth_key=1795224123-0-0-96cc773954d8d060111e2df468c4fd0d&token=bbddd994d6db56f1&device=4&platform=rrty
+【篮球】NBA杯小组赛东部B组 骑士 vs 步行者|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
+【篮球】NBA杯小组赛东部B组 骑士 vs 步行者|线路A1,https://www.rtmpcdn.com/live/a48710fe-2845-4488-9c81-e86fa2655720.m3u8
 【篮球】NBA 活塞 vs 猛龙|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931490_gqzm.m3u8?auth_key=1795224133-0-0-8299680429ef585f77064c5d797ee8ac&token=6d06aba57aa6667c&device=4&platform=rrty
+【篮球】NBA 活塞 vs 猛龙|线路A1,https://www.rtmpcdn.com/live/e1828084-ab01-4ec8-a170-ca139c36571b.m3u8
 【篮球】NBA 篮网 vs 魔术|线路Q2,https://play.aarray.cn/rrty/hd-zh-2-3931488_gqzm.m3u8?auth_key=1795224033-0-0-58d0d1d4c7794e0c836bc26991a3809a&token=6b6fe7397298ac29&device=4&platform=rrty
+【篮球】NBA 篮网 vs 魔术|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
+【篮球】NBA 篮网 vs 魔术|线路A1,https://www.rtmpcdn.com/live/22507b2b-0fac-41c8-a4b7-d6b8752f4a2a.m3u8
 【篮球】NBA 雷霆 vs 鹈鹕|线路Q1,https://live01-cn-ali.xqnbu.com/live/26494691_tsc.m3u8
