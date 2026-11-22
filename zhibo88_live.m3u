@@ -1,17 +1,9 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 独行侠 vs 快船|腾讯超清2
-https://www.rtmpcdn.com/live/qq2.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 独行侠 vs 快船|线路A1
-https://www.rtmpcdn.com/live/cdea7e35-b73b-4b50-8088-fa8992a68a81.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 鹈鹕|腾讯超清4
-https://www.rtmpcdn.com/live/qq4.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 鹈鹕|线路A1
-https://www.rtmpcdn.com/live/1eea2361-9635-4d8c-9c2c-74df46224da4.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 鹈鹕|线路Q1
 https://live01-cn-ali.xqnbu.com/live/35349903_tsc.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 森林狼 vs 灰熊|腾讯超清3
-https://www.rtmpcdn.com/live/qq3.m3u8
 #EXTINF:-1 group-title="足球",【足球】澳超 惠灵顿凤凰 vs 麦克阿瑟FC|线路A1
 https://www.rtmpcdn.com/live/4ed0a34b-1771-45f8-b973-493b2f9f89d6.m3u8
-#EXTINF:-1 group-title="足球",【足球】澳超 惠灵顿凤凰 vs 麦克阿瑟FC|线路C4
-https://play.aarray.cn/rrty/hd-en-1-4590472_gqzm.m3u8?auth_key=1795317768-0-0-20b95257fa4c542ef7d4dca65b9cd386&token=93e4c3047a832d1b&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 国王 vs 凯尔特人|腾讯超清5
+https://www.rtmpcdn.com/live/qq5.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 国王 vs 凯尔特人|线路A1
+https://www.rtmpcdn.com/live/b3b1a255-1d84-49d0-8c6a-909d86efcb7c.m3u8
