@@ -1,31 +1,45 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="足球",【足球】足球综合 尤文图斯 vs 威尼斯|线路migu
+#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550935_gqzm.m3u8?auth_key=1795379993-0-0-e34add0fb1f301f7513c5d40605a5646&token=53ac5efdce6df057&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路A1
+https://www.rtmpcdn.com/live/78939542-3087-49ab-bb2d-a9308d36cf32.m3u8
+#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路Q1
+https://live01-cn-ali.xqnbu.com/live/59129506_tsc.m3u8
+#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路C4
+https://spl.tiyucdn.com/matchlive/ls2059569_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550935_gqzm.m3u8?auth_key=1795380834-0-0-502e261540da7c2842972c9ac53f44b3&token=df8cbb9e2dd83203&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4550935_gqzm.m3u8?auth_key=1795381861-0-0-3b004182394cf4da2e8ee9d9f61c743d&token=6584844071d5ef63&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路migu
 https://www.rtmpcdn.com/live/migu1.m3u8
-#EXTINF:-1 group-title="足球",【足球】足球综合 尤文图斯 vs 威尼斯|线路Q1
-https://live01-cn-ali.xqnbu.com/live/16490473_tsc.m3u8
-#EXTINF:-1 group-title="足球",【足球】足球综合 尤文图斯 vs 威尼斯|线路C4
-https://spl.tiyucdn.com/matchlive/ls2057500_30fps.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】CBA杯 天津先行者 vs 浙江方兴渡|线路A1
-https://www.rtmpcdn.com/live/0a954a38-7f3f-4e8f-93cc-e04b2ab61cb4.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】CBA杯 新疆伊力特 vs 辽宁本钢|线路A1
-https://www.rtmpcdn.com/live/178a70f6-5da3-45b0-9db9-cbc0cce008b0.m3u8
-#EXTINF:-1 group-title="足球",【足球】英冠 伯恩利 vs 布莱克本|线路A1
-https://www.rtmpcdn.com/live/e9eb3d34-0ff5-4680-896b-6905cb39aed7.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】CBA杯 北京控股 vs 江西大谦|线路A1
-https://www.rtmpcdn.com/live/9eff551f-af86-4cfb-be65-dedd38b53bce.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】CBA杯 广州 vs 香港金牛|线路A1
-https://www.rtmpcdn.com/live/2e261dba-ee04-4982-bd8c-132fe0b1ea34.m3u8
-#EXTINF:-1 group-title="足球",【足球】U17世界杯 丹麦U17 vs 澳大利亚U17|线路A1
-https://www.rtmpcdn.com/live/b5185761-f028-45ca-bf57-3ce0968fbb00.m3u8
-#EXTINF:-1 group-title="足球",【足球】U17世界杯 希腊U17 vs 巴拿马U17|线路A1
-https://www.rtmpcdn.com/live/00def1fc-274f-47fd-bc67-840cafbe6024.m3u8
-#EXTINF:-1 group-title="足球",【足球】足球综合 巴塞罗那 vs 比利亚雷亚尔|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4565606_gqzm.m3u8?auth_key=1795355528-0-0-277ab848b992ff2c310f9a1b4a29c044&token=95d47d91c9f8b428&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】足球综合 巴塞罗那 vs 比利亚雷亚尔|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4565606_gqzm.m3u8?auth_key=1795356547-0-0-048836c40b9228c3b1ebb8c753b1ae51&token=edf93d8161724363&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】足球综合 巴塞罗那 vs 比利亚雷亚尔|线路migu
+#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4549098_gqzm.m3u8?auth_key=1795379831-0-0-77fd7d01de4a36da622cf6a00487a608&token=753be7a2d816d34b&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路A1
+https://www.rtmpcdn.com/live/3324911b-e04b-4ecb-99d4-92556eb3e943.m3u8
+#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|原声直播1
+https://www.rtmpcdn.com/live/5602ca48-2bfb-439b-b4ff-689d6a926874.m3u8
+#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路Q1
+https://live01-cn-ali.xqnbu.com/live/38483288_tsc.m3u8
+#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路C4
+https://spl.tiyucdn.com/matchlive/ls2057496_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4549098_gqzm.m3u8?auth_key=1795380864-0-0-4a71df3a1f574050541695427ba6deb8&token=3a972925782a1f64&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4549098_gqzm.m3u8?auth_key=1795381700-0-0-213f05c14209d505c3d4fbcc3ca20782&token=e4ee39d9bd393da3&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路migu
 https://www.rtmpcdn.com/live/migu2.m3u8
-#EXTINF:-1 group-title="足球",【足球】足球综合 巴塞罗那 vs 比利亚雷亚尔|线路A1
-https://www.rtmpcdn.com/live/8b610bde-4b1e-4242-b997-274b9e6c7943.m3u8
-#EXTINF:-1 group-title="足球",【足球】U17世界杯 厄瓜多尔U17 vs 乌干达U17|线路A1
-https://www.rtmpcdn.com/live/6545e0dd-adc8-419c-815c-9a225de3f1b1.m3u8
+#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路A1
+https://www.rtmpcdn.com/live/b6da27ba-f61a-43a3-9a2c-da890c974e21.m3u8
+#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|原声直播1
+https://www.rtmpcdn.com/live/2d0477b3-1659-42ea-8a20-e3cf8e0475a0.m3u8
+#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路Q1
+https://live01-cn-ali.xqnbu.com/live/70693321_tsc.m3u8
+#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4565608_gqzm.m3u8?auth_key=1795380884-0-0-b78120f3a4298e2afff235a9998e0de0&token=55ee15a5025f0ca5&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路C4
+https://spl.tiyucdn.com/matchlive/ls2075525_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4565608_gqzm.m3u8?auth_key=1795381931-0-0-1c67c3d0bb80e07eb21053d73149b0f4&token=bca1de1c58ffd9e0&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4565608_gqzm.m3u8?auth_key=1795382575-0-0-6ad38a2be277d0cde9c3c8cb7b54c8d7&token=80aa656c7627e8a7&device=4&platform=rrty
