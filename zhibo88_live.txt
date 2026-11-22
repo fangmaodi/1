@@ -1,7 +1,7 @@
-# 88zhibo live, updated 2026-11-22 04:54:46, 8 matches, 8 channels
-【篮球】NBA常规赛 国王 vs 凯尔特人|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
-【篮球】NBA常规赛 国王 vs 凯尔特人|线路A1,https://www.rtmpcdn.com/live/b3b1a255-1d84-49d0-8c6a-909d86efcb7c.m3u8
-【篮球】NBA常规赛 国王 vs 凯尔特人|原声直播1,https://www.rtmpcdn.com/live/ca3acb5f-66d9-4c34-a4f1-9dd3c68007a8.m3u8
+# 88zhibo live, updated 2026-11-22 05:08:01, 8 matches, 8 channels
+【篮球】NBA 国王 vs 凯尔特人|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
+【篮球】NBA 国王 vs 凯尔特人|线路A1,https://www.rtmpcdn.com/live/b3b1a255-1d84-49d0-8c6a-909d86efcb7c.m3u8
+【篮球】NBA 国王 vs 凯尔特人|原声直播1,https://www.rtmpcdn.com/live/ca3acb5f-66d9-4c34-a4f1-9dd3c68007a8.m3u8
 【足球】日足联 三重十四 vs 新宿创造|线路A1,https://www.rtmpcdn.com/live/7c75f028-b708-4b41-9624-185d8b0d92c0.m3u8
 【足球】日足联 冲绳SV vs 丸安冈崎|线路A1,https://www.rtmpcdn.com/live/084be014-1721-4fd9-b5fb-7b9aa8f43d91.m3u8
 【足球】日足联 岩手盛冈仙鹤 vs J-利斯FC|线路A1,https://www.rtmpcdn.com/live/b0563932-e719-409e-92bf-6772004ef3e4.m3u8
