@@ -1,45 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4550935_gqzm.m3u8?auth_key=1795379993-0-0-e34add0fb1f301f7513c5d40605a5646&token=53ac5efdce6df057&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路A1
-https://www.rtmpcdn.com/live/78939542-3087-49ab-bb2d-a9308d36cf32.m3u8
-#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路Q1
-https://live01-cn-ali.xqnbu.com/live/59129506_tsc.m3u8
-#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路C4
-https://spl.tiyucdn.com/matchlive/ls2059569_30fps.m3u8
-#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4550935_gqzm.m3u8?auth_key=1795380834-0-0-502e261540da7c2842972c9ac53f44b3&token=df8cbb9e2dd83203&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】法甲 马赛 vs 勒芒|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4550935_gqzm.m3u8?auth_key=1795381861-0-0-3b004182394cf4da2e8ee9d9f61c743d&token=6584844071d5ef63&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路migu
-https://www.rtmpcdn.com/live/migu1.m3u8
-#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4549098_gqzm.m3u8?auth_key=1795379831-0-0-77fd7d01de4a36da622cf6a00487a608&token=753be7a2d816d34b&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路A1
-https://www.rtmpcdn.com/live/3324911b-e04b-4ecb-99d4-92556eb3e943.m3u8
-#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|原声直播1
-https://www.rtmpcdn.com/live/5602ca48-2bfb-439b-b4ff-689d6a926874.m3u8
-#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路Q1
-https://live01-cn-ali.xqnbu.com/live/38483288_tsc.m3u8
-#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路C4
-https://spl.tiyucdn.com/matchlive/ls2057496_30fps.m3u8
-#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4549098_gqzm.m3u8?auth_key=1795380864-0-0-4a71df3a1f574050541695427ba6deb8&token=3a972925782a1f64&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】意甲 亚特兰大 vs 国际米兰|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4549098_gqzm.m3u8?auth_key=1795381700-0-0-213f05c14209d505c3d4fbcc3ca20782&token=e4ee39d9bd393da3&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路migu
-https://www.rtmpcdn.com/live/migu2.m3u8
-#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路A1
-https://www.rtmpcdn.com/live/b6da27ba-f61a-43a3-9a2c-da890c974e21.m3u8
-#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|原声直播1
-https://www.rtmpcdn.com/live/2d0477b3-1659-42ea-8a20-e3cf8e0475a0.m3u8
-#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路Q1
-https://live01-cn-ali.xqnbu.com/live/70693321_tsc.m3u8
-#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4565608_gqzm.m3u8?auth_key=1795380884-0-0-b78120f3a4298e2afff235a9998e0de0&token=55ee15a5025f0ca5&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路C4
-https://spl.tiyucdn.com/matchlive/ls2075525_30fps.m3u8
-#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4565608_gqzm.m3u8?auth_key=1795381931-0-0-1c67c3d0bb80e07eb21053d73149b0f4&token=bca1de1c58ffd9e0&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】西甲 赫塔菲 vs 马竞|线路C6
-https://play.aarray.cn/rrty/hd-zh-1-4565608_gqzm.m3u8?auth_key=1795382575-0-0-6ad38a2be277d0cde9c3c8cb7b54c8d7&token=80aa656c7627e8a7&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】美职联 纳什维尔 vs 辛辛那提|线路A1
+https://www.rtmpcdn.com/live/6be095e9-f138-4a25-b5af-d0a7c243437b.m3u8
+#EXTINF:-1 group-title="足球",【足球】美职联 纳什维尔 vs 辛辛那提|线路A2
+https://www.rtmpcdn.com/live/059711c2-d22f-4fa1-b3c8-ea8bc24d5077.m3u8
