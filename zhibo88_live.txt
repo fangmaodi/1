@@ -1,5 +1,4 @@
-# 88zhibo live, updated 2026-11-22 03:34:24, 6 matches, 4 channels
-【篮球】NBA 马刺 vs 鹈鹕|线路Q1,https://live01-cn-ali.xqnbu.com/live/35349903_tsc.m3u8
-【足球】澳超 惠灵顿凤凰 vs 麦克阿瑟FC|线路A1,https://www.rtmpcdn.com/live/4ed0a34b-1771-45f8-b973-493b2f9f89d6.m3u8
+# 88zhibo live, updated 2026-11-22 03:54:17, 6 matches, 3 channels
 【篮球】NBA常规赛 国王 vs 凯尔特人|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
 【篮球】NBA常规赛 国王 vs 凯尔特人|线路A1,https://www.rtmpcdn.com/live/b3b1a255-1d84-49d0-8c6a-909d86efcb7c.m3u8
+【篮球】NBA常规赛 国王 vs 凯尔特人|原声直播1,https://www.rtmpcdn.com/live/ca3acb5f-66d9-4c34-a4f1-9dd3c68007a8.m3u8
