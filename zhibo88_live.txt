@@ -1,4 +1,9 @@
-# 88zhibo live, updated 2026-11-22 23:34:26, 11 matches, 3 channels
+# 88zhibo live, updated 2026-11-22 23:54:39, 15 matches, 8 channels
 【篮球】NBA 热火 vs 雷霆|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
-【篮球】NBA 热火 vs 雷霆|线路A1,https://www.rtmpcdn.com/live/0258268f-73f4-45e5-9163-92611c2898a5.m3u8
+【篮球】NBA 热火 vs 雷霆|线路Q2,https://www.rtmpcdn.com/live/0258268f-73f4-45e5-9163-92611c2898a5.m3u8
 【篮球】NBA 热火 vs 雷霆|原声直播1,https://www.rtmpcdn.com/live/cca26d22-43ea-4d3c-a679-56d205085d0b.m3u8
+【足球】美职联 芝加哥火焰 vs 夏洛特FC|线路C4,https://play.aarray.cn/rrty/hd-en-1-4666434_gqzm.m3u8?auth_key=1795394281-0-0-91a7f35b0f02e55522dff6eaec998107&token=ab000398266a26f0&device=4&platform=rrty
+【足球】美职联 芝加哥火焰 vs 夏洛特FC|线路A1,https://www.rtmpcdn.com/live/b5067a70-fea8-42e0-a974-31d8254848d1.m3u8
+【篮球】NBA 奇才 vs 魔术|线路Q1,https://live01-cn-ali.xqnbu.com/live/12851176_tsc.m3u8
+【篮球】NBA 爵士 vs 独行侠|线路Q1,https://live01-cn-ali.xqnbu.com/live/55306035_tsc.m3u8
+【篮球】NBA 公牛 vs 掘金|线路Q1,https://live01-cn-ali.xqnbu.com/live/90486222_tsc.m3u8
