@@ -1,3 +1,4 @@
-# 88zhibo live, updated 2026-11-22 23:14:32, 12 matches, 2 channels
-【足球】美职联 纳什维尔 vs 辛辛那提|线路A1,https://www.rtmpcdn.com/live/6be095e9-f138-4a25-b5af-d0a7c243437b.m3u8
-【足球】美职联 纳什维尔 vs 辛辛那提|线路A2,https://www.rtmpcdn.com/live/059711c2-d22f-4fa1-b3c8-ea8bc24d5077.m3u8
+# 88zhibo live, updated 2026-11-22 23:34:26, 11 matches, 3 channels
+【篮球】NBA 热火 vs 雷霆|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
+【篮球】NBA 热火 vs 雷霆|线路A1,https://www.rtmpcdn.com/live/0258268f-73f4-45e5-9163-92611c2898a5.m3u8
+【篮球】NBA 热火 vs 雷霆|原声直播1,https://www.rtmpcdn.com/live/cca26d22-43ea-4d3c-a679-56d205085d0b.m3u8
