@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 尼克斯 vs 开拓者|腾讯超清1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 尼克斯 vs 开拓者|腾讯超清1
 https://www.rtmpcdn.com/live/qq1.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA常规赛 尼克斯 vs 开拓者|线路A1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 尼克斯 vs 开拓者|线路A1
 https://www.rtmpcdn.com/live/fc1fb4ea-a948-44de-970f-0e195dfe52ce.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 独行侠 vs 快船|腾讯超清2
 https://www.rtmpcdn.com/live/qq2.m3u8
@@ -19,3 +19,9 @@ https://www.rtmpcdn.com/live/qq3.m3u8
 https://www.rtmpcdn.com/live/3cf29757-419d-4f4f-8fd8-ce22e0fc12b1.m3u8
 #EXTINF:-1 group-title="足球",【足球】澳超 惠灵顿凤凰 vs 麦克阿瑟FC|线路C4
 https://play.aarray.cn/rrty/hd-en-1-4590472_gqzm.m3u8?auth_key=1795316930-0-0-4e3ab7b9b977137776ce8fa732c8f6fa&token=485854ad9d45a352&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】澳超 惠灵顿凤凰 vs 麦克阿瑟FC|线路A1
+https://www.rtmpcdn.com/live/4ed0a34b-1771-45f8-b973-493b2f9f89d6.m3u8
+#EXTINF:-1 group-title="足球",【足球】澳超 惠灵顿凤凰 vs 麦克阿瑟FC|线路A2
+https://www.rtmpcdn.com/live/0e79480a-6c36-4fbf-a52a-a3266f4cda0c.m3u8
+#EXTINF:-1 group-title="足球",【足球】澳超 惠灵顿凤凰 vs 麦克阿瑟FC|线路C4
+https://play.aarray.cn/rrty/hd-en-1-4590472_gqzm.m3u8?auth_key=1795317768-0-0-20b95257fa4c542ef7d4dca65b9cd386&token=93e4c3047a832d1b&device=4&platform=rrty
