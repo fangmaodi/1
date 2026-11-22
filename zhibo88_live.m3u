@@ -1,23 +1,31 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="足球",【足球】日足联 三重十四 vs 新宿创造|线路A1
-https://www.rtmpcdn.com/live/7c75f028-b708-4b41-9624-185d8b0d92c0.m3u8
-#EXTINF:-1 group-title="足球",【足球】日足联 冲绳SV vs 丸安冈崎|线路A1
-https://www.rtmpcdn.com/live/084be014-1721-4fd9-b5fb-7b9aa8f43d91.m3u8
-#EXTINF:-1 group-title="足球",【足球】日足联 岩手盛冈仙鹤 vs J-利斯FC|线路A1
-https://www.rtmpcdn.com/live/b0563932-e719-409e-92bf-6772004ef3e4.m3u8
-#EXTINF:-1 group-title="足球",【足球】日足联 横河武藏野FC vs FC本田|线路A1
-https://www.rtmpcdn.com/live/e4a84cb7-708f-4133-b6b2-1084704ede4b.m3u8
-#EXTINF:-1 group-title="足球",【足球】韩K联 尚州尚武 vs 济州联|线路C4
-https://play.aarray.cn/rrty/sd-1-4662797_gqzm.m3u8?auth_key=1795327662-0-0-fa5bd9945af6c0cfc579efd210f8f1d8&token=c86ef0e44c1749eb&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】韩K联 尚州尚武 vs 济州联|线路C4
-https://play.aarray.cn/rrty/sd-1-4662797_gqzm.m3u8?auth_key=1795328679-0-0-e675cef1a53f3f8b5491ed6642942086&token=2ec87cb478812e1f&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】韩K联 尚州尚武 vs 济州联|线路A1
-https://www.rtmpcdn.com/live/7df89e1d-091f-46ad-840b-ff30b3e91b27.m3u8
-#EXTINF:-1 group-title="足球",【足球】韩K联 光州市民 vs 富川FC|线路C4
-https://play.aarray.cn/rrty/sd-1-4662798_gqzm.m3u8?auth_key=1795327672-0-0-75de6fe4e15f173f0352ca922c0cd2b8&token=4f9935098f710e15&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】韩K联 光州市民 vs 富川FC|线路C4
-https://play.aarray.cn/rrty/sd-1-4662798_gqzm.m3u8?auth_key=1795328669-0-0-d6fde1d7f64661df4f8ded27a8f39b1d&token=9c59e6cd0561580a&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】韩K联 光州市民 vs 富川FC|线路A1
-https://www.rtmpcdn.com/live/555b00e2-df0f-4cb1-b0f1-99aeb101dd9c.m3u8
-#EXTINF:-1 group-title="足球",【足球】日足联 沼津青蓝 vs 横滨体育|线路A1
-https://www.rtmpcdn.com/live/5c5b02f6-c030-4913-8bc4-c851f5c9b075.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 尤文图斯 vs 威尼斯|线路migu
+https://www.rtmpcdn.com/live/migu1.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 尤文图斯 vs 威尼斯|线路Q1
+https://live01-cn-ali.xqnbu.com/live/16490473_tsc.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 尤文图斯 vs 威尼斯|线路C4
+https://spl.tiyucdn.com/matchlive/ls2057500_30fps.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】CBA杯 天津先行者 vs 浙江方兴渡|线路A1
+https://www.rtmpcdn.com/live/0a954a38-7f3f-4e8f-93cc-e04b2ab61cb4.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】CBA杯 新疆伊力特 vs 辽宁本钢|线路A1
+https://www.rtmpcdn.com/live/178a70f6-5da3-45b0-9db9-cbc0cce008b0.m3u8
+#EXTINF:-1 group-title="足球",【足球】英冠 伯恩利 vs 布莱克本|线路A1
+https://www.rtmpcdn.com/live/e9eb3d34-0ff5-4680-896b-6905cb39aed7.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】CBA杯 北京控股 vs 江西大谦|线路A1
+https://www.rtmpcdn.com/live/9eff551f-af86-4cfb-be65-dedd38b53bce.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】CBA杯 广州 vs 香港金牛|线路A1
+https://www.rtmpcdn.com/live/2e261dba-ee04-4982-bd8c-132fe0b1ea34.m3u8
+#EXTINF:-1 group-title="足球",【足球】U17世界杯 丹麦U17 vs 澳大利亚U17|线路A1
+https://www.rtmpcdn.com/live/b5185761-f028-45ca-bf57-3ce0968fbb00.m3u8
+#EXTINF:-1 group-title="足球",【足球】U17世界杯 希腊U17 vs 巴拿马U17|线路A1
+https://www.rtmpcdn.com/live/00def1fc-274f-47fd-bc67-840cafbe6024.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 巴塞罗那 vs 比利亚雷亚尔|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4565606_gqzm.m3u8?auth_key=1795355528-0-0-277ab848b992ff2c310f9a1b4a29c044&token=95d47d91c9f8b428&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 巴塞罗那 vs 比利亚雷亚尔|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4565606_gqzm.m3u8?auth_key=1795356547-0-0-048836c40b9228c3b1ebb8c753b1ae51&token=edf93d8161724363&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 巴塞罗那 vs 比利亚雷亚尔|线路migu
+https://www.rtmpcdn.com/live/migu2.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 巴塞罗那 vs 比利亚雷亚尔|线路A1
+https://www.rtmpcdn.com/live/8b610bde-4b1e-4242-b997-274b9e6c7943.m3u8
+#EXTINF:-1 group-title="足球",【足球】U17世界杯 厄瓜多尔U17 vs 乌干达U17|线路A1
+https://www.rtmpcdn.com/live/6545e0dd-adc8-419c-815c-9a225de3f1b1.m3u8
