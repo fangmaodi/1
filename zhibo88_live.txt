@@ -1,11 +1,7 @@
-# 88zhibo live, updated 2026-11-22 05:34:28, 9 matches, 15 channels
-【篮球】NBA 国王 vs 凯尔特人|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
-【篮球】NBA 国王 vs 凯尔特人|线路A1,https://www.rtmpcdn.com/live/b3b1a255-1d84-49d0-8c6a-909d86efcb7c.m3u8
-【篮球】NBA 国王 vs 凯尔特人|原声直播1,https://www.rtmpcdn.com/live/ca3acb5f-66d9-4c34-a4f1-9dd3c68007a8.m3u8
+# 88zhibo live, updated 2026-11-22 05:54:29, 9 matches, 11 channels
 【足球】日足联 三重十四 vs 新宿创造|线路A1,https://www.rtmpcdn.com/live/7c75f028-b708-4b41-9624-185d8b0d92c0.m3u8
 【足球】日足联 冲绳SV vs 丸安冈崎|线路A1,https://www.rtmpcdn.com/live/084be014-1721-4fd9-b5fb-7b9aa8f43d91.m3u8
 【足球】日足联 岩手盛冈仙鹤 vs J-利斯FC|线路A1,https://www.rtmpcdn.com/live/b0563932-e719-409e-92bf-6772004ef3e4.m3u8
-【足球】日足联 本田制锁 vs 润梅尔青森|线路A1,https://www.rtmpcdn.com/live/f5c29f68-1666-40d7-a07a-9c99be7ba2f2.m3u8
 【足球】日足联 横河武藏野FC vs FC本田|线路A1,https://www.rtmpcdn.com/live/e4a84cb7-708f-4133-b6b2-1084704ede4b.m3u8
 【足球】韩K联 尚州尚武 vs 济州联|线路C4,https://play.aarray.cn/rrty/sd-1-4662797_gqzm.m3u8?auth_key=1795327662-0-0-fa5bd9945af6c0cfc579efd210f8f1d8&token=c86ef0e44c1749eb&device=4&platform=rrty
 【足球】韩K联 尚州尚武 vs 济州联|线路C4,https://play.aarray.cn/rrty/sd-1-4662797_gqzm.m3u8?auth_key=1795328679-0-0-e675cef1a53f3f8b5491ed6642942086&token=2ec87cb478812e1f&device=4&platform=rrty
