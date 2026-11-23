@@ -1,8 +1,7 @@
-# 88zhibo live, updated 2026-11-23 02:54:30, 10 matches, 7 channels
-【篮球】NBA 公牛 vs 掘金|线路Q1,https://live01-cn-ali.xqnbu.com/live/90486222_tsc.m3u8
+# 88zhibo live, updated 2026-11-23 03:14:24, 7 matches, 6 channels
 【篮球】NBA 尼克斯 vs 步行者|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
-【篮球】NBA 尼克斯 vs 步行者|线路Q2,https://www.rtmpcdn.com/live/afc4119f-19c2-4ebb-9d80-e2098d032b68.m3u8
-【篮球】NBA 勇士 vs 凯尔特人|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
-【篮球】NBA 勇士 vs 凯尔特人|线路Q2,https://www.rtmpcdn.com/live/afadd64a-8730-49c9-9a14-37f90c05bd7a.m3u8
-【足球】美职业 温哥华白浪 vs 皇家盐湖城|线路A1,https://www.rtmpcdn.com/live/10cce533-4e55-48ae-bf61-ac002fda48d7.m3u8
-【足球】美职业 温哥华白浪 vs 皇家盐湖城|线路A2,https://www.rtmpcdn.com/live/29727238-6292-48de-912d-89b4feb012a2.m3u8
+【篮球】NBA 尼克斯 vs 步行者|线路A1,https://www.rtmpcdn.com/live/afc4119f-19c2-4ebb-9d80-e2098d032b68.m3u8
+【篮球】NBA常规赛 勇士 vs 凯尔特人|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
+【篮球】NBA常规赛 勇士 vs 凯尔特人|线路A1,https://www.rtmpcdn.com/live/afadd64a-8730-49c9-9a14-37f90c05bd7a.m3u8
+【足球】美职联 温哥华白浪 vs 皇家盐湖城|线路A1,https://www.rtmpcdn.com/live/10cce533-4e55-48ae-bf61-ac002fda48d7.m3u8
+【足球】美职联 温哥华白浪 vs 皇家盐湖城|线路A2,https://www.rtmpcdn.com/live/29727238-6292-48de-912d-89b4feb012a2.m3u8
