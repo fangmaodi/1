@@ -1,7 +1,5 @@
-# 88zhibo live, updated 2026-11-23 01:14:31, 9 matches, 13 channels
+# 88zhibo live, updated 2026-11-23 01:34:41, 13 matches, 15 channels
 【篮球】NBA 热火 vs 雷霆|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
-【篮球】NBA 热火 vs 雷霆|线路A1,https://www.rtmpcdn.com/live/0258268f-73f4-45e5-9163-92611c2898a5.m3u8
-【篮球】NBA 热火 vs 雷霆|原声直播1,https://www.rtmpcdn.com/live/cca26d22-43ea-4d3c-a679-56d205085d0b.m3u8
 【足球】美职联 芝加哥火焰 vs 夏洛特FC|线路A1,https://www.rtmpcdn.com/live/b5067a70-fea8-42e0-a974-31d8254848d1.m3u8
 【篮球】NBA常规赛 奇才 vs 魔术|线路Q1,https://live01-cn-ali.xqnbu.com/live/12851176_tsc.m3u8
 【篮球】NBA常规赛 奇才 vs 魔术|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
@@ -12,3 +10,7 @@
 【篮球】NBA 公牛 vs 掘金|线路Q1,https://live01-cn-ali.xqnbu.com/live/90486222_tsc.m3u8
 【篮球】NBA 公牛 vs 掘金|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
 【篮球】NBA 公牛 vs 掘金|线路A1,https://www.rtmpcdn.com/live/b96dfdde-a2b6-4699-9f87-ef500a0f4f22.m3u8
+【篮球】NBA 尼克斯 vs 步行者|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
+【篮球】NBA 尼克斯 vs 步行者|线路A1,https://www.rtmpcdn.com/live/afc4119f-19c2-4ebb-9d80-e2098d032b68.m3u8
+【篮球】NBA常规赛 勇士 vs 凯尔特人|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
+【篮球】NBA常规赛 勇士 vs 凯尔特人|线路A1,https://www.rtmpcdn.com/live/afadd64a-8730-49c9-9a14-37f90c05bd7a.m3u8
