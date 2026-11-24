@@ -17,6 +17,7 @@
 
 import argparse
 import base64
+import gzip
 import json
 import re
 import sys
@@ -30,13 +31,29 @@ UA = "Mozilla/5.0 (Linux; Android 13; iQOO Z9) AppleWebKit/537.36 (KHTML, like G
 BASKETBALL_LEAGUES = ("NBA", "CBA", "NCAA", "WNBA", "NBL", "韩篮", "澳篮", "欧篮", "篮")
 
 
-def http_get(url, timeout=20, referer=None):
-    headers = {"User-Agent": UA}
+def http_get(url, timeout=20, referer=None, retries=5):
+    # gzip: the site truncates uncompressed chunked responses around 65-81KB;
+    # asking for gzip gets the full ~157KB page. Retry on IncompleteRead etc.
+    headers = {"User-Agent": UA, "Accept-Encoding": "gzip"}
     if referer:
         headers["Referer"] = referer
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
+    last_exc = None
+    for attempt in range(1, retries + 1):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                data = r.read()
+                if r.headers.get("Content-Encoding") == "gzip":
+                    data = gzip.decompress(data)
+            if data:
+                return data
+            raise ValueError("empty response")
+        except Exception as e:
+            last_exc = e
+            print("http_get attempt %d/%d failed: %s: %s" % (attempt, retries, url, e), file=sys.stderr)
+            if attempt < retries:
+                time.sleep(5 * attempt)
+    raise last_exc
 
 
 def decode_source(raw):
@@ -124,6 +141,9 @@ def main():
         html = http_get(BASE + "/").decode("utf-8", "replace")
     except Exception as e:
         print("homepage failed: %s" % e, file=sys.stderr)
+        return 1
+    if "</html>" not in html:
+        print("homepage failed: incomplete page (no </html>)", file=sys.stderr)
         return 1
     matches = parse_homepage(html)
     print("live matches on homepage: %d" % len(matches))
