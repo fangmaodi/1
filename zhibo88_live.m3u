@@ -1,11 +1,3 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 湖人 vs 爵士|腾讯超清7
-https://www.rtmpcdn.com/live/qq7.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 湖人 vs 爵士|线路Q1
 https://live01-cn-ali.xqnbu.com/live/78598853_tsc.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 湖人 vs 爵士|线路A1
-https://www.rtmpcdn.com/live/ebe28fcfd587ddbb37fd761c0ee580d1a378ef7307f6b3d9c26765051c765be2.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 湖人 vs 爵士|原声直播1
-https://www.rtmpcdn.com/live/09379c4aa04f9480e59c48c64a9fd9aebddc0cdfb8d783faaef98d61b6a6ccaa.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 国王 vs 马刺|线路Q1
-https://live01-cn-ali.xqnbu.com/live/11452099_tsc.m3u8
