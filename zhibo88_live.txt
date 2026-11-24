@@ -1,9 +1,6 @@
-# 88zhibo live, updated 2026-11-24 05:14:05, 4 matches, 8 channels
+# 88zhibo live, updated 2026-11-24 05:34:20, 3 matches, 5 channels
 【篮球】NBA 湖人 vs 爵士|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
 【篮球】NBA 湖人 vs 爵士|线路Q1,https://live01-cn-ali.xqnbu.com/live/78598853_tsc.m3u8
 【篮球】NBA 湖人 vs 爵士|线路A1,https://www.rtmpcdn.com/live/ebe28fcfd587ddbb37fd761c0ee580d1a378ef7307f6b3d9c26765051c765be2.m3u8
 【篮球】NBA 湖人 vs 爵士|原声直播1,https://www.rtmpcdn.com/live/09379c4aa04f9480e59c48c64a9fd9aebddc0cdfb8d783faaef98d61b6a6ccaa.m3u8
-【篮球】NBA 国王 vs 马刺|腾讯超清8,https://www.rtmpcdn.com/live/qq8.m3u8
-【篮球】NBA 国王 vs 马刺|线路A1,https://www.rtmpcdn.com/live/f6cc455e61f25b486e0867adfeeb5ff1225e870e94988dd988413c125d09e746.m3u8
-【篮球】NBA 国王 vs 马刺|原声直播1,https://www.rtmpcdn.com/live/6c888ffc69cde439dda9588266cbd85543c807cca6235a41d19fbc1883391dd7.m3u8
 【篮球】NBA 国王 vs 马刺|线路Q1,https://live01-cn-ali.xqnbu.com/live/11452099_tsc.m3u8
