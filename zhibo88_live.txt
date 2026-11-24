@@ -1,2 +1,9 @@
-# 88zhibo live, updated 2026-11-24 05:54:20, 3 matches, 1 channels
-【篮球】NBA 湖人 vs 爵士|线路Q1,https://live01-cn-ali.xqnbu.com/live/78598853_tsc.m3u8
+# 88zhibo live, updated 2026-11-24 14:16:18, 18 matches, 8 channels
+【足球】亚冠精英联赛 上海海港 vs 武里南联|线路C4,https://spl.tiyucdn.com/matchlive/ls2172329_30fps.m3u8
+【足球】委内瑞拉U17 vs 罗马尼亚U17|线路A1,https://www.rtmpcdn.com/live/88777c8eb77bd9c8fdbf2bcd0d898fc51e5c9f9f067afe53a831951c03e84c6b.m3u8
+【足球】U17世界杯 哥斯达黎加U17 vs 爱尔兰U17|线路A1,https://www.rtmpcdn.com/live/c38d579b2b69d4324ebc1415da01ad3033b90131231d2799700a78e1404089d6.m3u8
+【足球】U17世界杯 日本U17 vs 塞尔维亚U17|线路A1,https://www.rtmpcdn.com/live/acaca04a841a93c549f83795a4a2f27451a41078d5b6cccdb608d314d41186f4.m3u8
+【足球】U17世界杯 墨西哥U17 vs 喀麦隆U17|线路A1,https://www.rtmpcdn.com/live/c235a0b81a5af9281028a13a70335b9d0bd64cf9aca0783587634b25bb93ac42.m3u8
+【足球】亚冠联2 东孟加拉 vs 侯赛因|线路C5,https://play.aarray.cn/rrty/hd-zh-1-4621346_gqzm.m3u8?auth_key=1795531173-0-0-7c39a1ab8da6b6925160a4b9d914ca42&token=95853e974d87014e&device=4&platform=rrty
+【足球】亚冠联2 东孟加拉 vs 侯赛因|线路C5,https://play.aarray.cn/rrty/hd-zh-1-4621346_gqzm.m3u8?auth_key=1795532011-0-0-523b250ab142e81a75a2b6948fd54d49&token=3ece6a0dca512844&device=4&platform=rrty
+【足球】亚冠联2 东孟加拉 vs 侯赛因|线路C5,https://play.aarray.cn/rrty/hd-zh-1-4621346_gqzm.m3u8?auth_key=1795532876-0-0-5c71f21025c992e6d4ea6007e9dbc3ce&token=b39d998aaaf87ce4&device=4&platform=rrty
