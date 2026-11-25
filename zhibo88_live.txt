@@ -1,4 +1,4 @@
-# 88zhibo live, updated 2026-11-25 03:14:41, 16 matches, 10 channels
+# 88zhibo live, updated 2026-11-25 03:34:23, 17 matches, 12 channels
 【篮球】NBA 奇才 vs 凯尔特人|腾讯超清2,https://www.rtmpcdn.com/live/qq2.m3u8
 【篮球】NBA 奇才 vs 凯尔特人|线路Q2,https://www.rtmpcdn.com/live/8d48f80d-802f-4cec-8adc-c170cab965e2.m3u8
 【篮球】NBA 奇才 vs 凯尔特人|线路Q1,https://live01-cn-ali.xqnbu.com/live/76248564_tsc.m3u8
@@ -8,4 +8,6 @@
 【篮球】NBA杯小组赛西部A组 掘金 vs 独行侠|CCTV,https://www.rtmpcdn.com/live/cctv5.m3u8
 【篮球】NBA杯小组赛西部A组 掘金 vs 独行侠|线路A1,https://www.rtmpcdn.com/live/496ecfe0e4b601c3a5281056fdc3ea206a891e655fb331391fc70ed14ecc964b.m3u8
 【篮球】NBA杯小组赛西部A组 掘金 vs 独行侠|原声直播1,https://www.rtmpcdn.com/live/4d3adcb8e122524d78f38d9ba25ed62afac9ab182d9ad2faec07549e35c322f2.m3u8
-【足球】美联 圣何塞地震 vs 休斯敦迪纳摩|线路C4,https://play.aarray.cn/rrty/sd-1-4666484_gqzm.m3u8?auth_key=1795579683-0-0-a58b590041ec6d292a4aab82bf43162c&token=da409f608a8e3e06&device=4&platform=rrty
+【足球】足球综合 圣何塞地震 vs 休斯敦迪纳摩|线路C4,https://play.aarray.cn/rrty/sd-1-4666484_gqzm.m3u8?auth_key=1795579683-0-0-a58b590041ec6d292a4aab82bf43162c&token=da409f608a8e3e06&device=4&platform=rrty
+【足球】足球综合 圣何塞地震 vs 休斯敦迪纳摩|线路A1,https://www.rtmpcdn.com/live/62a2b9021b5b54756db5b6b4208cddbcb5539445ef89910d07e22ae24c6951d6.m3u8
+【足球】足球综合 圣何塞地震 vs 休斯敦迪纳摩|线路C4,https://play.aarray.cn/rrty/hd-en-1-4666484_gqzm.m3u8?auth_key=1795580550-0-0-3b0f9263f4f8cd380034075163b0438d&token=1fc074d6a7c5f705&device=4&platform=rrty
