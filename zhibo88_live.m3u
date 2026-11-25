@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 掘金 vs 独行侠|腾讯超清3
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 独行侠|腾讯超清3
 https://www.rtmpcdn.com/live/qq3.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 掘金 vs 独行侠|CCTV
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 独行侠|CCTV
 https://www.rtmpcdn.com/live/cctv5.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 掘金 vs 独行侠|线路A1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 独行侠|线路A1
 https://www.rtmpcdn.com/live/496ecfe0e4b601c3a5281056fdc3ea206a891e655fb331391fc70ed14ecc964b.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 掘金 vs 独行侠|原声直播1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 独行侠|原声直播1
 https://www.rtmpcdn.com/live/4d3adcb8e122524d78f38d9ba25ed62afac9ab182d9ad2faec07549e35c322f2.m3u8
 #EXTINF:-1 group-title="足球",【足球】足球综合 圣何塞地震 vs 休斯敦迪纳摩|线路A2
 https://www.rtmpcdn.com/live/0648243cdb4ad3fb69d916ab0d7a2a00779719174b9fc19cb5e79d0d3b295368.m3u8
