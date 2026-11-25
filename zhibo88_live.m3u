@@ -1,1 +1,17 @@
 #EXTM3U x-tvg-url=""
+#EXTINF:-1 group-title="足球",【足球】欧冠杯 沙巴巴库 vs 巴塞罗那|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4628491_gqzm.m3u8?auth_key=1795631951-0-0-1d1391223af5dbdac42df8d72589459e&token=b8eb1179cebeca0f&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】欧冠杯 沙巴巴库 vs 巴塞罗那|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4628491_gqzm.m3u8?auth_key=1795632767-0-0-0c0dd65337733e0f4fc7abf6314f746c&token=2ee858d506f84401&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】欧冠 布拉格斯拉维亚 vs 比利亚雷亚尔|爱奇艺超清2
+https://www.rtmpcdn.com/live/iqiyi2.m3u8
+#EXTINF:-1 group-title="足球",【足球】欧冠 布拉格斯拉维亚 vs 比利亚雷亚尔|线路A1
+https://www.rtmpcdn.com/live/b0dd652d-e7c9-43fb-b031-1af82a49174f.m3u8
+#EXTINF:-1 group-title="足球",【足球】欧冠 布拉格斯拉维亚 vs 比利亚雷亚尔|线路C4
+https://spl.tiyucdn.com/matchlive/ls2272759_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】欧冠 布拉格斯拉维亚 vs 比利亚雷亚尔|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4628501_gqzm.m3u8?auth_key=1795632818-0-0-e2ce18976555e0fa62d8a11908a6684d&token=4cf10d987da721f2&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】欧冠 萨巴赫 vs 巴塞罗那|爱奇艺超清1
+https://www.rtmpcdn.com/live/iqiyi1.m3u8
+#EXTINF:-1 group-title="足球",【足球】欧冠 萨巴赫 vs 巴塞罗那|线路A1
+https://www.rtmpcdn.com/live/7ecadbda-bab9-44f6-b37e-58f5c51f77e7.m3u8
