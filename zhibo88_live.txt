@@ -1,4 +1,5 @@
-# 88zhibo live, updated 2026-11-24 23:54:18, 9 matches, 3 channels
+# 88zhibo live, updated 2026-11-25 00:14:29, 9 matches, 4 channels
 【篮球】NBA 魔术 vs 活塞|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
 【篮球】NBA 魔术 vs 活塞|线路A1,https://www.rtmpcdn.com/live/58a3972ae0378b5958ca9d0fd1d6e8a20815b3f4d37f8439bb20b83db87291e8.m3u8
+【篮球】NBA 魔术 vs 活塞|原声直播1,https://www.rtmpcdn.com/live/4f64c920ba731f0d99f06f5e75e29dfc77e9e8948d63f6273615f72825ef3240.m3u8
 【篮球】NBA 魔术 vs 活塞|线路Q1,https://live01-cn-ali.xqnbu.com/live/59217556_tsc.m3u8
