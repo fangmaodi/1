@@ -1,13 +1,17 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 魔术 vs 活塞|线路Q1
-https://live01-cn-ali.xqnbu.com/live/59217556_tsc.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛东部C组 奇才 vs 凯尔特人|腾讯超清2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 奇才 vs 凯尔特人|腾讯超清2
 https://www.rtmpcdn.com/live/qq2.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛东部C组 奇才 vs 凯尔特人|线路Q2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 奇才 vs 凯尔特人|线路Q2
 https://www.rtmpcdn.com/live/8d48f80d-802f-4cec-8adc-c170cab965e2.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛东部C组 奇才 vs 凯尔特人|线路Q1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 奇才 vs 凯尔特人|线路Q1
 https://live01-cn-ali.xqnbu.com/live/76248564_tsc.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛东部C组 奇才 vs 凯尔特人|线路A1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 奇才 vs 凯尔特人|线路A1
 https://www.rtmpcdn.com/live/9c3959e60c02bc33dd0aaad3334d0f92758a129575644189e723227e07b97a07.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛东部C组 奇才 vs 凯尔特人|原声直播1
+#EXTINF:-1 group-title="篮球",【篮球】NBA 奇才 vs 凯尔特人|原声直播1
 https://www.rtmpcdn.com/live/ad7c6925fb1a74a4a0528b49eeb0d50d19a1b2af5466b81057366f975c9c2099.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 独行侠|腾讯超清3
+https://www.rtmpcdn.com/live/qq3.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 独行侠|CCTV
+https://www.rtmpcdn.com/live/cctv5.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 掘金 vs 独行侠|线路A1
+https://www.rtmpcdn.com/live/496ecfe0e4b601c3a5281056fdc3ea206a891e655fb331391fc70ed14ecc964b.m3u8
