@@ -1,4 +1,4 @@
-# 88zhibo live, updated 2026-11-26 01:14:36, 13 matches, 11 channels
+# 88zhibo live, updated 2026-11-26 01:34:26, 16 matches, 14 channels
 【篮球】NBA杯小组赛东部C组 黄蜂 vs 公牛|线路A1,https://www.rtmpcdn.com/live/05de4d8d-c3b4-4931-99a1-a95055038cb0.m3u8
 【篮球】NBA 雷霆 vs 森林狼|腾讯超清3,https://www.rtmpcdn.com/live/qq3.m3u8
 【篮球】NBA 雷霆 vs 森林狼|线路A1,https://www.rtmpcdn.com/live/a0a60203-2e7f-4269-b657-3cc6dc3281f2.m3u8
@@ -10,3 +10,6 @@
 【篮球】NBA 雄鹿 vs 篮网|线路A1,https://www.rtmpcdn.com/live/39b1a95c-52b6-49dc-ae47-965a9c34a4eb.m3u8
 【篮球】NBA 灰熊 vs 快船|腾讯超清4,https://www.rtmpcdn.com/live/qq4.m3u8
 【篮球】NBA 灰熊 vs 快船|线路A1,https://www.rtmpcdn.com/live/92e4d0db-025e-4e97-9a1f-705857951d57.m3u8
+【篮球】NBA杯小组赛西部A组 火箭 vs 太阳|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
+【篮球】NBA杯小组赛西部A组 火箭 vs 太阳|线路A1,https://www.rtmpcdn.com/live/7bf52dc3-99f9-4af4-b94b-273e9bfe87f6.m3u8
+【篮球】NBA杯小组赛西部A组 火箭 vs 太阳|原声直播1,https://www.rtmpcdn.com/live/273b5fbd-90f0-4c0d-81a5-128b64616c9c.m3u8
