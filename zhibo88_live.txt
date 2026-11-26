@@ -1,7 +1,4 @@
-# 88zhibo live, updated 2026-11-26 03:54:26, 12 matches, 9 channels
-【篮球】NBA 火箭 vs 太阳|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
-【篮球】NBA 火箭 vs 太阳|线路A1,https://www.rtmpcdn.com/live/7bf52dc3-99f9-4af4-b94b-273e9bfe87f6.m3u8
-【篮球】NBA 火箭 vs 太阳|原声直播1,https://www.rtmpcdn.com/live/273b5fbd-90f0-4c0d-81a5-128b64616c9c.m3u8
+# 88zhibo live, updated 2026-11-26 04:14:13, 7 matches, 6 channels
 【篮球】NBA 开拓者 vs 马刺|腾讯超清8,https://www.rtmpcdn.com/live/qq8.m3u8
 【篮球】NBA 开拓者 vs 马刺|线路A1,https://www.rtmpcdn.com/live/35db5e67-718e-4467-b19e-0ba1c2dac5aa.m3u8
 【篮球】NBA 开拓者 vs 马刺|原声直播1,https://www.rtmpcdn.com/live/32261d6f-f2c3-458f-bf3f-5ff6a5d3799b.m3u8
