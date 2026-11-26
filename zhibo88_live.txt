@@ -1,12 +1,2 @@
-# 88zhibo live, updated 2026-11-26 17:32:39, 13 matches, 11 channels
-【足球】世亚预 卡塔尔 vs 韩国|线路A1,https://www.rtmpcdn.com/live/482da9cb-454e-48fa-bc3e-6061b3cadc0a.m3u8
-【足球】U17世界杯 塔吉克斯坦U17 vs 塞内加尔U17|线路A1,https://www.rtmpcdn.com/live/69ecc88a-162b-42ff-bfdf-5610c1f2d769.m3u8
-【足球】U17世界杯 克罗地亚U17 vs 古巴U17|线路A1,https://www.rtmpcdn.com/live/af7a16a7-f9c1-4a87-b11c-d8718edf7fb8.m3u8
-【足球】世欧预 立陶宛 vs 塞尔维亚|线路C4,https://play.aarray.cn/rrty/sd-2-3931013_gqzm.m3u8?auth_key=1795714727-0-0-280bde3ab917cefc312236d026089505&token=ee6664b8ff09441b&device=4&platform=rrty
-【足球】世欧预 立陶宛 vs 塞尔维亚|线路C4,https://play.aarray.cn/rrty/sd-2-3931013_gqzm.m3u8?auth_key=1795715548-0-0-72782e3af89df51c3684d9aa4b7eef02&token=a5c337dff9180155&device=4&platform=rrty
-【篮球】男篮欧国预 塞浦路斯 vs 北马其顿|线路C4,https://play.aarray.cn/rrty/sd-2-3933232_gqzm.m3u8?auth_key=1795716543-0-0-a7f54cd348fd9ffdf0634a9652d5ba83&token=6fb530f8dea1e980&device=4&platform=rrty
-【篮球】男篮欧国预 塞浦路斯 vs 北马其顿|线路C4,https://play.aarray.cn/rrty/sd-2-3933232_gqzm.m3u8?auth_key=1795717397-0-0-3e140f15dcb144a20d2de83fa83bdfe9&token=a6a32c7d5014ea1e&device=4&platform=rrty
-【篮球】男篮欧国预 丹麦 vs 保加利亚|线路C4,https://play.aarray.cn/rrty/sd-2-3933236_gqzm.m3u8?auth_key=1795716553-0-0-ea5b1fa92a416def46f42b4557c07570&token=e6df006c3837af46&device=4&platform=rrty
-【篮球】男篮欧国预 丹麦 vs 保加利亚|线路C4,https://play.aarray.cn/rrty/sd-2-3933236_gqzm.m3u8?auth_key=1795717386-0-0-f19afd8120a884e23d9d64ee73e547fc&token=98bb5df4194ee702&device=4&platform=rrty
-【篮球】男篮欧国预 瑞士 vs 斯洛伐克|线路C4,https://play.aarray.cn/rrty/sd-2-3933222_gqzm.m3u8?auth_key=1795716563-0-0-aa461c65ff3c2120b440eb413975164d&token=b673df2cfedaf0ab&device=4&platform=rrty
-【篮球】男篮欧国预 瑞士 vs 斯洛伐克|线路C4,https://play.aarray.cn/rrty/sd-2-3933222_gqzm.m3u8?auth_key=1795717386-0-0-6bc6972a3042c3c76a8c3f618eb80a2b&token=2e93c6a09d9422bb&device=4&platform=rrty
+# 88zhibo live, updated 2026-11-26 23:14:24, 6 matches, 1 channels
+【篮球】男篮世预赛 加拿大 vs 乌拉圭|线路C4,https://play.aarray.cn/rrty/sd-2-3931131_gqzm.m3u8?auth_key=1795735296-0-0-933bed3f7982c3e8b628f637b771e9d2&token=c89f5c21c05572b7&device=4&platform=rrty
