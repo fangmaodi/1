@@ -1,27 +1,27 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 雷霆 vs 森林狼|腾讯超清3
-https://www.rtmpcdn.com/live/qq3.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 雷霆 vs 森林狼|线路A1
-https://www.rtmpcdn.com/live/a0a60203-2e7f-4269-b657-3cc6dc3281f2.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 雷霆 vs 森林狼|原声直播1
-https://www.rtmpcdn.com/live/db42d17b-2cd7-40d4-b1ef-2b83a68bdc96.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 尼克斯 vs 骑士|腾讯超清2
-https://www.rtmpcdn.com/live/qq2.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 尼克斯 vs 骑士|线路A1
-https://www.rtmpcdn.com/live/79640a3e-d75e-42da-b37c-0486987efdc6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 尼克斯 vs 骑士|原声直播1
-https://www.rtmpcdn.com/live/24ff6150-fa91-4a69-8401-16cc2cf1b454.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 雄鹿 vs 篮网|腾讯超清5
 https://www.rtmpcdn.com/live/qq5.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 雄鹿 vs 篮网|线路Q2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 雄鹿 vs 篮网|线路A1
 https://www.rtmpcdn.com/live/39b1a95c-52b6-49dc-ae47-965a9c34a4eb.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 灰熊 vs 快船|腾讯超清4
 https://www.rtmpcdn.com/live/qq4.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 灰熊 vs 快船|线路Q2
+#EXTINF:-1 group-title="篮球",【篮球】NBA 灰熊 vs 快船|线路A1
 https://www.rtmpcdn.com/live/92e4d0db-025e-4e97-9a1f-705857951d57.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 火箭 vs 太阳|腾讯超清6
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 火箭 vs 太阳|腾讯超清6
 https://www.rtmpcdn.com/live/qq6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 火箭 vs 太阳|线路A1
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 火箭 vs 太阳|线路A1
 https://www.rtmpcdn.com/live/7bf52dc3-99f9-4af4-b94b-273e9bfe87f6.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 火箭 vs 太阳|原声直播1
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部A组 火箭 vs 太阳|原声直播1
 https://www.rtmpcdn.com/live/273b5fbd-90f0-4c0d-81a5-128b64616c9c.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 开拓者 vs 马刺|腾讯超清8
+https://www.rtmpcdn.com/live/qq8.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 开拓者 vs 马刺|线路A1
+https://www.rtmpcdn.com/live/35db5e67-718e-4467-b19e-0ba1c2dac5aa.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 开拓者 vs 马刺|原声直播1
+https://www.rtmpcdn.com/live/32261d6f-f2c3-458f-bf3f-5ff6a5d3799b.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 勇士 vs 国王|腾讯超清7
+https://www.rtmpcdn.com/live/qq7.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 勇士 vs 国王|线路A1
+https://www.rtmpcdn.com/live/0c4e41ea-ec89-4557-a195-72e71445d72a.m3u8
+#EXTINF:-1 group-title="篮球",【篮球】NBA 勇士 vs 国王|原声直播1
+https://www.rtmpcdn.com/live/2f522c47-c8f1-487d-bb33-cf3878e13785.m3u8
