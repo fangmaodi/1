@@ -1,3 +1,5 @@
-# 88zhibo live, updated 2026-11-27 23:34:21, 7 matches, 2 channels
-【篮球】男篮世预赛 巴西 vs 美国|线路C4,https://play.aarray.cn/rrty/hd-zh-2-3931132_gqzm.m3u8?auth_key=1795824495-0-0-783650a05cb0a4807aa26b4b25a38090&token=a0f89d40ef180845&device=4&platform=rrty
-【篮球】男篮世预赛 巴西 vs 美国|线路C4,https://play.aarray.cn/rrty/hd-zh-2-3931132_gqzm.m3u8?auth_key=1795825326-0-0-1d6204705f3decea8e036210d7940774&token=084aaba8aee4bd3c&device=4&platform=rrty
+# 88zhibo live, updated 2026-11-27 23:54:09, 8 matches, 4 channels
+【篮球】男篮世美预 巴西 vs 美国|线路C4,https://play.aarray.cn/rrty/hd-zh-2-3931132_gqzm.m3u8?auth_key=1795824495-0-0-783650a05cb0a4807aa26b4b25a38090&token=a0f89d40ef180845&device=4&platform=rrty
+【篮球】男篮世美预 巴西 vs 美国|线路C4,https://play.aarray.cn/rrty/hd-zh-2-3931132_gqzm.m3u8?auth_key=1795825326-0-0-1d6204705f3decea8e036210d7940774&token=084aaba8aee4bd3c&device=4&platform=rrty
+【篮球】NBA 尼克斯 vs 热火|腾讯超清1,https://www.rtmpcdn.com/live/qq1.m3u8
+【篮球】NBA 尼克斯 vs 热火|线路A1,https://www.rtmpcdn.com/live/49c83edf-b969-4fbf-804e-d4939e7f1d17.m3u8
