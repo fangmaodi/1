@@ -1,7 +1,2 @@
-# 88zhibo live, updated 2026-11-27 19:21:12, 11 matches, 6 channels
-【足球】亚杯预 巴勒斯坦 vs 阿联酋|线路C4,https://play.aarray.cn/rrty/sd-2-3943511_gqzm.m3u8?auth_key=1795807384-0-0-dd37704c2aa51578bb67f64af281a94c&token=c514864dad8f49e8&device=4&platform=rrty
-【足球】世欧预 瑞典 vs 匈牙利|线路C4,https://play.aarray.cn/rrty/hd-en-2-3931061_gqzm.m3u8?auth_key=1795807384-0-0-ba62a0d3a667c02f621f0029819acd05&token=b572e8c9b49fa5fe&device=4&platform=rrty
-【篮球】男篮世预赛 斯洛文尼亚 vs 芬兰|线路C4,https://play.aarray.cn/rrty/hd-en-2-3931060_gqzm.m3u8?auth_key=1795809301-0-0-01702807163d49e2e50e28b2c61fc7ff&token=3c38a8ba4645825c&device=4&platform=rrty
-【篮球】男篮世预赛 斯洛文尼亚 vs 芬兰|线路C4,https://play.aarray.cn/rrty/hd-en-2-3931060_gqzm.m3u8?auth_key=1795810117-0-0-5b044de78316ed88b824060d03ee8e42&token=59671941f61da05b&device=4&platform=rrty
-【篮球】男篮世预赛 荷兰 vs 以色列|线路C4,https://play.aarray.cn/rrty/hd-en-2-3931058_gqzm.m3u8?auth_key=1795809331-0-0-1493e150465202bb6eb7abfa56cf791d&token=e9960d1aed98646d&device=4&platform=rrty
-【篮球】男篮世预赛 荷兰 vs 以色列|线路C4,https://play.aarray.cn/rrty/hd-en-2-3931058_gqzm.m3u8?auth_key=1795810197-0-0-2fb929fdddfd2c42adfa73a5dc5a17d6&token=e26d417d35e74a90&device=4&platform=rrty
+# 88zhibo live, updated 2026-11-27 23:14:34, 9 matches, 1 channels
+【篮球】男篮世预赛 巴西 vs 美国|线路C4,https://play.aarray.cn/rrty/hd-zh-2-3931132_gqzm.m3u8?auth_key=1795824495-0-0-783650a05cb0a4807aa26b4b25a38090&token=a0f89d40ef180845&device=4&platform=rrty
