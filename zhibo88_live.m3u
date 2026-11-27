@@ -1,17 +1,13 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】WCBA 豫光金铅 vs 山东赤水河酒|线路A1
-https://www.rtmpcdn.com/live/b8fc957c-87c2-4e61-b150-f69f16f551d1.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】WCBA 广东奥普特 vs 大连文体旅|线路A1
-https://www.rtmpcdn.com/live/555197b1-6290-4136-b56e-36d48f6250a2.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】WCBA 合肥文旅 vs 新疆天山|线路A1
-https://www.rtmpcdn.com/live/1115c434-9e56-4fc4-ae0f-f70eea1b6829.m3u8
-#EXTINF:-1 group-title="足球",【足球】亚杯预 斯里兰卡 vs 巴林|线路C4
-https://play.aarray.cn/rrty/sd-2-3943512_gqzm.m3u8?auth_key=1795784930-0-0-58a8d7c1fa3abcdd3c4c4d09f70eb887&token=38857ac6920a8e70&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】亚杯预 斯里兰卡 vs 巴林|线路C4
-https://play.aarray.cn/rrty/sd-2-3943512_gqzm.m3u8?auth_key=1795785775-0-0-4510790baaaa8d6a5635ed19ed47c04b&token=5eaa1f2314075a19&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】世亚预 叙利亚 vs 菲律宾|线路C4
-https://play.aarray.cn/rrty/sd-2-3923791_gqzm.m3u8?auth_key=1795784930-0-0-d7b72561d16a8abf4ac4969fad6f2ab4&token=d64106207d6d2238&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】世亚预 叙利亚 vs 菲律宾|线路A1
-https://www.rtmpcdn.com/live/2bee04ed-7dc5-46ea-bc6b-c46dda21c82b.m3u8
-#EXTINF:-1 group-title="足球",【足球】世亚预 叙利亚 vs 菲律宾|线路C4
-https://play.aarray.cn/rrty/sd-2-3923791_gqzm.m3u8?auth_key=1795785765-0-0-a1a79db276bc1c9ec61f65e9a6c7a87f&token=170bb5ea2525aa53&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】亚杯预 巴勒斯坦 vs 阿联酋|线路C4
+https://play.aarray.cn/rrty/sd-2-3943511_gqzm.m3u8?auth_key=1795807384-0-0-dd37704c2aa51578bb67f64af281a94c&token=c514864dad8f49e8&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】世欧预 瑞典 vs 匈牙利|线路C4
+https://play.aarray.cn/rrty/hd-en-2-3931061_gqzm.m3u8?auth_key=1795807384-0-0-ba62a0d3a667c02f621f0029819acd05&token=b572e8c9b49fa5fe&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】男篮世预赛 斯洛文尼亚 vs 芬兰|线路C4
+https://play.aarray.cn/rrty/hd-en-2-3931060_gqzm.m3u8?auth_key=1795809301-0-0-01702807163d49e2e50e28b2c61fc7ff&token=3c38a8ba4645825c&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】男篮世预赛 斯洛文尼亚 vs 芬兰|线路C4
+https://play.aarray.cn/rrty/hd-en-2-3931060_gqzm.m3u8?auth_key=1795810117-0-0-5b044de78316ed88b824060d03ee8e42&token=59671941f61da05b&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】男篮世预赛 荷兰 vs 以色列|线路C4
+https://play.aarray.cn/rrty/hd-en-2-3931058_gqzm.m3u8?auth_key=1795809331-0-0-1493e150465202bb6eb7abfa56cf791d&token=e9960d1aed98646d&device=4&platform=rrty
+#EXTINF:-1 group-title="篮球",【篮球】男篮世预赛 荷兰 vs 以色列|线路C4
+https://play.aarray.cn/rrty/hd-en-2-3931058_gqzm.m3u8?auth_key=1795810197-0-0-2fb929fdddfd2c42adfa73a5dc5a17d6&token=e26d417d35e74a90&device=4&platform=rrty
