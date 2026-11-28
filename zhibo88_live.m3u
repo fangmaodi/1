@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="篮球",【篮球】NBA 尼克斯 vs 热火|腾讯超清1
-https://www.rtmpcdn.com/live/qq1.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 尼克斯 vs 热火|线路Q2
-https://www.rtmpcdn.com/live/49c83edf-b969-4fbf-804e-d4939e7f1d17.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 尼克斯 vs 热火|线路A1
-https://www.rtmpcdn.com/live/ea6b1ee7-22d9-4ef4-a802-86b666c006c9.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 尼克斯 vs 热火|原声直播1
-https://www.rtmpcdn.com/live/0a026c55-d8a5-4c5c-bac8-2a642e673a12.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 活塞 vs 雄鹿|线路A1
-https://www.rtmpcdn.com/live/05d7abb5-3bef-4e6f-8b88-01566c3bb726.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 76人|腾讯超清3
-https://www.rtmpcdn.com/live/qq3.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 76人|线路A1
 https://www.rtmpcdn.com/live/8c9d58f9-3b70-448f-870f-2e8f90567c40.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 步行者 vs 76人|原声直播1
@@ -25,11 +13,11 @@ https://www.rtmpcdn.com/live/ada4a871-48f0-4d76-9593-1de813b8cb6e.m3u8
 https://www.rtmpcdn.com/live/bcc5f539-487e-40c2-bfb2-c48774c7d7ea.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 太阳 vs 独行侠|线路A1
 https://www.rtmpcdn.com/live/455a78aa-ebde-4f8c-961e-7713ee7246a0.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 湖人|腾讯超清5
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部C组 马刺 vs 湖人|腾讯超清5
 https://www.rtmpcdn.com/live/qq5.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 湖人|线路A1
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部C组 马刺 vs 湖人|线路A1
 https://www.rtmpcdn.com/live/9708676e-06cd-439b-b943-bdfc5d30e828.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 马刺 vs 湖人|原声直播1
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部C组 马刺 vs 湖人|原声直播1
 https://www.rtmpcdn.com/live/2138b99b-6aa2-4090-8409-9fe3886e9591.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 开拓者 vs 勇士|腾讯超清8
 https://www.rtmpcdn.com/live/qq8.m3u8
@@ -41,7 +29,9 @@ https://www.rtmpcdn.com/live/b3865849-e5c7-47be-b546-2bcd9464ddcc.m3u8
 https://www.rtmpcdn.com/live/qq6.m3u8
 #EXTINF:-1 group-title="篮球",【篮球】NBA 爵士 vs 掘金|线路A1
 https://www.rtmpcdn.com/live/6390b62d-d047-4245-8471-8d8e3203c2c0.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 快船 vs 鹈鹕|腾讯超清7
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部B组 快船 vs 鹈鹕|腾讯超清7
 https://www.rtmpcdn.com/live/qq7.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】NBA 快船 vs 鹈鹕|线路A1
+#EXTINF:-1 group-title="篮球",【篮球】NBA杯小组赛西部B组 快船 vs 鹈鹕|线路A1
 https://www.rtmpcdn.com/live/299cb8a0-965d-4fee-abea-62fac9d5272d.m3u8
+#EXTINF:-1 group-title="足球",【足球】美联 皇家盐湖城 vs 温哥华白浪|线路C4
+https://play.aarray.cn/rrty/sd-1-4670831_gqzm.m3u8?auth_key=1795838928-0-0-996cdcc06a3c11ec140bfae8d65beace&token=20f013f806d06d27&device=4&platform=rrty
