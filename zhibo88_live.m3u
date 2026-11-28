@@ -1,43 +1,81 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 group-title="足球",【足球】国际友谊 拉脱维亚 vs 立陶宛|线路A1
-https://www.rtmpcdn.com/live/e43a1a76-0faf-4369-8027-94cd5fb56d34.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】WCBA 武汉盛帆黄鹤 vs 石家庄英励|线路A1
-https://www.rtmpcdn.com/live/c043c75d-1032-4ec0-b41e-1ed12858cae9.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】WCBA 四川远达美乐 vs 江苏南钢|线路A1
-https://www.rtmpcdn.com/live/b6c95031-1b7b-4059-81c0-4441f55fa7dd.m3u8
-#EXTINF:-1 group-title="篮球",【篮球】WCBA 山西竹叶青酒 vs 上海浦发银行|线路A1
-https://www.rtmpcdn.com/live/a9b44769-07a7-4a43-9a79-c3d0dfe8bde7.m3u8
-#EXTINF:-1 group-title="足球",【足球】永川女足邀请赛 中国 vs 泰国|CCTV
-https://www.rtmpcdn.com/live/cctv5.m3u8
-#EXTINF:-1 group-title="足球",【足球】永川女足邀请赛 中国 vs 泰国|线路migu
+#EXTINF:-1 group-title="足球",【足球】意甲 弗罗西诺内 vs 帕尔马|线路A1
+https://www.rtmpcdn.com/live/351d1867-fcce-4ab6-9521-84ef214f672e.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 弗洛西诺内 vs 帕尔马|线路C4
+https://spl.tiyucdn.com/matchlive/ls2057508_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】德甲 美因茨 vs 柏林联合|线路A1
+https://www.rtmpcdn.com/live/b5d03af5-de19-42e8-b50f-5d22cc8726e8.m3u8
+#EXTINF:-1 group-title="足球",【足球】德甲 美因茨 vs 柏林联合|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4566428_gqzm.m3u8?auth_key=1795881339-0-0-fd5b92a4eae04440ee291bb880ab7560&token=1dc796e64a3a5171&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】德甲 汉堡 vs 拜仁|线路migu
 https://www.rtmpcdn.com/live/migu1.m3u8
-#EXTINF:-1 group-title="足球",【足球】永川女足邀请赛 中国 vs 泰国|线路A1
-https://www.rtmpcdn.com/live/64db64c1-b6d3-45b8-a3eb-a11d62953e0b.m3u8
-#EXTINF:-1 group-title="足球",【足球】永川女足邀请赛 中国 vs 泰国|原声直播1
-https://www.rtmpcdn.com/live/dc7a8d82-8dad-4888-b3ce-d5f78aea3419.m3u8
-#EXTINF:-1 group-title="足球",【足球】英冠 林肯城 vs 狼队|线路C4
-https://play.aarray.cn/rrty/sd-1-4563711_gqzm.m3u8?auth_key=1795872194-0-0-3372d82602f29c474fb9548ae8677b70&token=7d09ad3a254a8473&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】英冠 林肯城 vs 狼队|线路C4
-https://play.aarray.cn/rrty/sd-1-4563711_gqzm.m3u8?auth_key=1795873017-0-0-5a029f420cca5ac84d303c86f6b2c099&token=2edf4a0f53e1ab32&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】英冠 林肯城 vs 狼队|线路C4
-https://play.aarray.cn/rrty/sd-1-4563711_gqzm.m3u8?auth_key=1795874058-0-0-608d373cf2f95682170da5a0501cd493&token=18974f044da226be&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】英冠 林肯城 vs 狼队|线路A1
-https://www.rtmpcdn.com/live/37f53d4e-780f-41d9-86e5-e4b72ebea97e.m3u8
-#EXTINF:-1 group-title="足球",【足球】英冠 普雷斯顿 vs 诺维奇|线路C4
-https://play.aarray.cn/rrty/sd-1-4563713_gqzm.m3u8?auth_key=1795872315-0-0-f0aae95d42125ee5b6eb309968ac68c9&token=fb1530a77f32d8a6&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】英冠 普雷斯顿 vs 诺维奇|线路C4
-https://play.aarray.cn/rrty/sd-1-4563713_gqzm.m3u8?auth_key=1795873179-0-0-ad8509cd27398692bae5314d9d5943a4&token=cae1f817995befb3&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】英冠 普雷斯顿 vs 诺维奇|线路A1
-https://www.rtmpcdn.com/live/ec1c7f7d-19f7-40ae-9ad1-fa16be470780.m3u8
-#EXTINF:-1 group-title="足球",【足球】英冠 布莱克本 vs 查尔顿|线路C4
-https://play.aarray.cn/rrty/sd-1-4563709_gqzm.m3u8?auth_key=1795872258-0-0-71b8445df1aa89d1a10627e68f9d1b9d&token=5c5510c2ed0958bd&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】英冠 布莱克本 vs 查尔顿|线路C4
-https://play.aarray.cn/rrty/sd-1-4563709_gqzm.m3u8?auth_key=1795873118-0-0-e11fde1171621f45b8ccfffcb9093d86&token=436e681c8f610fff&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】英冠 布莱克本 vs 查尔顿|线路C4
-https://play.aarray.cn/rrty/sd-1-4563709_gqzm.m3u8?auth_key=1795874138-0-0-dab36e62b58eb9bfaf97e99bc989031d&token=c6192f38c5ddeb0e&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】英冠 布莱克本 vs 查尔顿|线路A1
-https://www.rtmpcdn.com/live/c6aaf932-9ba9-4f5a-b154-a9de997c9be4.m3u8
-#EXTINF:-1 group-title="足球",【足球】西甲 皇家贝蒂斯 vs 巴列卡诺|线路C5
-https://play.aarray.cn/rrty/hd-zh-1-4565625_gqzm.m3u8?auth_key=1795874138-0-0-c4283544477584fb87944ca3140afaad&token=863af21d662a6fd9&device=4&platform=rrty
-#EXTINF:-1 group-title="足球",【足球】西甲 皇家贝蒂斯 vs 巴列卡诺|线路A1
-https://www.rtmpcdn.com/live/eada5324-7862-4fa0-990f-3d1d1e2392c7.m3u8
+#EXTINF:-1 group-title="足球",【足球】德甲 汉堡 vs 拜仁|线路A1
+https://www.rtmpcdn.com/live/4084d6d1-87b7-4e40-8764-78cb568ef656.m3u8
+#EXTINF:-1 group-title="足球",【足球】德甲 科隆 vs 埃弗斯堡|线路A1
+https://www.rtmpcdn.com/live/ea8f0543-549b-4878-adb1-bac47d831a9b.m3u8
+#EXTINF:-1 group-title="足球",【足球】德甲 科隆 vs 埃弗斯堡|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4566431_gqzm.m3u8?auth_key=1795881339-0-0-067848a4a5573e03513b839eacdc575c&token=bff1d206bcdc744c&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 帕德博恩 vs 沙尔克04|线路C4
+https://spl.tiyucdn.com/matchlive/ls2076851_30fps.m3u8
+#EXTINF:-1 group-title="足球",【足球】足球综合 帕德博恩 vs 沙尔克04|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4566437_gqzm.m3u8?auth_key=1795881187-0-0-fb57550aac4b1b0fabd57ce81a95bff8&token=ee05ebb2ae8966d1&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】足球综合 帕德博恩 vs 沙尔克04|线路A1
+https://www.rtmpcdn.com/live/82bae1ed-3746-40a3-985d-33b75a41fccf.m3u8
+#EXTINF:-1 group-title="足球",【足球】英超 利兹联 vs 考文垂|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4558542_gqzm.m3u8?auth_key=1795881665-0-0-4bb5e1683803ab4d45ee59058c688e32&token=fe6d1d9eb1ac6958&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英超 利兹联 vs 考文垂|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4558542_gqzm.m3u8?auth_key=1795882509-0-0-b4d34502558070222a40f8adce8d6221&token=3367c576e9bd191d&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英超 利兹联 vs 考文垂|线路A1
+https://www.rtmpcdn.com/live/57e47c7e-e2ba-4901-b8ed-4c1d1203415f.m3u8
+#EXTINF:-1 group-title="足球",【足球】英超 利兹联 vs 考文垂|线路C5
+https://play.aarray.cn/rrty/hd-zh-1-4558542_gqzm.m3u8?auth_key=1795883345-0-0-6631462a2b1ff25c5ea7932f0061087d&token=8e8fddcc52fb672b&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 布伦特福德|CCTV
+https://www.rtmpcdn.com/live/cctv5.m3u8
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 布伦特福德|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4558545_gqzm.m3u8?auth_key=1795881603-0-0-f02fa492651a52625e8a5e486759525f&token=fadfe9989b2b5d47&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 布伦特福德|线路C4
+https://play.aarray.cn/rrty/hd-zh-1-4558545_gqzm.m3u8?auth_key=1795882224-0-0-82c9a762518fd946f5961c2eb9bc0e69&token=0f69948f6f9ac942&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 布伦特福德|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4558545_gqzm.m3u8?auth_key=1795882405-0-0-4fc5bbff0430dd53738f84b6e4321638&token=d2d16e1fca72f377&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 布伦特福德|线路migu
+https://www.rtmpcdn.com/live/migu2.m3u8
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 布伦特福德|线路A1
+https://www.rtmpcdn.com/live/47c7fc17-4c1f-45ed-baba-1060957c0c84.m3u8
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 布伦特福德|原声直播1
+https://www.rtmpcdn.com/live/8ae28b67-5003-44de-8258-cccdb43da081.m3u8
+#EXTINF:-1 group-title="足球",【足球】英超 曼联 vs 布伦特福德|线路C6
+https://play.aarray.cn/rrty/hd-zh-1-4558545_gqzm.m3u8?auth_key=1795883233-0-0-5b2a165f0f587970e50dba58e0cedd6d&token=3bfba464666c987f&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 米尔沃尔 vs 伯恩利|线路C4
+https://play.aarray.cn/rrty/sd-1-4563712_gqzm.m3u8?auth_key=1795881623-0-0-7dcd97f974da6339ed3e3770f3bbb368&token=8ae627a473996077&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 米尔沃尔 vs 伯恩利|线路C4
+https://play.aarray.cn/rrty/sd-1-4563712_gqzm.m3u8?auth_key=1795882275-0-0-f10887e72975b45a7a5cb573398b21aa&token=a7b8e797245239b0&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 米尔沃尔 vs 伯恩利|线路C4
+https://play.aarray.cn/rrty/sd-1-4563712_gqzm.m3u8?auth_key=1795883304-0-0-0e3999b78e282e8d8675d1c87cc988ee&token=763b54e02e7a43d4&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 西布朗 vs 布里斯托城|线路C4
+https://play.aarray.cn/rrty/sd-1-4563716_gqzm.m3u8?auth_key=1795881472-0-0-88da2bd083d711edee0524c9621283fb&token=397c30840eec0008&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 西布朗 vs 布里斯托城|线路C4
+https://play.aarray.cn/rrty/sd-1-4563716_gqzm.m3u8?auth_key=1795882305-0-0-c27e873e116ae02a11249e84d52693fe&token=edbad773884f77b7&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 西布朗 vs 布里斯托城|线路C4
+https://play.aarray.cn/rrty/sd-1-4563716_gqzm.m3u8?auth_key=1795883152-0-0-62f9c56d3cf252bbb8738f5264230970&token=8d93ba9591995cd1&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 女王公园巡游者 vs 谢菲尔德|线路C4
+https://play.aarray.cn/rrty/sd-1-4563714_gqzm.m3u8?auth_key=1795882213-0-0-05170aee986fd87d2dc1a723645b4bef&token=e7634825a1ef9830&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 女王公园巡游者 vs 谢菲尔德|线路C4
+https://play.aarray.cn/rrty/sd-1-4563714_gqzm.m3u8?auth_key=1795883061-0-0-95a25756acf02c920292b4e37003deb4&token=4202388003239663&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 德比郡 vs 沃特福德|线路C4
+https://play.aarray.cn/rrty/sd-1-4563710_gqzm.m3u8?auth_key=1795882121-0-0-8244ce2b7a7ec54448bbbb04ea16567d&token=e817ceecefe74030&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 德比郡 vs 沃特福德|线路C4
+https://play.aarray.cn/rrty/sd-1-4563710_gqzm.m3u8?auth_key=1795882978-0-0-7ad8c7c417675337a6002fa41d4a6334&token=b065fdf9119a1e12&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 雷克瑟姆 vs 朴茨茅斯|线路C4
+https://play.aarray.cn/rrty/sd-1-4563719_gqzm.m3u8?auth_key=1795881675-0-0-143a643e375f4675b06e18bfcbcd2fce&token=a9f645c161ea91e5&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 雷克瑟姆 vs 朴茨茅斯|线路C4
+https://play.aarray.cn/rrty/sd-1-4563719_gqzm.m3u8?auth_key=1795882120-0-0-743bdffa0ad1a3b561bbe38741bba70a&token=fb72d3ab3547e7eb&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 雷克瑟姆 vs 朴茨茅斯|线路C4
+https://play.aarray.cn/rrty/sd-1-4563719_gqzm.m3u8?auth_key=1795882948-0-0-def8ded875a14d1cdacb1ceaf6e6cd60&token=5d224fd5e9744deb&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 伯明翰 vs 博尔顿|线路C4
+https://play.aarray.cn/rrty/sd-1-4563708_gqzm.m3u8?auth_key=1795881715-0-0-aad019ceef0fc7d6749fdad3b7309afe&token=c7bbb60a4b8f0c88&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 伯明翰 vs 博尔顿|线路C4
+https://play.aarray.cn/rrty/sd-1-4563708_gqzm.m3u8?auth_key=1795882160-0-0-d8324e9cdf99c1a1615cc419574c3148&token=3f59bcd8d7265989&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 伯明翰 vs 博尔顿|线路C4
+https://play.aarray.cn/rrty/sd-1-4563708_gqzm.m3u8?auth_key=1795882979-0-0-504e149cbc7e5bbcb217f9e6cb9731e8&token=fdb150ef8eb2ce8f&device=4&platform=rrty
+#EXTINF:-1 group-title="足球",【足球】英冠 西汉姆联 vs 斯托克城|线路C4
+https://play.aarray.cn/rrty/sd-1-4563717_gqzm.m3u8?auth_key=1795881493-0-0-ddcc2c007936d7f8ec2230fcf6236b7d&token=87f807bb8d2b4aae&device=4&platform=rrty
