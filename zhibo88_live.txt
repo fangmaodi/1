@@ -1,19 +1,18 @@
-# 88zhibo live, updated 2026-11-28 04:14:40, 11 matches, 19 channels
+# 88zhibo live, updated 2026-11-28 04:34:42, 9 matches, 18 channels
 【篮球】NBA 太阳 vs 独行侠|线路A1,https://www.rtmpcdn.com/live/455a78aa-ebde-4f8c-961e-7713ee7246a0.m3u8
-【篮球】NBA杯小组赛西部C组 马刺 vs 湖人|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
-【篮球】NBA杯小组赛西部C组 马刺 vs 湖人|线路A1,https://www.rtmpcdn.com/live/9708676e-06cd-439b-b943-bdfc5d30e828.m3u8
-【篮球】NBA杯小组赛西部C组 马刺 vs 湖人|原声直播1,https://www.rtmpcdn.com/live/2138b99b-6aa2-4090-8409-9fe3886e9591.m3u8
+【篮球】NBA 马刺 vs 湖人|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
+【篮球】NBA 马刺 vs 湖人|线路A1,https://www.rtmpcdn.com/live/9708676e-06cd-439b-b943-bdfc5d30e828.m3u8
+【篮球】NBA 马刺 vs 湖人|原声直播1,https://www.rtmpcdn.com/live/2138b99b-6aa2-4090-8409-9fe3886e9591.m3u8
 【篮球】NBA 开拓者 vs 勇士|腾讯超清8,https://www.rtmpcdn.com/live/qq8.m3u8
 【篮球】NBA 开拓者 vs 勇士|线路A1,https://www.rtmpcdn.com/live/8997538a-28fa-40eb-a9e9-5d6fbd911e49.m3u8
 【篮球】NBA 开拓者 vs 勇士|原声直播1,https://www.rtmpcdn.com/live/b3865849-e5c7-47be-b546-2bcd9464ddcc.m3u8
 【篮球】NBA 爵士 vs 掘金|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
 【篮球】NBA 爵士 vs 掘金|线路A1,https://www.rtmpcdn.com/live/6390b62d-d047-4245-8471-8d8e3203c2c0.m3u8
 【篮球】NBA 爵士 vs 掘金|原声直播1,https://www.rtmpcdn.com/live/902e6277-1e42-415b-9637-668a311c65de.m3u8
-【篮球】NBA杯小组赛西部B组 快船 vs 鹈鹕|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
-【篮球】NBA杯小组赛西部B组 快船 vs 鹈鹕|线路A1,https://www.rtmpcdn.com/live/299cb8a0-965d-4fee-abea-62fac9d5272d.m3u8
-【篮球】NBA杯小组赛西部B组 快船 vs 鹈鹕|原声直播1,https://www.rtmpcdn.com/live/66c91970-0ba8-44f7-a2d2-c9a216dace1b.m3u8
-【篮球】NBA杯小组赛西部B组 快船 vs 鹈鹕|原声直播2,https://www.rtmpcdn.com/live/35222f23-f8c5-46c1-b802-086027ba3db6.m3u8
-【足球】足球综合 皇家盐湖城 vs 温哥华白浪|线路C4,https://play.aarray.cn/rrty/hd-en-1-4670831_gqzm.m3u8?auth_key=1795839739-0-0-1e5a4ac8ddcb8496bf235683863f1cf8&token=2d4346a6d5008709&device=4&platform=rrty
+【篮球】NBA 快船 vs 鹈鹕|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
+【篮球】NBA 快船 vs 鹈鹕|线路A1,https://www.rtmpcdn.com/live/299cb8a0-965d-4fee-abea-62fac9d5272d.m3u8
+【篮球】NBA 快船 vs 鹈鹕|原声直播1,https://www.rtmpcdn.com/live/66c91970-0ba8-44f7-a2d2-c9a216dace1b.m3u8
+【篮球】NBA 快船 vs 鹈鹕|原声直播2,https://www.rtmpcdn.com/live/35222f23-f8c5-46c1-b802-086027ba3db6.m3u8
 【足球】足球综合 皇家盐湖城 vs 温哥华白浪|线路A2,https://www.rtmpcdn.com/live/8197cfe4-25f8-4e11-86f4-dc2dd415532e.m3u8
 【足球】日足联 FC本田 vs 新宿创造|线路A1,https://www.rtmpcdn.com/live/fdabfe8d-d143-47b3-8993-91e2d84de5cc.m3u8
 【足球】日足联 润梅尔青森 vs VONDS市原|线路A1,https://www.rtmpcdn.com/live/fe54b676-09be-4d07-8480-985959839da6.m3u8
