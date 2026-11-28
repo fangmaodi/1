@@ -1,14 +1,11 @@
-# 88zhibo live, updated 2026-11-28 04:54:43, 13 matches, 17 channels
+# 88zhibo live, updated 2026-11-28 05:14:28, 12 matches, 18 channels
 【篮球】NBA 马刺 vs 湖人|腾讯超清5,https://www.rtmpcdn.com/live/qq5.m3u8
 【篮球】NBA 马刺 vs 湖人|线路A1,https://www.rtmpcdn.com/live/9708676e-06cd-439b-b943-bdfc5d30e828.m3u8
 【篮球】NBA 马刺 vs 湖人|原声直播1,https://www.rtmpcdn.com/live/2138b99b-6aa2-4090-8409-9fe3886e9591.m3u8
-【篮球】NBA 开拓者 vs 勇士|腾讯超清8,https://www.rtmpcdn.com/live/qq8.m3u8
 【篮球】NBA 开拓者 vs 勇士|线路A1,https://www.rtmpcdn.com/live/8997538a-28fa-40eb-a9e9-5d6fbd911e49.m3u8
 【篮球】NBA 开拓者 vs 勇士|原声直播1,https://www.rtmpcdn.com/live/b3865849-e5c7-47be-b546-2bcd9464ddcc.m3u8
-【篮球】NBA 爵士 vs 掘金|腾讯超清6,https://www.rtmpcdn.com/live/qq6.m3u8
 【篮球】NBA 爵士 vs 掘金|线路A1,https://www.rtmpcdn.com/live/6390b62d-d047-4245-8471-8d8e3203c2c0.m3u8
 【篮球】NBA 爵士 vs 掘金|原声直播1,https://www.rtmpcdn.com/live/902e6277-1e42-415b-9637-668a311c65de.m3u8
-【篮球】NBA 快船 vs 鹈鹕|腾讯超清7,https://www.rtmpcdn.com/live/qq7.m3u8
 【篮球】NBA 快船 vs 鹈鹕|线路A1,https://www.rtmpcdn.com/live/299cb8a0-965d-4fee-abea-62fac9d5272d.m3u8
 【篮球】NBA 快船 vs 鹈鹕|原声直播1,https://www.rtmpcdn.com/live/66c91970-0ba8-44f7-a2d2-c9a216dace1b.m3u8
 【篮球】NBA 快船 vs 鹈鹕|原声直播2,https://www.rtmpcdn.com/live/35222f23-f8c5-46c1-b802-086027ba3db6.m3u8
@@ -16,3 +13,7 @@
 【足球】日足联 FC本田 vs 新宿创造|线路A1,https://www.rtmpcdn.com/live/fdabfe8d-d143-47b3-8993-91e2d84de5cc.m3u8
 【足球】日足联 润梅尔青森 vs VONDS市原|线路A1,https://www.rtmpcdn.com/live/fe54b676-09be-4d07-8480-985959839da6.m3u8
 【足球】日足联 横滨体育 vs 三重十四|线路A1,https://www.rtmpcdn.com/live/1be28c03-abe6-4895-9c15-2540522d3658.m3u8
+【足球】K联赛 安养FC vs 济州联|线路A1,https://www.rtmpcdn.com/live/880bcbb8-b0b0-4ed7-a3ad-0dcfa4ec4446.m3u8
+【足球】K联赛 安养FC vs 济州联|线路C4,https://play.aarray.cn/rrty/sd-1-4662799_gqzm.m3u8?auth_key=1795846108-0-0-baf38ffe767c0d74ae64869ea7151010&token=5eba5b45a40814af&device=4&platform=rrty
+【足球】K联赛 首尔FC vs 大田市民|线路A1,https://www.rtmpcdn.com/live/a5546309-237b-4e57-8439-f122051a7307.m3u8
+【足球】K联赛 首尔FC vs 大田市民|线路C4,https://play.aarray.cn/rrty/sd-1-4662800_gqzm.m3u8?auth_key=1795846134-0-0-d0d8112abbe2b06d132ffa502434d6f2&token=54662748a7ca5b4f&device=4&platform=rrty
