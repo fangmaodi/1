@@ -1,12 +1,9 @@
-# 88zhibo live, updated 2026-11-28 05:54:43, 9 matches, 11 channels
-【足球】日足联 FC本田 vs 新宿创造|线路A1,https://www.rtmpcdn.com/live/fdabfe8d-d143-47b3-8993-91e2d84de5cc.m3u8
-【足球】日足联 润梅尔青森 vs VONDS市原|线路A1,https://www.rtmpcdn.com/live/fe54b676-09be-4d07-8480-985959839da6.m3u8
-【足球】日足联 横滨体育 vs 三重十四|线路A1,https://www.rtmpcdn.com/live/1be28c03-abe6-4895-9c15-2540522d3658.m3u8
+# 88zhibo live, updated 2026-11-28 06:21:10, 9 matches, 8 channels
 【足球】韩K联 安养FC vs 济州联|线路A1,https://www.rtmpcdn.com/live/880bcbb8-b0b0-4ed7-a3ad-0dcfa4ec4446.m3u8
-【足球】韩K联 安养FC vs 济州联|线路C4,https://play.aarray.cn/rrty/sd-1-4662799_gqzm.m3u8?auth_key=1795846108-0-0-baf38ffe767c0d74ae64869ea7151010&token=5eba5b45a40814af&device=4&platform=rrty
 【足球】韩K联 安养FC vs 济州联|线路C4,https://play.aarray.cn/rrty/sd-1-4662799_gqzm.m3u8?auth_key=1795846935-0-0-08e30f549394aaabfd3d4d9ef4b402e8&token=c56e3362854c45c3&device=4&platform=rrty
 【足球】日职联 清水心跳 vs 浦和红钻|线路A1,https://www.rtmpcdn.com/live/3cad51bc-41e3-4ba6-81d4-8cab3e9ceeeb.m3u8
 【足球】韩K联 首尔FC vs 大田市民|线路A1,https://www.rtmpcdn.com/live/a5546309-237b-4e57-8439-f122051a7307.m3u8
-【足球】韩K联 首尔FC vs 大田市民|线路C4,https://play.aarray.cn/rrty/sd-1-4662800_gqzm.m3u8?auth_key=1795846134-0-0-d0d8112abbe2b06d132ffa502434d6f2&token=54662748a7ca5b4f&device=4&platform=rrty
 【足球】韩K联 首尔FC vs 大田市民|线路C4,https://play.aarray.cn/rrty/sd-1-4662800_gqzm.m3u8?auth_key=1795846944-0-0-bf60801bad8b3b6291441b5c1820cc77&token=90f3e93de684626a&device=4&platform=rrty
 【足球】日职联 京都不死鸟 vs 大阪樱花|线路A1,https://www.rtmpcdn.com/live/62148944-c55a-438c-a2bc-3669c6ee56f4.m3u8
+【足球】日职联 神户胜利船 vs 千叶市原|线路A1,https://www.rtmpcdn.com/live/927ef5ce-50b0-466f-a653-9440ac3dc229.m3u8
+【足球】日职联 鹿岛鹿角 vs 冈山绿雉|线路A1,https://www.rtmpcdn.com/live/43ab68f1-ab15-4425-9d42-1eea3dc22a83.m3u8
